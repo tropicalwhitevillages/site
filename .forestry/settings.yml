@@ -90,6 +90,11 @@ sections:
   label: Params
   create: all
   match: "*.toml"
+- type: directory
+  path: exampleSite/_default
+  label: More Params
+  create: all
+  match: "*.toml"
 upload_dir: exampleSite/assets/images
 public_path: "/images"
 front_matter_path: ''

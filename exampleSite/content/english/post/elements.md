@@ -1,23 +1,20 @@
 ---
-title: "Elements That You Can Use To Create A New Post On This Template."
-date: 2020-03-15T15:40:24+06:00
-# post thumb
+title: Elements That You Can Use To Create A New Post On This Template.
+date: 2020-03-15T15:40:24.000+06:00
 images:
-  - "images/post/post-6.jpg"
-  - "images/post/post-1.jpg"
-  - "images/post/post-3.jpg"
-#author
-author: "John Doe"
-# description
-description: "This is meta description"
-# Taxonomies
-categories: ["photography"]
-tags: ["photo","image"]
-type: "regular" # available type (regular or featured)
-draft: false
+- "/images/twv_property/property2.jpg"
+- "/images/twv_property/property3.jpg"
+- "/images/twv_property/property4.jpg"
+author: Catarina
+description: This is meta description
+categories:
+- photography
+tags:
+- photo
+- image
+type: regular
+
 ---
-
-
 #### Heading example
 
 Here is example of hedings. You can use this heading by following markdownify rules. For example: use `#` for heading 1 and use `######` for heading 6.

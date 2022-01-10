@@ -85,6 +85,11 @@ sections:
   create: all
   match: "*.toml"
   new_doc_ext: toml
+- type: directory
+  path: ''
+  label: Params
+  create: all
+  match: "*.toml"
 upload_dir: exampleSite/assets/images
 public_path: "/images"
 front_matter_path: ''

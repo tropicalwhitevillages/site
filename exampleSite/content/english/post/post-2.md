@@ -1,15 +1,15 @@
 ---
-title: Cheerful Loving Couple Bakers Drinking Coffee
+title: Beautiful Villa overlooking Almunecar
 date: 2020-03-14T15:40:24.000+06:00
 images:
 - "/images/twv_property/property2.jpg"
 author: Catarina
-description: This is meta description
-categories:
-- Photobooth
+description: Villa overlooking almunecar
+categories: []
 tags:
-- booth
-- image
+- Villa
+- Almunecar
+- Pool
 type: regular
 
 ---

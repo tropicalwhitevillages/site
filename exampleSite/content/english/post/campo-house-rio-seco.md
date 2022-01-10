@@ -2,12 +2,12 @@
 author = "Catarina"
 categories = ["Salobrena"]
 date = 2021-12-23T09:40:24Z
-description = "Townhouse in heart of tropical white village"
+description = "retreat in the countryside"
 draft = true
-images = ["/images/twv_property/property1.jpg"]
+images = ["/images/salobrena.jpg"]
 tags = ["Town", "Mountain Views", "Townhouse"]
 title = "Campo House Rio Seco"
-type = "featured"
+type = "regular"
 
 +++
 It’s no secret that the digital industry is booming. From exciting startups to global brands, companies
@@ -35,7 +35,8 @@ innovate, but balancing commercially and creatively lucrative work is tricky. So
 * Townhouse
 * 3 Bedrooms
 * Mountain Views
-* Covered Rooftop Terrace
+* Garden
+* Shower Room
 * 1 Bathrooms
 
   {{< /tab >}}

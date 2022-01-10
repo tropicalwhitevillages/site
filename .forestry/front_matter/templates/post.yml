@@ -24,3 +24,9 @@ fields:
 - type: list
   name: tags
   label: tags
+- name: type
+  type: text
+  config:
+    required: false
+  label: type
+  default: regular

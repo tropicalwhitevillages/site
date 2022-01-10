@@ -10,7 +10,7 @@ social:
 - icon: fab fa-twitter
   link: https://twitter.com
 - icon: fab fa-instagram
-  link: https://instagram.com
+  link: https://www.instagram.com/tropicalwhitevillages/
 - icon: fab fa-linkedin-in
   link: https://linkedin.com
 

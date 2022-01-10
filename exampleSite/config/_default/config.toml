@@ -1,6 +1,6 @@
 baseURL = "https://demo.gethugothemes.com/logbook/"
 disableLanguages = []
-disqusShortname = "themefisher-template"
+disqusShortname = ""
 googleAnalytics = ""
 paginate = "5"
 summaryLength = "50"

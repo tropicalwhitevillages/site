@@ -24,7 +24,7 @@ link = "plugins/search/search.js"
 link = "plugins/webfont-loader/webfont-loader-2.min.js"
 [params.variables]
 black = "#000"
-body_color = "#000"
+body_color = "#fff"
 border_color = "#ddd"
 color_primary = "#ce8460"
 font_primary = "Open Sans:wght@400"

@@ -33,20 +33,22 @@ innovate, but balancing commercially and creatively lucrative work is tricky. So
 
 {{< tabs >}}
 
-{{< tab "Propery details" >}} 
+{{< tab "Propery details" >}}
 
 * Pool
 * 5 Bedrooms
 * Sea Views
 * Covered Terrace
-* 3 Bathrooms 
+* 3 Bathrooms
 
   {{< /tab >}}
 
-{{< tab "Location" >}} In the heart of Almunecar and only 5 minutes to the beach {{< /tab >}}
+{{< tab "Location" >}}  
+In the heart of Almunecar and only 5 minutes to the beach  
+{{< /tab >}}
 
 {{< tab "Price " >}} £650,000.00 {{< /tab >}}
 
 {{</ tabs >}}
 
-{{< youtube 0SVMaAR5JIU >}}
+{{< youtube 91XE7ZwgE7E >}}

@@ -5,12 +5,11 @@ images:
 - "/images/twv_property/property1.jpg"
 - "/images/twv_property/property4.jpg"
 author: Catarina
-description: This is meta description
-categories:
-- photography
+description: 2 bed Townhouse with rooftop pool
+categories: []
 tags:
-- photo
-- image
+- Almunecar
+- Pool
 type: regular
 
 ---

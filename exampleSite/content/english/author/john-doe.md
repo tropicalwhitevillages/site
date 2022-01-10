@@ -1,5 +1,5 @@
 ---
-title: Catarina
+title: catarina
 image: "/images/catarina.jpeg"
 email: catarina@twv.es
 social:

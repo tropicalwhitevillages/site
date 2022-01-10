@@ -1,7 +1,7 @@
 +++
 author = "Catarina"
 categories = ["Salobrena"]
-date = 2020-03-14T09:40:24Z
+date = 2021-12-23T09:40:24Z
 description = "Townhouse in heart of tropical white village"
 images = ["/images/twv_property/property1.jpg"]
 tags = ["Town", "Mountain Views", "Townhouse"]

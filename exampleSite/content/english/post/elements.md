@@ -1,6 +1,6 @@
 ---
-title: Elements That You Can Use To Create A New Post On This Template.
-date: 2020-03-15T15:40:24.000+06:00
+title: Elements That You Can Use To Create A New Property Post.
+date: 2021-12-31T09:40:24+00:00
 images:
 - "/images/twv_property/property1.jpg"
 - "/images/twv_property/property4.jpg"

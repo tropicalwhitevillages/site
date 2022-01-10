@@ -28,10 +28,10 @@ enable = false
 id = ""
 url = ""
 [metadata]
-author = "Themefisher"
+author = "Tropicaldo"
 description = "This is meta description"
 image = "images/favicon.png"
-keywords = ["Boilerplate", "Hugo", "Themefisher", "GetHugoThemes"]
+keywords = ["Boilerplate", "Hugo", "GetHugoThemes"]
 [plausible]
 domain = ""
 enable = false

@@ -1,20 +1,18 @@
 ---
-title: "Cheerful Loving Couple Bakers Drinking Coffee"
-date: 2020-03-14T15:40:24+06:00
-# post thumb
+title: Cheerful Loving Couple Bakers Drinking Coffee
+date: 2020-03-14T15:40:24.000+06:00
 images:
-  - "images/post/post-4.jpg"
-#author
-author: "John Doe"
-# description
-description: "This is meta description"
-# Taxonomies
-categories: ["four seasone"]
-tags: ["seasone","new"]
-type: "featured" # available type (regular or featured)
-draft: false
----
+- images/post/post-4.jpg
+author: John Doe
+description: This is meta description
+categories:
+- four seasone
+tags:
+- seasone
+- new
+type: regular
 
+---
 It’s no secret that the digital industry is booming. From exciting startups to global brands, companies
 are reaching out to digital agencies, responding to the new possibilities available. However, the industry
 is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least.

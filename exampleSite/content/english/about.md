@@ -1,12 +1,12 @@
 ---
 title: We are Tropical White Villages
-image: images/author-full.jpg
-email: sojonatmail@gmail.com
+image: images/salobrena.jpg
+email: catarina@twv.es
 description: This is meta description
 layout: about
 social:
 - icon: fab fa-facebook
-  link: https://facebook.com
+  link: https://www.facebook.com/tropicalwhitevillages/
 - icon: fab fa-twitter
   link: https://twitter.com
 - icon: fab fa-instagram

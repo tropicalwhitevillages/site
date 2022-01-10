@@ -2,7 +2,7 @@
 title: Elements That You Can Use To Create A New Post On This Template.
 date: 2020-03-15T15:40:24.000+06:00
 images:
-- "/images/post/post-6.jpg"
+- "/images/twv_property/property4.jpg"
 author: Catarina
 description: This is meta description
 categories:

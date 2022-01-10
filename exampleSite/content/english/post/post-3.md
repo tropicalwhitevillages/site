@@ -1,40 +1,17 @@
 ---
-title: "Cheerful Loving Couple Bakers Drinking Coffee"
-date: 2020-03-14T15:40:24+06:00
-# post thumb
+title: Luxury Villa in La Herradura
+date: 2022-01-01T09:40:24+00:00
 images:
-  - "images/post/post-3.jpg"
-#author
-author: "John Doe"
-# description
-description: "This is meta description"
-# Taxonomies
-categories: ["videography"]
-tags: ["video","image"]
-type: "featured" # available type (regular or featured)
-draft: false
+- "/images/twv_property/property3.jpg"
+author: Catarina
+description: Luxury Villa La Herradura
+categories:
+- Costa Tropical
+- La Herradura
+tags:
+- Seaview
+- Pool
+type: featured
+
 ---
-
-It’s no secret that the digital industry is booming. From exciting startups to global brands, companies
-are reaching out to digital agencies, responding to the new possibilities available. However, the industry
-is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least.
-Producing creative, fresh projects is the key to standing out. Unique side projects are the best place to
-innovate, but balancing commercially and creatively lucrative work is tricky. So, this article looks at
-
-It’s no secret that the digital industry is booming. From exciting startups to global brands, companies
-are reaching out to digital agencies, responding to the new possibilities available. However, the industry
-is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least.
-Producing creative, fresh projects is the key to standing out. Unique side projects are the best place to
-innovate, but balancing commercially and creatively lucrative work is tricky. So, this article looks at
-
-It’s no secret that the digital industry is booming. From exciting startups to global brands, companies
-are reaching out to digital agencies, responding to the new possibilities available. However, the industry
-is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least.
-Producing creative, fresh projects is the key to standing out. Unique side projects are the best place to
-innovate, but balancing commercially and creatively lucrative work is tricky. So, this article looks at
-
-It’s no secret that the digital industry is booming. From exciting startups to global brands, companies
-are reaching out to digital agencies, responding to the new possibilities available. However, the industry
-is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least.
-Producing creative, fresh projects is the key to standing out. Unique side projects are the best place to
-innovate, but balancing commercially and creatively lucrative work is tricky. So, this article looks at
+Stunning villa in the beautiful seaside town of La Herradura

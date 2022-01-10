@@ -3,7 +3,6 @@ author = "Catarina"
 categories = ["Salobrena"]
 date = 2021-12-23T09:40:24Z
 description = "retreat in the countryside"
-draft = true
 images = ["/images/salobrena.jpg"]
 tags = ["Town", "Mountain Views", "Townhouse"]
 title = "Campo House Rio Seco"

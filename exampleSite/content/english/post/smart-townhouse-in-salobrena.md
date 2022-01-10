@@ -1,13 +1,13 @@
 +++
 author = "Catarina"
-categories = []
+categories = ["Salobrena"]
 date = 2020-03-14T09:40:24Z
-description = "Villa overlooking almunecar"
+description = "Townhouse in heart of tropical white village"
 draft = true
-images = ["/images/twv_property/property2.jpg"]
-tags = ["Villa", "Almunecar", "Pool"]
+images = ["/images/twv_property/property1.jpg"]
+tags = ["Town", "Mountain Views", "Townhouse"]
 title = "Smart Townhouse in Salobrena"
-type = "regular"
+type = "featured"
 
 +++
 It’s no secret that the digital industry is booming. From exciting startups to global brands, companies
@@ -30,19 +30,19 @@ innovate, but balancing commercially and creatively lucrative work is tricky. So
 
 {{< tabs >}}
 
-{{< tab "Propery details" >}} 
+{{< tab "Propery details" >}}
 
-* Pool
-* 5 Bedrooms
-* Sea Views
-* Covered Terrace
-* 3 Bathrooms 
+* Townhouse
+* 3 Bedrooms
+* Mountain Views
+* Covered Rooftop Terrace
+* 1 Bathrooms
 
   {{< /tab >}}
 
-{{< tab "Location" >}} In the heart of Almunecar and only 5 minutes to the beach {{< /tab >}}
+{{< tab "Location" >}} In the heart of Salobrena and only 5 minutes to the beach {{< /tab >}}
 
-{{< tab "Price " >}} £650,000.00 {{< /tab >}}
+{{< tab "Price " >}} £150,000.00 {{< /tab >}}
 
 {{</ tabs >}}
 

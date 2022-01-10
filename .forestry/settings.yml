@@ -91,7 +91,7 @@ sections:
   create: all
   match: "*.toml"
 - type: directory
-  path: exampleSite/_default
+  path: exampleSite/config/_default
   label: More Params
   create: all
   match: "*.toml"

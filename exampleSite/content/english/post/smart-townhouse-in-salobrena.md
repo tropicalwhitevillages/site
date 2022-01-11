@@ -32,7 +32,7 @@ innovate, but balancing commercially and creatively lucrative work is tricky. So
 {{< tab "Propery details" >}}
 
 * Townhouse
-* 3 Bedrooms
+* 2 Bedrooms
 * Mountain Views
 * Covered Rooftop Terrace
 * 1 Bathrooms

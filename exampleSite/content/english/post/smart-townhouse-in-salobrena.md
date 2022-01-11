@@ -48,9 +48,7 @@ Set over 2 floors this property has living room, separate kitchen two bathrooms 
   <div class="form-group">
     <label>Message: <textarea name="message"></textarea></label>
   </div>
-  <div class="form-group">
     <button type="submit" class="btn btn-primary">Send</button>
-  </div>
 </form> {{< /tab >}}
 
 {{</ tabs >}}

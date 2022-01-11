@@ -31,7 +31,7 @@ Set over 2 floors this property has living room, separate kitchen two bathrooms 
 
 {{< tab "Location" >}} In the heart of Salobrena and only 15 minutes to the beach. {{< /tab >}}
 
-{{< tab "Floor Plan" >}} {{< /tab >}}
+{{< tab "Floor Plan" >}} {{< image src="/images/twv_property/PR1_townhouse/Floorplan.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}} {{< /tab >}}
 
 {{< tab "Virtual tour" >}} {{< youtube 0SVMaAR5JIU >}} {{< /tab >}}
 

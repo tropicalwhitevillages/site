@@ -29,10 +29,12 @@ Set over 2 floors this property has living room, separate kitchen two bathrooms 
 
   {{< /tab >}}
 
-{{< tab "Location" >}} In the heart of Salobrena and only 15 minutes to the beach {{< /tab >}}
+{{< tab "Location" >}} In the heart of Salobrena and only 15 minutes to the beach. {{< /tab >}}
 
-{{< tab "Price " >}} £150,000.00 {{< /tab >}}
+{{< tab "Floor Plan" >}} {{< /tab >}}
+
+{{< tab "Virtual tour" >}} {{< youtube 0SVMaAR5JIU >}} {{< /tab >}}
 
 {{</ tabs >}}
 
-{{< youtube 0SVMaAR5JIU >}}
+

@@ -10,7 +10,8 @@ type = "featured"
 
 +++
 {{< notice "Price" >}}
-  £150,000
+ 
+ £150,000
 {{< /notice >}}
 Stunning traditional townhouse, located in the heart of Salobrena old town. The property is set only 5 min walk from the 15th Century castle walls and has beautiful seaviews from the spacious roof terrace.
 10 mins and you are in the centre of this bustling and traditional spanish town, set in the heart of the Cosa tropical yet still only an hour away from Malaga and the airport.

@@ -40,6 +40,9 @@ Set over 2 floors this property has living room, separate kitchen two bathrooms 
     <label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
   </p>
   <p>
+    <label>Property Ref: <input name="property-ref" value="PR1" readonly/></label>
+  </p>
+  <p>
     <label>Email: <input type="text" name="email" /></label>
   </p>
   <p>

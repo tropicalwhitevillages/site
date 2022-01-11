@@ -3,15 +3,15 @@ author = "Catarina"
 categories = ["Almunecar"]
 date = 2021-12-23T09:40:24Z
 description = "Stunning beachfront apartment"
-images = ["/images/twv_property/property1.jpg","/images/twv_property/PR1_townhouse/PR1Livingroom.jpg","/images/twv_property/PR1_townhouse/PR1bedroom1.jpg","/images/twv_property/PR1_townhouse/PR1Bathroom.jpg","/images/twv_property/PR1_townhouse/PR1Roofterrace.jpg"]
-tags = ["Town", "Mountain Views", "Townhouse"]
+images = ["/images/twv_property/PR4_apartment/PR4Apartmentexterior.jpg","/images/twv_property/PR4_apartment/PR4Balcony.jpg","/images/twv_property/PR4_apartment/PR4Openplan.jpg","/images/twv_property/PR4_apartment/PR4Poolview.jpg"]
+tags = ["Flat", "Sea Views", "Apartment"]
 title = "Stunning beachfront apartment"
 type = "featured"
 
 +++
 {{< notice "price" >}}
  
- £150,000
+ £99,950
 {{< /notice >}}
 Stunning traditional townhouse, located in the heart of Salobrena old town. The property is set only 5 min walk from the 15th Century castle walls and has beautiful seaviews from the spacious roof terrace.
 10 mins and you are in the centre of this bustling and traditional spanish town, set in the heart of the Cosa tropical yet still only an hour away from Malaga and the airport.

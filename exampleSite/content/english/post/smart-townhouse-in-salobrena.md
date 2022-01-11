@@ -36,21 +36,21 @@ Set over 2 floors this property has living room, separate kitchen two bathrooms 
 {{< tab "Virtual tour" >}} {{< youtube 0SVMaAR5JIU >}} {{< /tab >}}
 
 {{< tab "Contact" >}} <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
-  <p class="hidden">
+  <div class="form-group">
     <label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
-  </p>
-  <p>
-    <label>Property Ref: <input name="property-ref" value="PR1" readonly/></label>
-  </p>
-  <p>
-    <label>Email: <input type="text" name="email" /></label>
-  </p>
-  <p>
+  </div>
+  <div class="form-group">
+    <label>Property Ref: <input name="property-ref" class="form-control" value="PR1" readonly/></label>
+  </div>
+  <div class="form-group">
+    <label>Email: <input type="text" class="form-control" name="email" /></label>
+  </div>
+  <div class="form-group">
     <label>Message: <textarea name="message"></textarea></label>
-  </p>
-  <p>
-    <button type="submit">Send</button>
-  </p>
+  </div>
+  <div class="form-group">
+    <button type="submit" class="btn btn-primary">Send</button>
+  </div>
 </form> {{< /tab >}}
 
 {{</ tabs >}}

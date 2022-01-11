@@ -35,6 +35,7 @@ Set over 2 floors this property has living room, separate kitchen two bathrooms 
 
 {{< tab "Virtual tour" >}} {{< youtube 0SVMaAR5JIU >}} {{< /tab >}}
 
+{{< tab "Contact" >}} +34 1234546. {{< /tab >}}
+
 {{</ tabs >}}
 
-{{< tab "Contact" >}} +34 1234546. {{< /tab >}}

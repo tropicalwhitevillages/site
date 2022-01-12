@@ -55,10 +55,10 @@ sections:
 - type: heading
   label: Contact
 - type: document
-  path: exampleSite/content/english/contact/_index.md
+  path: exampleSite/content/english/contact.md
   label: Contact Page (en)
 - type: document
-  path: exampleSite/content/french/contact/_index.md
+  path: exampleSite/content/french/contact.md
   label: Contact Page (fr)
 - type: heading
   label: All Pages

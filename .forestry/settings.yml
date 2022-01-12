@@ -47,10 +47,10 @@ sections:
 - type: heading
   label: About
 - type: document
-  path: exampleSite/content/english/about/_index.md
+  path: exampleSite/content/english/about.md
   label: About Page (en)
 - type: document
-  path: exampleSite/content/french/about/_index.md
+  path: exampleSite/content/french/about.md
   label: About Page (fr)
 - type: heading
   label: Contact

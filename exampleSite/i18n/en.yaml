@@ -3,7 +3,7 @@
   translation: View Property
 - id: search_placeholder
   translation: Type & Hit Enter...
-- id: latest_article
+- id: latest_property
   translation: Latest Property
 - id: categories
   translation: Categories

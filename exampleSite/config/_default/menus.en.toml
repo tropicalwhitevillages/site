@@ -19,51 +19,6 @@ hasChildren = false
 name = "Home"
 weight = 1
 [[main]]
-name = "Homepage Full Width"
-parent = "homepage"
-url = "homepage/full/"
-weight = 1
-[[main]]
-name = "Homepage Full With Left Sidebar"
-parent = "homepage"
-url = "homepage/full-left/"
-weight = 2
-[[main]]
-name = "Homepage Full With Right Sidebar"
-parent = "homepage"
-url = "homepage/full-right/"
-weight = 3
-[[main]]
-name = "Homepage List Style"
-parent = "homepage"
-url = "homepage/list/"
-weight = 4
-[[main]]
-name = "Homepage List With Left Sidebar"
-parent = "homepage"
-url = "homepage/list-left/"
-weight = 5
-[[main]]
-name = "Homepage List With Right Sidebar"
-parent = "homepage"
-url = "homepage/list-right/"
-weight = 6
-[[main]]
-name = "Homepage Grid Style"
-parent = "homepage"
-url = "homepage/grid/"
-weight = 7
-[[main]]
-name = "Homepage Grid With Left Sidebar"
-parent = "homepage"
-url = "homepage/grid-left/"
-weight = 8
-[[main]]
-name = "Homepage Grid With Right Sidebar"
-parent = "homepage"
-url = "homepage/grid-right/"
-weight = 9
-[[main]]
 name = "About"
 url = "about"
 weight = 2

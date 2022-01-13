@@ -33,6 +33,10 @@ Set over 2 floors this property has living room, separate kitchen two bathrooms 
 
 {{< tab "Virtual tour" >}} {{< youtube 0SVMaAR5JIU >}} {{< /tab >}}
 
+{{</ tabs >}}
+
+{{< tabs >}}
+
 {{< tab "Location" >}} In the heart of Salobrena and only 15 minutes to the beach. {{< /tab >}}
 
 {{< tab "Contact" >}} <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">

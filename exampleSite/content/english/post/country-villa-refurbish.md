@@ -3,29 +3,27 @@ author = "Catarina"
 categories = ["Salobrena"]
 date = 2021-12-23T09:40:24Z
 description = "Large Rural Villa for renovation"
-images = ["/images/twv_property/property1.jpg", "/images/twv_property/PR1_townhouse/PR1Livingroom.jpg", "/images/twv_property/PR1_townhouse/PR1bedroom1.jpg", "/images/twv_property/PR1_townhouse/PR1Bathroom.jpg", "/images/twv_property/PR1_townhouse/PR1Roofterrace.jpg"]
-tags = ["Countryside", "Mountain Views","Refurbish", "Villa"]
+images = ["/images/exterior-ruin.jpg", "/images/project-view-1.jpg"]
+tags = ["Countryside", "Mountain Views", "Refurbish", "Villa"]
 title = "Large rural Villa to refurbish"
 type = "featured"
 
 +++
 {{< notice "forsale" >}}
 
-£17,000
-{{< /notice >}}
-Stunning traditional townhouse, located in the heart of Salobrena old town. The property is set only 5 min walk from the 15th Century castle walls and has beautiful seaviews from the spacious roof terrace.
-10 mins and you are in the centre of this bustling and traditional spanish town, set in the heart of the Cosa tropical yet still only an hour away from Malaga and the airport.
-Set over 2 floors this property has living room, separate kitchen two bathrooms and two bedrooms
+£17,000 {{< /notice >}} Fantastic opportunity to create the home of your dreams in a tranquill setting and yet only 10 min drive to the coastal resorts of Almunecar and Salobrena. 1400 acres of fruit trees and olives and a potential build area of 450 square metres. Planning already approved
 
 {{< tabs >}}
 
 {{< tab "Details" >}}
 
-* Townhouse
-* 2 Bedrooms
+* Ruin
+* 6 Bedrooms
 * Mountain Views
 * Covered Rooftop Terrace
-* 2 Bathrooms
+* 4 Bathrooms
+* 1400 acres of mature farmland
+* possible build of 450sqm
 
   {{< /tab >}}
 
@@ -37,7 +35,9 @@ Set over 2 floors this property has living room, separate kitchen two bathrooms 
 
 {{< tabs >}}
 
-{{< tab "Location" >}} In the heart of Salobrena and only 15 minutes to the beach. {{< /tab >}}
+{{< tab "Location" >}} Set in the countryside just north of Salobrena and Almunecar, 10/15 min drive to the coast
+
+1 hour and 40 min from Malaga airport {{< /tab >}}
 
 {{< tab "Contact" >}} <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
 <div class="form-group">

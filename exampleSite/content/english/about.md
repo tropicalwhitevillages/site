@@ -15,15 +15,11 @@ social:
   link: https://linkedin.com
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi, posuere ultrices tempus. Feugiat consequat suspendisse laoreet vitae enim adipiscing cursus. Duis nunc vitae tincidunt sed nibh id. Egestas erat consequat, ornare etiam donec faucibus. Lorem ut enim nunc, senectus adipiscing sed. Lobortis commodo aliquet pulvinar molestie faucibus diam. Semper porttitor, et dictum 
-
-Faucibus duis urna, consequat morbi imperdiet pulvinar. Mauris vitae sed aliquet eu tincidunt id. Nulla leo eget erat vel pharetra. Morbi nullam morbi non purus, augue. Massa cras odio ante cursus a mauris. Volutpat faucibus feugiat feugiat euismod congue ridiculus. Et ipsum euismod nulla et aenean diam duis. Sem molestie est mauris sit. Et eleifend odio 
-
-{{< quote by="John Doe" >}}
-Life is a series of natural and spontaneous changes. Don’t resist them – that only create sorrow. Let reality changes be reality. Let things flow naturally way they like.
-{{</ quote >}}
-
-<hr>
+    Buy, sell and rent properties in the Costa Tropical, 
+    Costa del Sol area.
+    Sale of houses, apartments on the coast and in the mountains.
+    We help you buy and sell properties and everything that needs
+    to be done before and after.<hr>
 
 #### My Skills & Experiences:
 

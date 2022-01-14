@@ -22,5 +22,12 @@ Extensive experience in the sale of apartments, houses and estates across the en
 #### My Skills & Experiences:
 
 {{< image src="/images/catarina.jpeg" caption="" alt="alter-text" height="200" width="200" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
+# Table :
+| #           | First             | Last              | Handle  |
+| :-----------: | :-------------:     |:-------------:    | :-----:|
+| **1**      | Row:1 Cell:1      | Row:1 Cell:2      | Row:1 Cell:3 |
+| **2**      | Row:2 Cell:1      | Row:2 Cell:2      |   Row:2 Cell:3 |
+| **3**      | Row:3 Cell:1      | Row:3 Cell:2      |    Row:3 Cell:3 |
+
 
 With over 20 years experience in Estate Agency and consultation. I can guide you through the steps when purchasing in Spain. Over the years I have created an established network of contacts throughout the entire purchasing process to ensure we deliver a smooth and efficient service and ensuring peace of mind at every stage of your purchase. We are fluent in English, Spanish and Swedish. and have access to professional interpreters to ensure the smooth transition to your new home.

@@ -21,4 +21,4 @@ Extensive experience in the sale of apartments, houses and estates across the en
 
 #### My Skills & Experiences:
 
-With over 20 years experience in Estate Agency and consultation. I can guide you through the steps when purchasing in Spain. Over the years I have created an established network of contacts throughout the entire process of the purchasing process to ensure we deliver a smooth and efficient service and ensuring peace of mind at every stage of your purchase. We are fluent in English, Spanish and Swedish. and have access to professional interpreters to ensure the smooth transition to your new home.
+With over 20 years experience in Estate Agency and consultation. I can guide you through the steps when purchasing in Spain. Over the years I have created an established network of contacts throughout the entire purchasing process to ensure we deliver a smooth and efficient service and ensuring peace of mind at every stage of your purchase. We are fluent in English, Spanish and Swedish. and have access to professional interpreters to ensure the smooth transition to your new home.

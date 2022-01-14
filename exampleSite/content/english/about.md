@@ -15,18 +15,10 @@ social:
   link: https://linkedin.com
 
 ---
-    Buy, sell and rent properties in the Costa Tropical, 
-    Costa del Sol area.
-    Sale of houses, apartments on the coast and in the mountains.
-    We help you buy and sell properties and everything that needs
-    to be done before and after.<hr>
+Tropical white villages is a real estate agency located in the heart of the Costa Tropical in the stunning coastal town of Salobrena.
+
+Extensive experience in the sale of apartments, houses and estates across the entire Granada region, we can provide complete support through the entire process of purchasing your dream home in this stunning region.
 
 #### My Skills & Experiences:
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cumto sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec.
-
-* In enim justo, rhoncus ut,
-* Curabitur ullamcorper ultricies
-* Donec vitae sapien utlorem
-
-Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.
+With over 20 years experience in Estate Agency and consultation. I can guide you through the steps when purchasing in Spain. Over the years I have created an established network of contacts throughout the entire process of the purchasing process to ensure we deliver a smooth and efficient service and ensuring peace of mind at every stage of your purchase. We are fluent in English, Spanish and Swedish. and have access to professional interpreters to ensure the smooth transition to your new home.

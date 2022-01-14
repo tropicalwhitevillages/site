@@ -39,20 +39,6 @@ type = "featured"
 
 1 hour and 40 min from Malaga airport {{< /tab >}}
 
-{{< tab "Contact" >}} <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
-<div class="form-group">
-<label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
-</div>
-<div class="form-group">
-<label>Property Ref: <input name="property-ref" class="form-control" value="PR1" readonly/></label>
-</div>
-<div class="form-group">
-<label>Email: <input type="text" class="form-control" name="email" /></label>
-</div>
-<div class="form-group">
-<label>Message:</label> <textarea name="message" class="form-control"></textarea>
-</div>
-<button type="submit" class="btn btn-primary">Send</button>
-</form> {{< /tab >}}
+{{< tab "Contact" >}} <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true"> <div class="form-group"> <label>Don’t fill this out if you’re human: <input name="bot-field" /></label> </div> <div class="form-group"> <label>Property Ref: <input name="property-ref" class="form-control" value="PR2" readonly/></label> </div> <div class="form-group"> <label>Email: <input type="text" class="form-control" name="email" /></label> </div> <div class="form-group"> <label>Message:</label> <textarea name="message" class="form-control"></textarea> </div> <button type="submit" class="btn btn-primary">Send</button> </form> {{< /tab >}}
 
 {{</ tabs >}}

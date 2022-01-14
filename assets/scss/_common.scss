@@ -358,16 +358,6 @@ a:hover {
     margin-bottom: 0;
   }
 
-  .notices p::before {
-    position: absolute;
-    top: 2px;
-    color: $white;
-    font-family: $icon-font;
-    font-weight: 900;
-    content: "\f05a";
-    left: 0.62rem;
-  }
-
   .notices.note p {
     border-top: 30px solid #6ab0de;
     background: $light;

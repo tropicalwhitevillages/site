@@ -381,18 +381,18 @@ a:hover {
     left: 2rem;
   }
 
-  .notices.price p {
+  .notices.forsale p {
     border-top: 30px solid #6ab0de;
     background: $light;
   }
 
-  .notices.price p::after {
-    content: 'Price';
+  .notices.forsale p::after {
+    content: 'For Sale';
     position: absolute;
     top: 2px;
     color: $white;
     left: 2rem;
-  }v
+  }
 
 
   .notices.tip p {

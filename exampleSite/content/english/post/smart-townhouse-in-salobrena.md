@@ -9,7 +9,7 @@ title = "Smart Townhouse in Salobrena"
 type = "featured"
 
 +++
-{{< notice "For Sale" >}}
+{{< notice "forsale" >}}
 
 £150,000
 {{< /notice >}}

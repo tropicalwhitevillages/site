@@ -61,17 +61,13 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 sidebar = ["search", "recent-post", "about-me", "subscription", "categories", "tags", "social"]
 [[social]]
 icon = "fab fa-facebook"
-link = "#"
+link = "https://www.facebook.com/tropicalwhitevillages/"
 name = "facebook"
 [[social]]
 icon = "fab fa-twitter"
 link = "#"
 name = "twitter"
 [[social]]
-icon = "fab fa-linkedin-in"
-link = "#"
+icon = "fab fa-instagram-in"
+link = "https://www.instagram.com/tropicalwhitevillages/"
 name = "linkedin"
-[[social]]
-icon = "fab fa-github"
-link = "#"
-name = "github"

@@ -2,7 +2,7 @@
 author = "Catarina"
 categories = ["Salobrena"]
 date = 2021-12-23T09:40:24Z
-description = "Village House in La Caleta"
+description = "Village House in La Caleta - tropical white villages estate agents"
 images = ["/images/twv_property/pr6_internal.jpg"]
 tags = ["Town", "Sea Views", "Townhouse"]
 title = "Quaint village house in La Caleta"

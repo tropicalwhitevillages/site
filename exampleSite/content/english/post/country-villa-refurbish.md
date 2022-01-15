@@ -2,7 +2,7 @@
 author = "Catarina"
 categories = ["Salobrena"]
 date = 2021-12-23T09:40:24Z
-description = "Large Rural Villa for renovation"
+description = "Large Rural Villa for renovation - tropical white villages estate agents"
 images = ["/images/project-view-1.jpg", "/images/exterior-ruin.jpg"]
 tags = ["Countryside", "Mountain Views", "Refurbish", "Villa"]
 title = "Large rural Villa to refurbish"

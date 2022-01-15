@@ -9,7 +9,7 @@ title = "Stunning beachfront apartment"
 type = "featured"
 
 +++
-{{< notice "price" >}}
+{{< notice "forsale" >}}
  
  £99,950
 {{< /notice >}}

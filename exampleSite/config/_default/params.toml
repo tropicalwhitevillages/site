@@ -68,6 +68,6 @@ icon = "fab fa-twitter"
 link = "#"
 name = "twitter"
 [[social]]
-icon = "fab fa-instagram-in"
+icon = "fab fa-instagram"
 link = "https://www.instagram.com/tropicalwhitevillages/"
 name = "linkedin"

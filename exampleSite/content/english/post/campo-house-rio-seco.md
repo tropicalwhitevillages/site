@@ -2,7 +2,7 @@
 author = "Catarina"
 categories = ["Salobrena"]
 date = 2020-01-06T09:40:24Z
-description = "retreat in the countryside"
+description = "retreat in the countryside - tropical white villages estate agents"
 images = ["/images/twv_property/pr6_internal.jpg"]
 tags = ["Town", "Mountain Views", "Townhouse"]
 title = "Campo House Rio Seco"

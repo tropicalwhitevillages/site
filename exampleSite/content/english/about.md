@@ -11,8 +11,6 @@ social:
   link: https://twitter.com
 - icon: fab fa-instagram
   link: https://www.instagram.com/tropicalwhitevillages/
-- icon: fab fa-linkedin-in
-  link: https://linkedin.com
 
 ---
 Tropical white villages is a real estate agency located in the heart of the Costa Tropical in the stunning coastal town of Salobrena.

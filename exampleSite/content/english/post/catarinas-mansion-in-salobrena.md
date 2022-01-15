@@ -1,7 +1,7 @@
 +++
 author = "Catarina"
 categories = ["Salobrena"]
-date = 2021-12-23T09:40:24Z
+date = 2022-01-15T09:40:24Z
 description = "Cararinas mansion - tropical white villages estate agents"
 images = ["/images/twv_property/property3.jpg"]
 tags = ["Garden", "Mansion", "Villa"]

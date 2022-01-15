@@ -27,7 +27,9 @@ Set over 2 floors this property has living room, separate kitchen two bathrooms 
 * Covered Rooftop Terrace
 * 2 Bathrooms
 
-  {{< /tab >}}
+  
+{{< /tab >}}
+
 
   {{< tab "Floor Plan" >}} {{< image src="/images/twv_property/PR1_townhouse/Floorplan.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}} {{< /tab >}}
 

@@ -3,13 +3,13 @@ author = "Catarina"
 categories = ["Salobrena"]
 date = 2021-12-23T09:40:24Z
 description = "Village House in La Caleta"
-images = ["/images/twv_property/property1.jpg", "/images/twv_property/PR1_townhouse/PR1Livingroom.jpg", "/images/twv_property/PR1_townhouse/PR1bedroom1.jpg", "/images/twv_property/PR1_townhouse/PR1Bathroom.jpg", "/images/twv_property/PR1_townhouse/PR1Roofterrace.jpg"]
+images = []
 tags = ["Town", "Sea Views", "Townhouse"]
 title = "Quaint village house in La Caleta"
 type = "standard"
 
 +++
-{{< notice "forsale" >}}
+{{< notice "reduced" >}}
 
 £64,000
 {{< /notice >}}

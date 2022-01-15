@@ -1,7 +1,7 @@
 ---
 title: Catarina
 image: "/images/catarina.jpeg"
-email: catarina@twv.es
+email: catarina@tropicalwhitevillage.com
 social:
 - icon: fab fa-facebook
   link: https://www.facebook.com/tropicalwhitevillages/

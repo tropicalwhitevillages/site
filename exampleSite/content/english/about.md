@@ -1,7 +1,7 @@
 ---
 title: We are Tropical White Villages
 image: images/salobrena.jpg
-email: catarina@twv.es
+email: catarina@tropicalwhitevillage.com
 description: This is meta description
 layout: about
 social:

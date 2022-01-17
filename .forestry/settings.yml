@@ -80,12 +80,6 @@ sections:
   create: documents
   match: "**/*"
 - type: directory
-  path: /
-  label: Configuration
-  create: all
-  match: "*.toml"
-  new_doc_ext: toml
-- type: directory
   path: ''
   label: Params
   create: all

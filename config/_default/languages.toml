@@ -1,5 +1,5 @@
 ################################### English language #####################################
-[Languages.en]
+[en]
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
@@ -12,7 +12,7 @@ copyright = "Design By [Tropicaldo](https://tropicaldo.com/) Develop By [Tropica
 
 
 ################################### French language #####################################
-[Languages.fr]
+[fr]
 languageName = "Fr"
 languageCode = "fr-fr"
 contentDir = "content/french"
@@ -24,7 +24,7 @@ footer_content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed d
 copyright = "Design By [Tropicaldo](https://Tropicaldo.com/) Develop By [Tropicaldo](https://Tropicaldo.com/)"
 
 ################################### Spanish language #####################################
-[Languages.es]
+[es]
 languageName = "Es"
 languageCode = "es-es"
 contentDir = "content/spanish"

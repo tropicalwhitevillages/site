@@ -1,10 +1,10 @@
-baseURL = "https://demo.gethugothemes.com/logbook/"
+baseURL = "/"
 disableLanguages = []
 disqusShortname = ""
 googleAnalytics = ""
 paginate = "5"
 summaryLength = "50"
-theme = "logbook"
+theme = ""
 title = "Tropical White Villages | Estate Agent"
 [caches.assets]
 dir = ":resourceDir/_gen"

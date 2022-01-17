@@ -7,13 +7,13 @@ sections:
 - type: heading
   label: Blog Post
 - type: document
-  path: exampleSite/content/english/post/_index.md
+  path: content/english/post/_index.md
   label: Blog Page (en)
 - type: document
-  path: exampleSite/content/french/post/_index.md
+  path: content/french/post/_index.md
   label: Blog Page (fr)
 - type: directory
-  path: exampleSite/content/english/post
+  path: content/english/post
   label: Post (en)
   create: documents
   match: "**/*"
@@ -21,7 +21,7 @@ sections:
   templates:
   - post
 - type: directory
-  path: exampleSite/content/french/post
+  path: content/french/post
   label: Post (fr)
   create: documents
   match: "**/*"
@@ -31,14 +31,14 @@ sections:
 - type: heading
   label: Author
 - type: directory
-  path: exampleSite/content/english/author
+  path: content/english/author
   label: Author (en)
   create: documents
   match: "**/*"
   templates:
   - author
 - type: directory
-  path: exampleSite/content/french/author
+  path: content/french/author
   label: Author (fr)
   create: documents
   match: "**/*"
@@ -47,40 +47,40 @@ sections:
 - type: heading
   label: About
 - type: document
-  path: exampleSite/content/english/about.md
+  path: content/english/about.md
   label: About Page (en)
 - type: document
-  path: exampleSite/content/french/about.md
+  path: content/french/about.md
   label: About Page (fr)
 - type: heading
   label: Contact
 - type: document
-  path: exampleSite/content/english/contact.md
+  path: content/english/contact.md
   label: Contact Page (en)
 - type: document
-  path: exampleSite/content/french/contact.md
+  path: content/french/contact.md
   label: Contact Page (fr)
 - type: heading
   label: All Pages
 - type: directory
-  path: exampleSite/content/english
+  path: content/english
   label: All Page (en)
   create: all
   match: "**/*"
 - type: directory
-  path: exampleSite/content/french
+  path: content/french
   label: All Page (fr)
   create: all
   match: "**/*"
 - type: heading
   label: Configuration
 - type: directory
-  path: exampleSite/i18n
+  path: i18n
   label: i18n Translations
   create: documents
   match: "**/*"
 - type: directory
-  path: exampleSite
+  path: /
   label: Configuration
   create: all
   match: "*.toml"
@@ -91,11 +91,11 @@ sections:
   create: all
   match: "*.toml"
 - type: directory
-  path: exampleSite/config/_default
+  path: config/_default
   label: More Params
   create: all
   match: "*.toml"
-upload_dir: exampleSite/assets/images
+upload_dir: assets/images
 public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: false

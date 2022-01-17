@@ -4,7 +4,7 @@ disqusShortname = ""
 googleAnalytics = ""
 paginate = "5"
 summaryLength = "50"
-theme = ""
+theme = "hello"
 title = "Tropical White Villages | Estate Agent"
 [caches.assets]
 dir = ":resourceDir/_gen"

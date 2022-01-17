@@ -1,6 +1,6 @@
 ---
 title: We are Tropical White Villages
-image: "images/salobrena.jpg"
+image: images/salobrena.jpg
 email: catarina@tropicalwhitevillage.com
 description: Costa Tropical Property Estate Agents
 layout: about

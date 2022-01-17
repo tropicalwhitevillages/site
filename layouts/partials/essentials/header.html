@@ -37,10 +37,10 @@
         {{ if .IsTranslated }}
         <select class="m-2 border-0" id="select-language" onchange="location = this.value;">
           {{ $siteLanguages := site.Languages}}
-          {{ $pageLang := .Page.Lang}}
+          {{ $pageLang := .Page.Lang}}aa
           {{ range .Page.AllTranslations }}
           {{ $translation := .}}
-          {{ range $siteLanguages }}
+          {{ range $siteLanguages }}bb
           {{ if eq $translation.Lang .Lang }}
           {{ $selected := false }}
           {{ if eq $pageLang .Lang}}

@@ -29,9 +29,9 @@ id = ""
 url = ""
 [metadata]
 author = "Tropicaldo"
-description = "This is meta description"
+description = "IT services throughout the costa tropical"
 image = "images/favicon.png"
-keywords = ["Boilerplate", "Hugo", "GetHugoThemes"]
+keywords = ["IT", "website", "design"]
 [plausible]
 domain = ""
 enable = false

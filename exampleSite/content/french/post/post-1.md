@@ -10,7 +10,7 @@ author: "John Doe"
 description: "This is meta description"
 # Taxonomies
 categories: ["photography"]
-tags: ["photo","image"]
+tags: ["oui","image"]
 type: "regular" # available type (regular or featured)
 draft: false
 ---

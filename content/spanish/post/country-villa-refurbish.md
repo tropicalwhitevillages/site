@@ -6,6 +6,7 @@ description = "Large Rural Villa for renovation - tropical white villages estate
 images = ["/images/project-view-1.jpg", "/images/exterior-ruin.jpg"]
 tags = ["Countryside", "Mountain Views", "Refurbish", "Villa"]
 title = "Large rural Villa to refurbish"
+image = "/images/project-view-1.jpg"
 type = "featured"
 
 +++

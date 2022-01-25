@@ -43,6 +43,7 @@ function executeSearch(searchQuery) {
     var result = fuse.search(searchQuery);
 
     console.log({"matches":result});
+    console.log({"index":indexURL});
     if (result.length > 0) {
       populateResults(result);
     } else {

@@ -7,8 +7,8 @@ var fuseOptions = {
   findAllMatches: false,
   minMatchCharLength: 1,
   location: 0,
-  threshold: 0.0,
-  distance: 100,
+  threshold: 0.5,
+  distance: 50,
   useExtendedSearch: false,
   ignoreLocation: false,
   ignoreFieldNorm: false,
@@ -18,15 +18,15 @@ var fuseOptions = {
     },
     {
       name: "tags",
-      weight: 0.3
+      weight: 0.5
     },
     {
       name: "categories",
-      weight: 0.3
+      weight: 0.5
     },
     {
       name: "contents",
-      weight: 0.5
+      weight: 0.3
     }
   ]
 };

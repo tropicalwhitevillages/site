@@ -31,7 +31,21 @@ var fuseOptions = {
   ]
 };
 
-var searchQuery = param("s");
+var searchQueryS = param("s");
+var searchQueryP = param("p");
+var searchQuerySV = param("sv");
+var searchQueryG = param("g");
+var searchQuery = searchQueryS;
+if (searchQueryP != '') {
+  searchQuery = searchQuery + ' ' + searchQueryP;
+};
+if (searchQuerySV != '') {
+  searchQuery = searchQuery + ' ' + searchQuerySV;
+};
+if (searchQueryG != '') {
+  searchQuery = searchQuery + ' ' + searchQueryG;
+}; 
+console.log('searchQuery ' + searchQuery);
 if (searchQuery) {
   $("#search-query").val(searchQuery);
   executeSearch(searchQuery);

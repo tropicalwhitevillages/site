@@ -3,6 +3,11 @@
 <div class="widget">
   <h5 class="widget-title"><span>{{ i18n "search" }}</span></h5>
   <form action="{{ `search`| relLangURL }}" class="widget-search">
+    Pool:<input id="pool-field" name="p" type="checkbox" value="pool" class="form-control" aria-label="pool-query">
+
+    Sea View:<input id="pool-field" name="sv" type="checkbox" value="seaview" class="form-control" aria-label="seaview-query">
+
+    Garden:<input id="pool-field" name="g" type="checkbox" value="garden" class="form-control" aria-label="garden-query">
     <input id="search-query" name="s" type="search" placeholder="{{ i18n `search_placeholder`}}">
     <button type="submit" class="btn btn-primary" aria-label="Search Post"><i class="fas fa-search"></i></button>
   </form>

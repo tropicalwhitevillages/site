@@ -5,10 +5,10 @@ var fuseOptions = {
   shouldSort: true,
   includeMatches: true,
   findAllMatches: false,
-  minMatchCharLength: 3,
+  minMatchCharLength: 1,
   location: 0,
-  threshold: 0.5,
-  distance: 50,
+  threshold: 0.0,
+  distance: 100,
   useExtendedSearch: false,
   ignoreLocation: false,
   ignoreFieldNorm: false,
@@ -18,15 +18,15 @@ var fuseOptions = {
     },
     {
       name: "tags",
-      weight: 0.5
+      weight: 0.3
     },
     {
       name: "categories",
-      weight: 0.5
+      weight: 0.3
     },
     {
       name: "contents",
-      weight: 0.3
+      weight: 0.5
     }
   ]
 };

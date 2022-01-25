@@ -7,7 +7,7 @@ var fuseOptions = {
   findAllMatches: false,
   minMatchCharLength: 1,
   location: 0,
-  threshold: 0.5,
+  threshold: 0.4,
   distance: 50,
   useExtendedSearch: false,
   ignoreLocation: false,

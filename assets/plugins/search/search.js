@@ -8,8 +8,8 @@ var fuseOptions = {
   useExtendedSearch: true,
   minMatchCharLength: 3,
   location: 0,
-  threshold: 0.4,
-  distance: 50,
+  threshold: 0.0,
+  distance: 100,
   ignoreLocation: false,
   ignoreFieldNorm: false,
   keys: [{

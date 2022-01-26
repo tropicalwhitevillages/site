@@ -13,7 +13,7 @@
               keyword = keyword.replace(/\&s=/g, " ");
               keyword = keyword.replace(/\&g=/g, " ");
               var result = keyword.replace(/\+/g, " ");
-              document.write(result);
+              document.write(decodeURI(result));
             </script>
             </span>
           </h1>

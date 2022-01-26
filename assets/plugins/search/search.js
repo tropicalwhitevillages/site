@@ -7,9 +7,8 @@ var fuseOptions = {
   findAllMatches: false,
   useExtendedSearch: true,
   minMatchCharLength: 5,
-  location: 5,
-  threshold: 0.0,
-  distance: 20,
+  location: 99999999,
+  threshold: 0.01,
   ignoreLocation: false,
   ignoreFieldNorm: false,
   keys: [{

@@ -32,6 +32,9 @@ var fuseOptions = {
 };
 
 var searchQueryS = param("s");
+if (searchQueryS != '') {
+  searchQueryS = '\'' + searchQueryS;
+};
 var searchQueryP = param("p");
 var searchQuerySV = param("sv");
 var searchQueryG = param("g");

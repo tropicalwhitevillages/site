@@ -45,15 +45,15 @@ Set over 2 floors this property has living room, separate kitchen two bathrooms 
 <label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
 </div>
 <div class="form-group">
-<label>Property Ref: <input name="property-ref" class="form-control" value="PR1" readonly/></label>
+<label>Ref: <input name="property-ref" class="form-control" value="PR1" readonly/></label>
 </div>
 <div class="form-group">
-<label>Email: <input type="text" class="form-control" name="email" /></label>
+<label>{{ i18n "email" }}<input type="text" class="form-control" name="email" /></label>
 </div>
 <div class="form-group">
-<label>Message:</label> <textarea name="message" class="form-control"></textarea>
+<label>{{ i18n "email" }}</label> <textarea name="message" class="form-control"></textarea>
 </div>
-<button type="submit" class="btn btn-primary">Send</button>
+<button type="submit" class="btn btn-primary">{{ i18n "send" }}</button>
 </form> {{< /tab >}}
 
 {{</ tabs >}}

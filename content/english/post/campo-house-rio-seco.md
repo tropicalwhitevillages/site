@@ -13,23 +13,17 @@ type = "regular"
 
 £650,000 {{< /notice >}}
 
-It’s no secret that the digital industry is booming. From exciting startups to global brands, companies
-are reaching out to digital agencies, responding to the new possibilities available. However, the industry
-is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least.
-Producing creative, fresh projects is the key to standing out. Unique side projects are the best place to
-innovate, but balancing commercially and creatively lucrative work is tricky. So, this article looks at
+Prepare to be impressed when you enter this superbly maintained and presented home set on a sprawling 1/2 acre parcel of land occupying a peaceful street position.
 
-It’s no secret that the digital industry is booming. From exciting startups to global brands, companies
-are reaching out to digital agencies, responding to the new possibilities available. However, the industry
-is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least.
-Producing creative, fresh projects is the key to standing out. Unique side projects are the best place to
-innovate, but balancing commercially and creatively lucrative work is tricky. So, this article looks at
+Constructed over two levels, this home enjoys abundant natural light and a layout designed for easy living and entertaining. 
 
-It’s no secret that the digital industry is booming. From exciting startups to global brands, companies
-are reaching out to digital agencies, responding to the new possibilities available. However, the industry
-is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least.
-Producing creative, fresh projects is the key to standing out. Unique side projects are the best place to
-innovate, but balancing commercially and creatively lucrative work is tricky. So, this article looks at
+The ground floor incorporates a generously proportioned kitchen, welcoming living and dining room, guest powder room and laundry.  The living room’s fireplace provides comfort and warmth in the wintertime and the courtyard garden brings year-round delight. 
+
+Upstairs, you will find three dreamy bedrooms, a den, and a family-sized bathroom.  The master bedroom suite with walk-in closet, ensuite bathroom and adjoining balcony encourages relaxation.
+
+Other highlights of the property include central air, polished hardwood floors, quality fittings & fixtures and plentiful storage.
+
+With transport, schools, shops, dining & leisure facilities within easy reach, this is the ideal place to call home. Be prepared for this to be ‘love at first sight’.
 
 {{< tabs >}}
 

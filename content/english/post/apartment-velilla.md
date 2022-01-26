@@ -35,6 +35,20 @@ Set over 2 floors this property has living room, separate kitchen two bathrooms 
 
 {{< tab "Virtual tour" >}} {{< youtube 0SVMaAR5JIU >}} {{< /tab >}}
 
-{{< tab "Contact" >}} +34 1234546. {{< /tab >}}
+{{< tab "Contact" >}} <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+<div class="form-group">
+<label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
+</div>
+<div class="form-group">
+<label>Ref: <input name="property-ref" class="form-control" value="PR1" readonly/></label>
+</div>
+<div class="form-group">
+<label>{{ i18n "email" }}<input type="text" class="form-control" name="email" /></label>
+</div>
+<div class="form-group">
+<label>{{ i18n "email" }}</label> <textarea name="message" class="form-control"></textarea>
+</div>
+<button type="submit" class="btn btn-primary">{{ i18n "send" }}</button>
+</form> {{< /tab >}}
 
 {{</ tabs >}}

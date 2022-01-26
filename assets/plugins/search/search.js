@@ -33,7 +33,7 @@ var fuseOptions = {
 var searchQuery = '';
 searchQuery = addToQuery(searchQuery, param("s"));
 searchQuery = addToQuery(searchQuery, param("p"));
-searchQuery = addToQuery(searchQuery, param("sv"));
+searchQuery = addToQuery(searchQuery, param("v"));
 searchQuery = addToQuery(searchQuery, param("g"));
 
 console.log('searchQuery ' + searchQuery);

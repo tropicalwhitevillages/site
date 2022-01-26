@@ -49,3 +49,9 @@
   translation: Seaview
 - id: garden
   translation: Garden
+- id: property_search
+  translation: Property criteria
+- id: price_search
+  translation: Price criteria
+- id: town_search
+  translation: Town features

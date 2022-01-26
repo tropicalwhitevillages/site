@@ -31,13 +31,16 @@ var fuseOptions = {
 };
 
 var searchQuery = '';
-searchQuery = addToQuery(searchQuery, param("s"));
-searchQuery = addToQuery(searchQuery, param("p"));
-searchQuery = addToQuery(searchQuery, param("v"));
-searchQuery = addToQuery(searchQuery, param("g"));
-searchQuery = addToQuery(searchQuery, param("a"));
-searchQuery = addToQuery(searchQuery, param("b"));
-searchQuery = addToQuery(searchQuery, param("c"));
+searchQuery = addToQuery(searchQuery, param("s")); // search box
+searchQuery = addToQuery(searchQuery, param("p")); // pool
+searchQuery = addToQuery(searchQuery, param("v")); // sea view
+searchQuery = addToQuery(searchQuery, param("g")); // garden
+searchQuery = addToQuery(searchQuery, param("a")); // 50 - 100
+searchQuery = addToQuery(searchQuery, param("b")); // 100 - 200
+searchQuery = addToQuery(searchQuery, param("c")); // 200 - 300
+searchQuery = addToQuery(searchQuery, param("d")); // salobrena
+searchQuery = addToQuery(searchQuery, param("e")); // almunecar
+searchQuery = addToQuery(searchQuery, param("f")); // la-herradura
 
 console.log('searchQuery ' + searchQuery);
 if (searchQuery) {

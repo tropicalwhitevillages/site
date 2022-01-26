@@ -49,3 +49,9 @@
   translation: Vista-marítima
 - id: garden
   translation: Jardín
+- id: property_search
+  translation: Criterio de Propiedad
+- id: price_search
+  translation: Criterio de precio
+- id: town_search
+  translation: Criterios de la ciudad

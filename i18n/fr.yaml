@@ -49,3 +49,9 @@
   translation: Vue-mer
 - id: garden
   translation: Jardin
+- id: property_search
+  translation: Critères de propriété
+- id: price_search
+  translation: Critères de prix
+- id: town_search
+  translation: Critères de la ville

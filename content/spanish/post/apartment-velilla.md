@@ -19,7 +19,7 @@ Distribuida en 2 plantas, esta propiedad tiene sala de estar, cocina separada, d
 
 {{< tabs >}}
 
-{{< tab "Propery details" >}}
+{{< tab "Details" >}}
 
 * Piso
 * 2 Dormitorios

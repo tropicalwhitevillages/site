@@ -27,7 +27,7 @@ Con transporte, escuelas, tiendas, restaurantes e instalaciones de ocio a poca d
 
 {{< tabs >}}
 
-{{< tab "Propery details" >}}
+{{< tab "Details" >}}
 
 * Casa adosada
 * 3 dormitorios

@@ -27,7 +27,7 @@ With transport, schools, shops, dining & leisure facilities within easy reach, t
 
 {{< tabs >}}
 
-{{< tab "Propery details" >}}
+{{< tab "Details" >}}
 
 * Townhouse
 * 3 Bedrooms

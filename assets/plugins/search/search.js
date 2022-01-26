@@ -4,6 +4,7 @@ var fuseOptions = {
   includeScore: false,
   shouldSort: true,
   includeMatches: true,
+  tokenize:true,
   findAllMatches: false,
   useExtendedSearch: true,
   minMatchCharLength: 5,

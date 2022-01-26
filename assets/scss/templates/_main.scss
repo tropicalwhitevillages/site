@@ -313,6 +313,10 @@
 
 .label-wrap{
   display:flex;
+
+  &-column {
+    flex-wrap: wrap;
+  }
 }
 
 // sidebar
@@ -359,7 +363,7 @@
       border: 0;
       border-bottom: 1px dotted $border-color;
       width: 100%;
-      height: 2.5rem;
+      height: 1.5rem;
 
       &:focus {
         outline: 0;

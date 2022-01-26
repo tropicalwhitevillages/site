@@ -30,27 +30,27 @@ var fuseOptions = {
   ]
 };
 
-var searchQueryS = param("s");
-if (searchQueryS != '') {
-  searchQueryS = '\'' + searchQueryS;
-};
-var searchQueryP = param("p");
-var searchQuerySV = param("sv");
-var searchQueryG = param("g");
-var searchQuery = searchQueryS;
-if (searchQueryP != '') {
-  searchQuery = searchQuery + ' | \'' + searchQueryP;
-};
-if (searchQuerySV != '') {
-  searchQuery = searchQuery + ' | \'' + searchQuerySV;
-};
-if (searchQueryG != '') {
-  searchQuery = searchQuery + ' | \'' + searchQueryG;
-}; 
+var searchQuery = '';
+searchQuery = addToQuery(param("s"));
+searchQuery = addToQuery(param("p"));
+searchQuery = addToQuery(param("sv"));
+searchQuery = addToQuery(param("g"));
+
 console.log('searchQuery ' + searchQuery);
 if (searchQuery) {
   $("#search-query").val(searchQuery);
   executeSearch(searchQuery);
+}
+
+function addToQuery(queryStr, param) {
+  if (param != '') {
+    if (queryStr === '') {
+      queryStr = '\'' + param;
+    } else {
+      queryStr = queryStr  + ' | \'' + param;
+    }
+  }
+  return queryStr;
 }
 
 function executeSearch(searchQuery) {

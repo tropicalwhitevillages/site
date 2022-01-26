@@ -5,9 +5,9 @@
   <form action="{{ `search`| relLangURL }}" class="widget-search">
     <div class='label-wrap'><label for="pool-field">Pool:</label><input id="pool-field" name="p" type="checkbox" value="pool" class="form-control" aria-label="pool-query"></div>
 
-    <label for="seaview-field">Sea View:</label><input id="seaview-field" name="sv" type="checkbox" value="seaview" class="form-control" aria-label="seaview-query">
+    <div class='label-wrap'><label for="seaview-field">Sea View:</label><input id="seaview-field" name="sv" type="checkbox" value="seaview" class="form-control" aria-label="seaview-query"></div>
 
-    <label for="garden-field">Garden:</label><input id="garden-field" name="g" type="checkbox" value="garden" class="form-control" aria-label="garden-query">
+    <div class='label-wrap'><label for="garden-field">Garden:</label><input id="garden-field" name="g" type="checkbox" value="garden" class="form-control" aria-label="garden-query"></div>
     <input id="search-query" name="s" type="search" placeholder="{{ i18n `search_placeholder`}}">
     <button type="submit" class="btn btn-primary" aria-label="Search Post"><i class="fas fa-search"></i></button>
   </form>

@@ -5,7 +5,7 @@ var fuseOptions = {
   shouldSort: true,
   includeMatches: true,
   findAllMatches: false,
-  useExtendedSearch: true
+  useExtendedSearch: true,
   minMatchCharLength: 1,
   location: 0,
   threshold: 0.4,

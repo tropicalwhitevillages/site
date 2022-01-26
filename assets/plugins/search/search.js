@@ -31,10 +31,10 @@ var fuseOptions = {
 };
 
 var searchQuery = '';
-searchQuery = addToQuery(param("s"));
-searchQuery = addToQuery(param("p"));
-searchQuery = addToQuery(param("sv"));
-searchQuery = addToQuery(param("g"));
+searchQuery = addToQuery(searchQuery, param("s"));
+searchQuery = addToQuery(searchQuery, param("p"));
+searchQuery = addToQuery(searchQuery, param("sv"));
+searchQuery = addToQuery(searchQuery, param("g"));
 
 console.log('searchQuery ' + searchQuery);
 if (searchQuery) {

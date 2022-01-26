@@ -4,7 +4,6 @@ var fuseOptions = {
   includeScore: false,
   shouldSort: true,
   includeMatches: true,
-  tokenize:true,
   findAllMatches: false,
   useExtendedSearch: true,
   minMatchCharLength: 5,
@@ -81,12 +80,14 @@ function populateResults(result) {
       $.each(value.matches, function (matchKey, mvalue) {
         if (mvalue.key === "tags" || mvalue.key === "categories") {
           snippetHighlights.push(mvalue.value);
-        } else if (mvalue.key == "contents") {
+        } 
+        // remove content highlights
+        /* else if (mvalue.key == "contents") {
           start = mvalue.indices[0][0] - summaryInclude > 0 ? mvalue.indices[0][0] - summaryInclude : 0;
           end = mvalue.indices[0][1] + summaryInclude < contents.length ? mvalue.indices[0][1] + summaryInclude : contents.length;
           snippet += contents.substring(start, end);
           snippetHighlights.push(mvalue.value.substring(mvalue.indices[0][0], mvalue.indices[0][1] - mvalue.indices[0][0] + 1));
-        }
+        } */
       });
     }
 

@@ -5,10 +5,10 @@
   <form action="{{ `search`| relLangURL }}" class="widget-search">
     
     <div class="border border-default collapse-wrapper">
-      <a class="d-flex p-2 collapse-head" data-toggle="collapse" href="#{{ i18n "property_search" }}" role="button">
+      <a class="d-flex p-2 collapse-head" data-toggle="collapse" href="#{{ i18n "property_search" | urlize }}" role="button">
         {{ i18n "property_search" }} <i class="fas fa-plus ml-auto"></i>
       </a>
-      <div class="collapse" id="{{ i18n "property_search" }}">
+      <div class="collapse" id="{{ i18n "property_search" | urlize }}">
         <div class="p-2">
           <div class='label-wrap'>
       
@@ -24,10 +24,10 @@
     </div>
     
     <div class="border border-default collapse-wrapper">
-      <a class="d-flex p-2 collapse-head" data-toggle="collapse" href="#{{ i18n "price_search" }}" role="button">
+      <a class="d-flex p-2 collapse-head" data-toggle="collapse" href="#{{ i18n "price_search" | urlize }}" role="button">
         {{ i18n "price_search" }} <i class="fas fa-plus ml-auto"></i>
       </a>
-      <div class="collapse" id="{{ i18n "price_search" }}">
+      <div class="collapse" id="{{ i18n "price_search" | urlize }}">
         <div class="p-2">
           <div class='label-wrap'>
             <label for="50to100-field">50k-100k:</label><br /><input id="50to100-field" name="a" type="checkbox" value="50-100" class="form-control" aria-label="50to100-query">
@@ -39,10 +39,10 @@
     </div>
 
     <div class="border border-default collapse-wrapper">
-      <a class="d-flex p-2 collapse-head" data-toggle="collapse" href="#{{ i18n "town_search" }}" role="button">
+      <a class="d-flex p-2 collapse-head" data-toggle="collapse" href="#{{ i18n "town_search" | urlize }}" role="button">
         {{ i18n "town_search" }} <i class="fas fa-plus ml-auto"></i>
       </a>
-      <div class="collapse" id="{{ i18n "town_search" }}">
+      <div class="collapse" id="{{ i18n "town_search" | urlize }}">
         <div class="p-2">
           <div class='label-wrap'>
             <label for="salobrena-field">Salobrena:</label><br /><input id="salobrena-field" name="d" type="checkbox" value="salobrena" class="form-control" aria-label="salobrena-query">

@@ -44,6 +44,8 @@
 - id: pool
   translation: Bassin
 - id: seaview
-  translation: Vue sur la mer
+  translation: Vue mer
+- id: seaview_tag
+  translation: Vue-mer
 - id: garden
   translation: Jardin

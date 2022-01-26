@@ -45,5 +45,7 @@
   translation: Pool
 - id: seaview
   translation: Sea View
+- id: seaview_tag
+  translation: Seaview
 - id: garden
   translation: Garden

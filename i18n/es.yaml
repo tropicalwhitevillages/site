@@ -45,5 +45,7 @@
   translation: Piscina
 - id: seaview
   translation: Vista marítima
+- id: seaview_tag
+  translation: Vista-marítima
 - id: garden
   translation: Jardín

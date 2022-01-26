@@ -5,11 +5,11 @@ var fuseOptions = {
   shouldSort: true,
   includeMatches: true,
   findAllMatches: false,
+  useExtendedSearch: true
   minMatchCharLength: 1,
   location: 0,
   threshold: 0.4,
   distance: 50,
-  useExtendedSearch: false,
   ignoreLocation: false,
   ignoreFieldNorm: false,
   keys: [{
@@ -37,13 +37,13 @@ var searchQuerySV = param("sv");
 var searchQueryG = param("g");
 var searchQuery = searchQueryS;
 if (searchQueryP != '') {
-  searchQuery = searchQuery + ' ' + searchQueryP;
+  searchQuery = searchQuery + ' | \'' + searchQueryP;
 };
 if (searchQuerySV != '') {
-  searchQuery = searchQuery + ' ' + searchQuerySV;
+  searchQuery = searchQuery + ' | \'' + searchQuerySV;
 };
 if (searchQueryG != '') {
-  searchQuery = searchQuery + ' ' + searchQueryG;
+  searchQuery = searchQuery + ' | \'' + searchQueryG;
 }; 
 console.log('searchQuery ' + searchQuery);
 if (searchQuery) {

@@ -4,7 +4,7 @@ categories = ["Almunecar"]
 date = 2021-12-23T09:40:24Z
 description = "Stunning beachfront apartment - tropical white villages estate agents"
 images = ["/images/twv_property/PR4_apartment/PR4Apartment_exterior.jpg","/images/twv_property/PR4_apartment/PR4Balcony.jpg","/images/twv_property/PR4_apartment/PR4Openplan.jpg","/images/twv_property/PR4_apartment/PR4Poolview.jpg"]
-tags = ["Flat", "Sea Views", "Apartment"]
+tags = ["Flat", "Seaview", "Apartment"]
 title = "Stunning beachfront apartment"
 type = "featured"
 

@@ -1,13 +1,13 @@
 [[footer]]
-name = "About"
+name = "Nosotras"
 url = "about"
 weight = 1
 [[footer]]
-name = "Contact"
+name = "Contacto"
 url = "contact"
 weight = 2
 [[footer]]
-name = "Privacy Policy"
+name = "Política de privacidad"
 url = "privacy-policy"
 weight = 3
 [[footer]]
@@ -16,47 +16,32 @@ url = "terms-conditions"
 weight = 4
 [[main]]
 hasChildren = false
-name = "Home"
+name = "Casa"
 weight = 1
 [[main]]
-name = "About"
+name = "Nosotras"
 url = "about"
 weight = 2
 [[main]]
-name = "Contact"
+name = "Contacto"
 url = "contact"
 weight = 3
 [[main]]
 hasChildren = true
-name = "Pages"
+name = "Paginas"
 weight = 4
 [[main]]
-name = "Author"
-parent = "Pages"
-url = "author/john-doe"
+name = "Autora"
+parent = "Paginas"
+url = "author/catarina"
 weight = 1
 [[main]]
-name = "Category"
-parent = "Pages"
+name = "Categoría"
+parent = "Paginas"
 url = "categories/photography"
 weight = 2
 [[main]]
-name = "Tags"
-parent = "Pages"
-url = "tags/photo"
+name = "Etiquetas"
+parent = "Paginas"
+url = "tags/garden"
 weight = 3
-[[main]]
-name = "Search"
-parent = "Pages"
-url = "http://demo.gethugothemes.com/logbook/search/?s=image"
-weight = 4
-[[main]]
-name = "404 Page"
-parent = "Pages"
-url = "404"
-weight = 5
-[[main]]
-name = "Elements"
-parent = "Pages"
-url = "elements/"
-weight = 6

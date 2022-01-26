@@ -1,18 +1,18 @@
 [[footer]]
 name = "Nosotras"
-url = "about"
+url = "es/about"
 weight = 1
 [[footer]]
 name = "Contacto"
-url = "contact"
+url = "es/contact"
 weight = 2
 [[footer]]
 name = "Política de privacidad"
-url = "privacy-policy"
+url = "es/privacy-policy"
 weight = 3
 [[footer]]
 name = "Términos y Condiciones"
-url = "terms-conditions"
+url = "es/terms-conditions"
 weight = 4
 [[main]]
 hasChildren = false
@@ -20,11 +20,11 @@ name = "Casa"
 weight = 1
 [[main]]
 name = "Nosotras"
-url = "about"
+url = "es/about"
 weight = 2
 [[main]]
 name = "Contacto"
-url = "contact"
+url = "es/contact"
 weight = 3
 [[main]]
 hasChildren = true
@@ -33,15 +33,15 @@ weight = 4
 [[main]]
 name = "Autora"
 parent = "Paginas"
-url = "author/catarina"
+url = "es/author/catarina"
 weight = 1
 [[main]]
 name = "Categoría"
 parent = "Paginas"
-url = "categories/photography"
+url = "es/categories/solobrena"
 weight = 2
 [[main]]
 name = "Etiquetas"
 parent = "Paginas"
-url = "tags/garden"
+url = "es/tags/garden"
 weight = 3

@@ -34,16 +34,16 @@
 - id: social
   translation: Liens sociaux
 - id: back_to_home
-  translation: Back To Home
+  translation: Retour
 - id: about_me
   translation: À propos de moi
 - id: page_not_found
-  translation: Ooops! This Page Is Not Available
+  translation: Oups ! Cette page n'est pas disponible
 - id: search_results_for
-  translation: Search results for
+  translation: Résultats de recherche pour
 - id: pool
-  translation: Piscina
+  translation: Bassin
 - id: seaview
-  translation: Vista marítima
+  translation: Vue sur la mer
 - id: garden
-  translation: Jardín
+  translation: Jardin

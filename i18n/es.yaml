@@ -1,43 +1,49 @@
 ---
 - id: continue_reading
-  translation: View Property
+  translation: Ver Propiedad
 - id: search_placeholder
-  translation: Type & Hit Enter...
+  translation: Escribe y Pulsa Enter...
 - id: latest_property
   translation: Última Propiedad
 - id: categories
-  translation: Categories
+  translation: Categorías
 - id: tags
-  translation: Tags
+  translation: Etiquetas
 - id: search
-  translation: Search
+  translation: Buscar
 - id: date
-  translation: Date
+  translation: Fecha
 - id: posted_by
-  translation: Posted by this author
+  translation: Publicado por este autor
 - id: send
-  translation: Send Now
+  translation: Enviar Ahora
 - id: name
-  translation: Your Name
+  translation: Tu Nombre
 - id: email
-  translation: Your Email Address
+  translation: Tu Correo Electrónico
 - id: message
-  translation: Your Message Here
+  translation: Su Mensaje Aquí
 - id: subscribe
-  translation: Subscribe now
+  translation: Suscríbase ahora
 - id: write_email
-  translation: Hate Forms? Write Us Email
+  translation: ¿Formas de odio? Escríbenos Correo Electrónico
 - id: subscribe_newsletter
-  translation: Subscribe Newsletter
+  translation: Suscribirse al boletín informativo
 - id: quick_links
-  translation: Quick Links
+  translation: Enlaces Rápidos
 - id: social
-  translation: Social Links
+  translation: Sitio Web Social
 - id: back_to_home
-  translation: Back To Home
+  translation: Volver
 - id: about_me
-  translation: About Tropical White Villages
+  translation: Sobre Tropical White Villages
 - id: page_not_found
-  translation: Ooops! This Page Is Not Available
+  translation: ¡Uy! Esta página no está disponible
 - id: search_results_for
-  translation: Search results for
+  translation: Resultados de la búsqueda de
+- id: pool
+  translation: Piscina
+- id: seaview
+  translation: Vista marítima
+- id: garden
+  translation: Jardín

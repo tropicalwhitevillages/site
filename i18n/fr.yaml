@@ -41,3 +41,9 @@
   translation: Ooops! This Page Is Not Available
 - id: search_results_for
   translation: Search results for
+- id: pool
+  translation: Piscina
+- id: seaview
+  translation: Vista marítima
+- id: garden
+  translation: Jardín

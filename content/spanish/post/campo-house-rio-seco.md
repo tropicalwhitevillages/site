@@ -27,7 +27,7 @@ Con transporte, escuelas, tiendas, restaurantes e instalaciones de ocio a poca d
 
 {{< tabs >}}
 
-{{< tab "Details" >}}
+{{< tab "Detalles" >}}
 
 * Casa adosada
 * 3 dormitorios
@@ -38,10 +38,27 @@ Con transporte, escuelas, tiendas, restaurantes e instalaciones de ocio a poca d
 
   {{< /tab >}}
 
-{{< tab "Location" >}} En el corazón de Salobreña ya tan solo 5 minutos de la playa {{< /tab >}}
+{{< tab "Ubicación" >}} En el corazón de Salobreña ya tan solo 15 minutos de la playa. {{< /tab >}}
 
-{{< tab "Price " >}} £150,000.00 {{< /tab >}}
+{{< tab "Planta baja" >}} {{< image src="/images/twv_property/PR1_townhouse/Floorplan.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}} {{< /tab >}}
+
+{{< tab "Contacto" >}} <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+<div class="form-group">
+<label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
+</div>
+<div class="form-group">
+<label>Ref: <input name="property-ref" class="form-control" value="PR1" readonly/></label>
+</div>
+<div class="form-group">
+<label>{{ i18n "email" }}<input type="text" class="form-control" name="email" /></label>
+</div>
+<div class="form-group">
+<label>{{ i18n "email" }}</label> <textarea name="message" class="form-control"></textarea>
+</div>
+<button type="submit" class="btn btn-primary">{{ i18n "send" }}</button>
+</form> {{< /tab >}}
 
 {{</ tabs >}}
+
 
 {{< youtube 0SVMaAR5JIU >}}

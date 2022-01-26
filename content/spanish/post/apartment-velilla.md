@@ -19,7 +19,7 @@ Distribuida en 2 plantas, esta propiedad tiene sala de estar, cocina separada, d
 
 {{< tabs >}}
 
-{{< tab "Details" >}}
+{{< tab "Detalles" >}}
 
 * Piso
 * 2 Dormitorios
@@ -29,13 +29,13 @@ Distribuida en 2 plantas, esta propiedad tiene sala de estar, cocina separada, d
 
   {{< /tab >}}
 
-{{< tab "Location" >}} En el corazón de Salobreña ya tan solo 15 minutos de la playa. {{< /tab >}}
+{{< tab "Ubicación" >}} En el corazón de Salobreña ya tan solo 15 minutos de la playa. {{< /tab >}}
 
-{{< tab "Floor Plan" >}} {{< image src="/images/twv_property/PR1_townhouse/Floorplan.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}} {{< /tab >}}
+{{< tab "Planta baja" >}} {{< image src="/images/twv_property/PR1_townhouse/Floorplan.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}} {{< /tab >}}
 
-{{< tab "Virtual tour" >}} {{< youtube 0SVMaAR5JIU >}} {{< /tab >}}
+{{< tab "Tour virtual" >}} {{< youtube 0SVMaAR5JIU >}} {{< /tab >}}
 
-{{< tab "Contact" >}} <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+{{< tab "Contacto" >}} <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
 <div class="form-group">
 <label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
 </div>

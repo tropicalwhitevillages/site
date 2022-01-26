@@ -19,7 +19,7 @@ Set over 2 floors this property has living room, separate kitchen two bathrooms 
 
 {{< tabs >}}
 
-{{< tab {{ i18n "send" }} >}}
+{{< tab "Details" >}}
 
 * Townhouse
 * 2 Bedrooms

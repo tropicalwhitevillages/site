@@ -64,7 +64,7 @@ function executeSearch(searchQuery) {
     if (result.length > 0) {
       populateResults(result);
     } else {
-      $('#search-results').append("<div class=\"text-center\"><img class=\"img-fluid mb-5\" src=\"https://user-images.githubusercontent.com/17677384/122171726-dabfee00-cea1-11eb-9f7f-b75b5c967205.png\" width=\"300\"><h3>No Search Found</h3></div>");
+      $('#search-results').append("<div class=\"text-center\"><img class=\"img-fluid mb-5\" src=\"https://user-images.githubusercontent.com/17677384/122171726-dabfee00-cea1-11eb-9f7f-b75b5c967205.png\" width=\"300\"><h3>{{ i18n "garden" }}</h3></div>");
     }
   });
 }

@@ -58,7 +58,7 @@
 - id: honeypot
   translation: Ne remplissez pas ceci si vous êtes humain
 - id: property_type_search
-  translation: Type de propriété
+  translation: Type de propriete
 - id: villa
   translation: Villa
 - id: townhouse

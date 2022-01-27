@@ -2,7 +2,7 @@
 author = "Catarina"
 categories = ["Salobrena"]
 date = 2021-12-23T09:40:24Z
-description = "Casa de pueblo en el corazón de Salobreña - tropical white villages estate agents"
+description = "Casa de pueblo en el corazón de Salobreña"
 images = ["/images/twv_property/PR1/PR1House.jpg"]
 tags = ["Pueblo", "montaña vistas", "Adosada"]
 title = "Bonito Adosado en Salobreña"

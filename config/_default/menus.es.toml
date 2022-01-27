@@ -26,22 +26,3 @@ weight = 2
 name = "Contacto"
 url = "es/contact"
 weight = 3
-[[main]]
-hasChildren = true
-name = "Paginas"
-weight = 4
-[[main]]
-name = "Autora"
-parent = "Paginas"
-url = "author/catarina"
-weight = 1
-[[main]]
-name = "Categoría"
-parent = "Paginas"
-url = "es/categories/solobrena"
-weight = 2
-[[main]]
-name = "Etiquetas"
-parent = "Paginas"
-url = "es/tags/jardin"
-weight = 3

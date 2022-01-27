@@ -26,37 +26,4 @@ weight = 2
 name = "Contact"
 url = "contact"
 weight = 3
-[[main]]
-hasChildren = true
-name = "Pages"
-weight = 4
-[[main]]
-name = "Author"
-parent = "Pages"
-url = "author/john-doe"
-weight = 1
-[[main]]
-name = "Category"
-parent = "Pages"
-url = "categories/photography"
-weight = 2
-[[main]]
-name = "Tags"
-parent = "Pages"
-url = "tags/photo"
-weight = 3
-[[main]]
-name = "Search"
-parent = "Pages"
-url = "http://demo.gethugothemes.com/logbook/search/?s=image"
-weight = 4
-[[main]]
-name = "404 Page"
-parent = "Pages"
-url = "404"
-weight = 5
-[[main]]
-name = "Elements"
-parent = "Pages"
-url = "elements/"
-weight = 6
+

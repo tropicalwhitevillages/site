@@ -5,6 +5,7 @@ date = 2021-12-23T09:40:24Z
 description = "Casa de pueblo en el corazón de Salobreña - tropical white villages estate agents"
 draft = true
 images = []
+tags = ["Pueblo", "montaña vistas", "Adosada"]
 title = "Bonito Adosado en Salobreña"
 type = "featured"
 
@@ -37,7 +38,9 @@ Distribuida en 2 plantas, esta propiedad tiene sala de estar, cocina separada, d
 
 {{< tabs >}}
 
-{{< tab "Ubicación" >}} In the heart of Salobrena and only 15 minutes to the beach. {{< /tab >}}
+{{< tab "Ubicación" >}}
+{{< image src="/images/maps/salobrena.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
+En el corazón de Salobreña ya tan solo 15 minutos de la playa. {{< /tab >}}
 
 {{< tab "Contacto" >}} <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
 <div class="form-group">

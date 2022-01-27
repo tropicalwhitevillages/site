@@ -2,10 +2,11 @@
 author = "Catarina"
 categories = ["Salobrena"]
 date = 2021-12-23T09:40:24Z
-description = "Townhouse in heart of tropical white village - tropical white villages estate agents"
+description = "Maison de ville au coeur d'un village blanc tropical - tropical white villages estate agents"
 draft = true
 images = []
-title = "Smart Townhouse in Salobrena"
+tags = ["Ville", "Vue Montagne", "Maison de ville"]
+title = "Belle maison de ville à Salobreña"
 type = "featured"
 
 +++
@@ -13,46 +14,48 @@ type = "featured"
 
 £150,000
 {{< /notice >}}
-Stunning traditional townhouse, located in the heart of Salobrena old town. The property is set only 5 min walk from the 15th Century castle walls and has beautiful seaviews from the spacious roof terrace.
-10 mins and you are in the centre of this bustling and traditional spanish town, set in the heart of the Cosa tropical yet still only an hour away from Malaga and the airport.
-Set over 2 floors this property has living room, separate kitchen two bathrooms and two bedrooms
+Superbe maison de ville traditionnelle, située au cœur de la vieille ville de Salobrena. La propriété est située à seulement 5 minutes à pied des murs du château du XVe siècle et offre de belles vues sur la mer depuis la spacieuse terrasse sur le toit.
+10 minutes et vous êtes au centre de cette ville espagnole traditionnelle et animée, située au cœur de la Cosa tropicale mais à seulement une heure de Malaga et de l'aéroport.
+Répartie sur 2 étages, cette propriété comprend un salon, une cuisine séparée, deux salles de bains et deux chambres
 
 {{< tabs >}}
 
-{{< tab "Details" >}}
+{{< tab "Des détails" >}}
 
-* Townhouse
-* 2 Bedrooms
-* Mountain Views
-* Covered Rooftop Terrace
-* 2 Bathrooms
+* Maison de ville
+* 2 Chambres
+* Vues sur la montagne
+* Terrasse couverte sur le toit
+* 2 salles de bain
 
   {{< /tab >}}
 
-  {{< tab "Floor Plan" >}} {{< image src="/images/twv_property/PR1/PR1Floorplan.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}} {{< /tab >}}
+  {{< tab "Plan d'étage" >}} {{< image src="/images/twv_property/PR1/PR1Floorplan.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}} {{< /tab >}}
 
-{{< tab "Virtual tour" >}} {{< youtube 0SVMaAR5JIU >}} {{< /tab >}}
+{{< tab "Tour virtuel" >}} {{< youtube 0SVMaAR5JIU >}} {{< /tab >}}
 
 {{</ tabs >}}
 
 {{< tabs >}}
 
-{{< tab "Location" >}} In the heart of Salobrena and only 15 minutes to the beach. {{< /tab >}}
+{{< tab "Emplacement" >}} 
+{{< image src="/images/maps/salobrena.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
+Au coeur de Salobrena et à seulement 15 minutes de la plage. {{< /tab >}}
 
 {{< tab "Contact" >}} <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
 <div class="form-group">
-<label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
+<label>Ne remplissez pas ce champ si vous êtes humain: <input name="bot-field" /></label>
 </div>
 <div class="form-group">
 <label>Ref: <input name="property-ref" class="form-control" value="PR1" readonly/></label>
 </div>
 <div class="form-group">
-<label>Email: <input type="text" class="form-control" name="email" /></label>
+<label>E-mail: <input type="text" class="form-control" name="email" /></label>
 </div>
 <div class="form-group">
 <label>Message: </label> <textarea name="message" class="form-control"></textarea>
 </div>
-<button type="submit" class="btn btn-primary">Send</button>
+<button type="submit" class="btn btn-primary">Envoyer</button>
 </form> {{< /tab >}}
 
 {{</ tabs >}}

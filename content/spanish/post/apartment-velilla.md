@@ -43,10 +43,10 @@ Distribuida en 2 plantas, esta propiedad tiene sala de estar, cocina separada, d
 <label>Ref: <input name="property-ref" class="form-control" value="PR1" readonly/></label>
 </div>
 <div class="form-group">
-<label>{{ i18n "email" }}<input type="text" class="form-control" name="email" /></label>
+<label>Email: <input type="text" class="form-control" name="email" /></label>
 </div>
 <div class="form-group">
-<label>{{ i18n "email" }}</label> <textarea name="message" class="form-control"></textarea>
+<label>Message: </label> <textarea name="message" class="form-control"></textarea>
 </div>
 <button type="submit" class="btn btn-primary">{{ i18n "send" }}</button>
 </form> {{< /tab >}}

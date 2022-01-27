@@ -50,10 +50,24 @@
 - id: garden
   translation: Jardín
 - id: property_search
-  translation: Criterio de Propiedad
+  translation: Caracteristicas
 - id: price_search
-  translation: Criterio de precio
+  translation: Precio
 - id: town_search
-  translation: Criterios de la ciudad
+  translation: Pueblo
 - id: honeypot
   translation: No llenes esto si eres humano
+- id: property_type_search
+  translation: Tipo de Propiedad
+- id: villa
+  translation: Villa
+- id: townhouse
+  translation: Adosada
+- id: apartment
+  translation: Apartamento
+- id: ruin
+  translation: Riuna
+- id: land
+  translation: Terreno
+- id: newbuild
+  translation: Nueva construccion

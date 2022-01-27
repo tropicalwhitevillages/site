@@ -50,10 +50,24 @@
 - id: garden
   translation: Garden
 - id: property_search
-  translation: Property criteria
+  translation: Features
 - id: price_search
-  translation: Price criteria
+  translation: Price range
 - id: town_search
-  translation: Town features
+  translation: Town
 - id: honeypot
   translation: Dont fill this out if you're human
+- id: property_type_search
+  translation: Property type
+- id: villa
+  translation: Villa
+- id: townhouse
+  translation: Townhouse
+- id: apartment
+  translation: Apartment
+- id: ruin
+  translation: Riun
+- id: land
+  translation: Land
+- id: newbuild
+  translation: New Build

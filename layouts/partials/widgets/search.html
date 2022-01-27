@@ -5,6 +5,31 @@
   <form action="{{ `search`| relLangURL }}" class="widget-search">
     
     <div class="border border-default collapse-wrapper">
+      <a class="d-flex p-2 collapse-head" data-toggle="collapse" href="#{{ i18n "property_type_search" | urlize }}" role="button">
+        {{ i18n "property_type_search" }} <i class="fas fa-plus ml-auto"></i>
+      </a>
+      <div class="collapse" id="{{ i18n "property_type_search" | urlize }}">
+        <div class="p-2">
+          <div class='label-wrap'>
+      
+            <label for="villa-field">{{ i18n "villa" }}:</label><br /><input id="villa-field" name="h" type="checkbox" value="{{ i18n "villa" }}" class="form-control" aria-label="villa-query">
+      
+            <label for="townhouse-field">{{ i18n "townhouse" }}:</label><br /><input id="townhouse-field" name="i" type="checkbox" value="{{ i18n "townhouse" }}" class="form-control" aria-label="townhouse-query">
+      
+            <label for="apartment-field">{{ i18n "apartment" }}:</label><br /><input id="apartment-field" name="j" type="checkbox" value="{{ i18n "apartment" }}" class="form-control" aria-label="apartment-query">
+
+            <label for="ruin-field">{{ i18n "ruin" }}:</label><br /><input id="ruin-field" name="k" type="checkbox" value="{{ i18n "ruin" }}" class="form-control" aria-label="ruin-query">
+      
+            <label for="land-field">{{ i18n "land" }}:</label><br /><input id="land-field" name="l" type="checkbox" value="{{ i18n "land" }}" class="form-control" aria-label="land-query">
+      
+            <label for="newbuild-field">{{ i18n "newbuild" }}:</label><br /><input id="newbuild-field" name="m" type="checkbox" value="{{ i18n "newbuild" }}" class="form-control" aria-label="newbuild-query">
+  
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="border border-default collapse-wrapper">
       <a class="d-flex p-2 collapse-head" data-toggle="collapse" href="#{{ i18n "property_search" | urlize }}" role="button">
         {{ i18n "property_search" }} <i class="fas fa-plus ml-auto"></i>
       </a>

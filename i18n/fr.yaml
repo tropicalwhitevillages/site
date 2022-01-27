@@ -71,3 +71,5 @@
   translation: Terre
 - id: newbuild
   translation: Nouvelle Construction
+- id: column
+  translation: -column

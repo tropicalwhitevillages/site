@@ -3,9 +3,7 @@ title: "Elements That You Can Use To Create A New Post On This Template."
 date: 2020-03-15T15:40:24+06:00
 # post thumb
 images:
-  - "images/post/post-6.jpg"
-  - "images/post/post-1.jpg"
-  - "images/post/post-3.jpg"
+  - "images/salobrena.jpg"
 #author
 author: "John Doe"
 # description
@@ -205,7 +203,7 @@ Markdown | Less | Pretty
 <hr>
 
 ### Image
-{{< image src="images/post/post-3.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
+{{< image src="images/salobrena.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
 
 <hr>
 

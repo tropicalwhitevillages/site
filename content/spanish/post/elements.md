@@ -2,8 +2,7 @@
 title: Elements That You Can Use To Create A New Property Post.
 date: 2023-12-31T09:40:24+00:00
 images:
-- "/images/twv_property/property1.jpg"
-- "/images/twv_property/property4.jpg"
+- "/images/salobrena.jpg"
 author: Catarina
 description: 2 bed Townhouse with rooftop pool
 categories: []
@@ -200,7 +199,7 @@ Markdown | Less | Pretty
 <hr>
 
 ### Image
-{{< image src="images/post/post-3.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
+{{< image src="images/salobrena.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
 
 <hr>
 

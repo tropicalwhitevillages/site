@@ -166,7 +166,7 @@
                 <img loading="lazy" class="img-fluid w-100" src="{{$imageLG.RelPermalink}}" alt="post-thumb" width="{{$image.Width}}" height="{{$image.Height}}">
               </picture>
               {{ else }}
-              <img loading="lazy" class="img-fluid" src="" alt="post-thumb" >
+              <img loading="lazy" class="img-fluid" src="{{ $imageFallback.RelPermalink }}" alt="post-thumb" width="{{$image.Width}}" height="{{$image.Height}}">
               {{ end }}
               {{ end }}
             </div>

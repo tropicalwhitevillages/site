@@ -53,7 +53,7 @@ Set over 2 floors this property has living room, separate kitchen two bathrooms 
 <div class="form-group">
 <label>Message: </label> <textarea name="message" class="form-control"></textarea>
 </div>
-<button type="submit" class="btn btn-primary">{{ i18n "send" }}</button>
+<button type="submit" class="btn btn-primary">Send</button>
 </form> {{< /tab >}}
 
 {{</ tabs >}}

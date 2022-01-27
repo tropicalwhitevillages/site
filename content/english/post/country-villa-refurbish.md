@@ -53,7 +53,7 @@ type = "featured"
 <div class="form-group">
 <label>Message: </label> <textarea name="message" class="form-control"></textarea>
 </div>
-<button type="submit" class="btn btn-primary">{{ i18n "send" }}</button>
+<button type="submit" class="btn btn-primary">Send</button>
 </form> {{< /tab >}}
 
 {{</ tabs >}}

@@ -55,3 +55,5 @@
   translation: Critères de prix
 - id: town_search
   translation: Critères de la ville
+- id: honeypot
+  translation: Ne remplissez pas ceci si vous êtes humain

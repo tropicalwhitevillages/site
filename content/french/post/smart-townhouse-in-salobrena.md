@@ -3,7 +3,6 @@ author = "Catarina"
 categories = ["Salobrena"]
 date = 2021-12-23T09:40:24Z
 description = "Maison de ville au coeur d'un village blanc tropical - tropical white villages estate agents"
-draft = true
 images = ["/images/twv_property/PR1/PR1House.jpg"]
 tags = ["Ville", "Vue Montagne", "Maison de ville"]
 title = "Belle maison de ville à Salobreña"

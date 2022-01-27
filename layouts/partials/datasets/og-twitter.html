@@ -52,7 +52,7 @@
 <meta property="og:image:height" content="{{ $imageHeight }}">
 {{ end }} <!-- /if not svg -->
 
-<meta property="og:image:type" content="image/{{ if eq $imageExt `.svg` }}svg+xml{{ else }}{{ replaceRE `^jpg$` `jpeg` $imageExt }}{{ end }}">
+<meta property="og:image:type" content="image/{{ if eq $imageExt `.svg` }}svg+xml{{ else }}{{ replaceRE `^.jpg$` `jpeg` $imageExt }}{{ end }}">
 {{ end }} <!-- /if image exist -->
 
 {{ end }} <!-- /check cdn/static image -->

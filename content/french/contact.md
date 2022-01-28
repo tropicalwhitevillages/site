@@ -1,11 +1,9 @@
 ---
-title: "Talk To Me Anytime :)"
+title: "Parlez-moi à tout moment :)"
 # description
-description: "This is meta description"
+description: "Parlez-moi à tout moment"
 layout: "contact"
 draft: false
 ---
 
-# Ask Us Anything <br> Or just Say Hi,
-
-Rather than just filling out a form, Sleeknote also offers help to the user <br> with links directing them to find  additional information or take popular actions.
+# Demandez-nous n'importe quoi <br> Ou dites simplement bonjour,

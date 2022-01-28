@@ -14,7 +14,7 @@ fields:
 - type: text
   name: author
   label: author
-  description: 'ex: John Doe'
+  description: 'ex: Catarina'
 - type: text
   name: description
   label: meta description

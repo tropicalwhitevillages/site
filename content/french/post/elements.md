@@ -1,11 +1,11 @@
 ---
 title: "Elements That You Can Use To Create A New Post On This Template."
-date: 2020-03-15T15:40:24+06:00
+date: 2023-03-15T15:40:24+06:00
 # post thumb
 images:
   - "images/salobrena.jpg"
 #author
-author: "John Doe"
+author: "Catarina"
 # description
 description: "This is meta description"
 # Taxonomies

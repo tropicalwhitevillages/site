@@ -1,7 +1,7 @@
 ---
-title: "Search Results"
+title: "Résultats de recherche"
 # description
-description: "This is meta description"
+description: "Résultats de recherche"
 layout: "search"
 draft: false
 ---

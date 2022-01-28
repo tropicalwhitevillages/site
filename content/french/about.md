@@ -1,38 +1,40 @@
 ---
-title: "Hi, I Am Catarina"
+title: "Salut je suis Catarina"
 image: "images/author-full.jpg"
 # description
-description: "This is meta description"
+description: "Tout sur Tropical White Villages"
 layout: "about"
 draft: false
 
 social:
   - icon: "fab fa-facebook"
-    link: "https://facebook.com"
+    link: "https://facebook.com/tropicalwhitevillages/"
   - icon: "fab fa-twitter"
     link: "https://twitter.com"
   - icon: "fab fa-instagram"
-    link: "https://instagram.com"
-  - icon: "fab fa-linkedin-in"
-    link: "https://linkedin.com"
+    link: "https://instagram.com/tropicalwhitevillages/"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi, posuere ultrices tempus. Feugiat consequat suspendisse laoreet vitae enim adipiscing cursus. Duis nunc vitae tincidunt sed nibh id. Egestas erat consequat, ornare etiam donec faucibus. Lorem ut enim nunc, senectus adipiscing sed. Lobortis commodo aliquet pulvinar molestie faucibus diam. Semper porttitor justo, et dictum 
+Tropical white villagesest une agence immobilière située au cœur de la Costa Tropical dans la magnifique ville côtière de Salobrena.
 
-Faucibus duis urna, consequat morbi imperdiet pulvinar. Mauris vitae sed aliquet eu tincidunt id. Nulla leo eget erat vel pharetra. Morbi nullam morbi non purus, augue. Massa cras odio ante cursus a mauris. Volutpat faucibus feugiat feugiat euismod congue ridiculus. Et ipsum euismod nulla et aenean diam duis. Sem molestie est mauris sit. Et eleifend odio 
+Vaste expérience dans la vente d'appartements, de maisons et de propriétés dans toute la région de Grenade, nous pouvons fournir un soutien complet tout au long du processus d'achat de la maison de vos rêves dans cette magnifique région.
 
-{{< quote by="John Doe" >}}
-Life is a series of natural and spontaneous changes. Don’t resist them – that only create sorrow. Let reality changes be reality. Let things flow naturally way they like.
+{{< quote by="House Hunter" >}}
+Catarina nous a trouvé la maison de nos rêves. Non seulement la maison était parfaite, mais le processus a été rapide, efficace et sans tracas. Nous recommanderons Tropical White Villiages et Catarina à tous nos amis et à notre famille. Merci beaucoup.
 {{</ quote >}}
 
 <hr>
 
-#### My Skills & Experiences:
+#### Mes compétences et expériences:
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cumto sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec.
+Nous avons de nombreuses compétences dont
 
-* In enim justo, rhoncus ut,
-* Curabitur ullamcorper ultricies
-* Donec vitae sapien utlorem
+* Vente
+* La maison de chasse
+* Mise en scène à domicile
+* Conseils juridiques
+* Aide au déménagement
 
-Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.
+Avec plus de 20 ans d'expérience dans l'agence immobilière et la consultation. Je peux vous guider à travers les étapes lors de l'achat en Espagne. Au fil des ans, j'ai créé un réseau établi de contacts tout au long du processus d'achat afin de garantir un service fluide et efficace et d'assurer la tranquillité d'esprit à chaque étape de votre achat. Nous parlons couramment l'anglais, l'espagnol et le suédois. et avoir accès à des interprètes professionnels pour assurer une transition en douceur vers votre nouveau domicile.
+
+Contactez-nous à tout moment via le site Web ou par e-mail catarina@tropicalwhitevillages.com

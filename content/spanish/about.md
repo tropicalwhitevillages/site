@@ -1,22 +1,40 @@
 ---
-title: We are Tropical White Villages
-image: images/salobrena.jpg
-email: catarina@tropicalwhitevillages.com
-description: Costa Tropical Property Estate Agents
-layout: about
+title: "Hola, soy catarina"
+image: "images/author-full.jpg"
+# description
+description: "Todo sobre Tropical White Villages"
+layout: "about"
+draft: false
+
 social:
-- icon: fab fa-facebook
-  link: https://www.facebook.com/tropicalwhitevillages/
-- icon: fab fa-twitter
-  link: https://twitter.com
-- icon: fab fa-instagram
-  link: https://www.instagram.com/tropicalwhitevillages/
-
+  - icon: "fab fa-facebook"
+    link: "https://facebook.com/tropicalwhitevillages/"
+  - icon: "fab fa-twitter"
+    link: "https://twitter.com"
+  - icon: "fab fa-instagram"
+    link: "https://instagram.com/tropicalwhitevillages/"
 ---
-Tropical white villages is a real estate agency located in the heart of the Costa Tropical in the stunning coastal town of Salobrena.
 
-Extensive experience in the sale of apartments, houses and estates across the entire Granada region, we can provide complete support through the entire process of purchasing your dream home in this stunning region.
+Tropical white villages es una agencia inmobiliaria ubicada en el corazón de la Costa Tropical en el impresionante pueblo costero de Salobreña.
 
-|  <div style="width:100px">Skills and Experience</div>      |          |
-| :------------------:     |:-------------: |
-|{{< image src="/images/catarina.jpeg" caption="" alt="alter-text" height="100" width="100" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}       | With over 200 years experience in Estate Agency and consultation. I can guide you through the steps when purchasing in Spain. Over the years I have created an established network of contacts throughout the entire purchasing process to ensure we deliver a smooth and efficient service and ensuring peace of mind at every stage of your purchase. We are fluent in English, Spanish and Swedish. and have access to professional interpreters to ensure the smooth transition to your new home.      |
+Con una amplia experiencia en la venta de apartamentos, casas y fincas en toda la región de Granada, podemos brindarle un apoyo completo durante todo el proceso de compra de la casa de sus sueños en esta impresionante región.
+
+{{< quote by="House Hunter" >}}
+Catarina nos encontró la casa de nuestros sueños. No solo la casa fue perfecta, sino que el proceso fue rápido, eficiente y sin complicaciones. Recomendaremos Tropical White Villiages y Catarina a todos nuestros amigos y familiares. Muchas gracias.
+{{</ quote >}}
+
+<hr>
+
+#### Habilidades y Experiencias:
+
+Tenemos muchas habilidades, incluyendo
+
+* Venta
+* Buscar casa
+* Puesta en escena en casa
+* Consejo legal
+* Asistencia de reubicación
+
+Con más de 20 años de experiencia en Agencia Inmobiliaria y asesoramiento. Puedo guiarte a través de los pasos para comprar en España. A lo largo de los años, he creado una red establecida de contactos a lo largo de todo el proceso de compra para garantizar que brindemos un servicio fluido y eficiente y garantizar la tranquilidad en cada etapa de su compra. Hablamos inglés, español y sueco con fluidez. y tenga acceso a intérpretes profesionales para garantizar una transición sin problemas a su nuevo hogar.
+
+Contáctenos en cualquier momento a través del sitio web o correo electrónico catarina@tropicalwhitevillages.com

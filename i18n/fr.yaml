@@ -7,6 +7,8 @@
   translation: Dernier article
 - id: categories
   translation: Les catégories
+- id: showing_items_from
+  translation: Affichage des éléments de
 - id: tags
   translation: Mots clés
 - id: search

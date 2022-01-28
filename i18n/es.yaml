@@ -7,6 +7,8 @@
   translation: Última Propiedad
 - id: categories
   translation: Categorías
+- id: showing_items_from
+  translation: Mostrando elementos de
 - id: tags
   translation: Etiquetas
 - id: search

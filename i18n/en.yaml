@@ -7,6 +7,8 @@
   translation: Latest Property
 - id: categories
   translation: Categories
+- id: showing_items_from
+  translation: Showing items from
 - id: tags
   translation: Tags
 - id: search

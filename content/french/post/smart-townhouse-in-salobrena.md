@@ -14,7 +14,7 @@ type = "featured"
 £150,000
 {{< /notice >}}
 Superbe maison de ville traditionnelle, située au cœur de la vieille ville de Salobrena. La propriété est située à seulement 5 minutes à pied des murs du château du XVe siècle et offre de belles vues sur la mer depuis la spacieuse terrasse sur le toit.
-10 minutes et vous êtes au centre de cette ville espagnole traditionnelle et animée, située au cœur de la Cosa tropicale mais à seulement une heure de Malaga et de l'aéroport.
+10 minutes et vous êtes au centre de cette ville espagnole traditionnelle et animée, située au cœur de la Costa tropicale mais à seulement une heure de Malaga et de l'aéroport.
 Répartie sur 2 étages, cette propriété comprend un salon, une cuisine séparée, deux salles de bains et deux chambres
 
 {{< tabs >}}

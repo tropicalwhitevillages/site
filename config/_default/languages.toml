@@ -16,7 +16,7 @@ copyright = "Design By [Tropicaldo](https://tropicaldo.com/) Develop By [Tropica
 languageName = "Fr"
 languageCode = "fr-fr"
 contentDir = "content/french"
-weight = 2
+weight = 3
 home = "Accueil"
 # footer content
 footer_content = "Avec plus de 20 ans d'expérience dans l'agence immobilière et la consultation. Nous pouvons vous guider à travers les étapes lors de l'achat en Espagne en vous assurant la tranquillité d'esprit à chaque étape de votre achat."
@@ -32,5 +32,17 @@ weight = 3
 home = "Volver"
 # footer content
 footer_content = "Con más de 20 años de experiencia en Agencia Inmobiliaria y asesoramiento. Podemos guiarlo a través de los pasos al comprar en España asegurando su tranquilidad en cada etapa de su compra."
+# copyright
+copyright = "Design By [Tropicaldo](https://Tropicaldo.com/) Develop By [Tropicaldo](https://Tropicaldo.com/)"
+
+################################### Swedish language #####################################
+[se]
+languageName = "Se"
+languageCode = "se-se"
+contentDir = "content/swedish"
+weight = 2
+home = "Återvända"
+# footer content
+footer_content = "Med över 20 års erfarenhet av fastighetsförmedling och konsultation. Vi kan guida dig genom stegen när du köper i Spanien för att säkerställa sinnesfrid i varje skede av ditt köp."
 # copyright
 copyright = "Design By [Tropicaldo](https://Tropicaldo.com/) Develop By [Tropicaldo](https://Tropicaldo.com/)"

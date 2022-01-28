@@ -1,0 +1,75 @@
+---
+- id: continue_reading
+  translation: Visa fastighet
+- id: search_placeholder
+  translation: Skriv och tryck på Enter...
+- id: latest_property
+  translation: Senaste fastigheten
+- id: categories
+  translation: Kategorier
+- id: showing_items_from
+  translation: Visar objekt från
+- id: tags
+  translation: Taggar
+- id: search
+  translation: Sök
+- id: date
+  translation: Datum
+- id: posted_by
+  translation: Postat av denna författare
+- id: send
+  translation: Skicka nu
+- id: name
+  translation: Ditt namn
+- id: email
+  translation: Din e-postadress
+- id: message
+  translation: Ditt meddelande här
+- id: subscribe
+  translation: Prenumerera nu
+- id: write_email
+  translation: Hata former? Skriv e-post till oss
+- id: subscribe_newsletter
+  translation: Prenumerera på nyhetsbrev
+- id: quick_links
+  translation: Snabblänkar
+- id: social
+  translation: Sociala länkar
+- id: back_to_home
+  translation: Tillbaka till hemmet
+- id: about_me
+  translation: Allt om Tropical White Villages
+- id: page_not_found
+  translation: Ooops! Denna sida är inte tillgänglig
+- id: search_results_for
+  translation: Sökresultat för
+- id: pool
+  translation: Simbassäng
+- id: seaview
+  translation: Havsutsikt
+- id: seaview_tag
+  translation: Seaview
+- id: garden
+  translation: Trädgård
+- id: property_search
+  translation: Funktioner
+- id: price_search
+  translation: Prisklass
+- id: town_search
+  translation: Stad
+- id: honeypot
+  translation: Fyll inte i detta om du är människa
+- id: property_type_search
+  translation: Fastighetstyp
+- id: villa
+  translation: Villa
+- id: townhouse
+  translation: Radhus
+- id: apartment
+  translation: Lägenhet
+- id: ruin
+  translation: Riun
+- id: land
+  translation: Landa
+- id: newbuild
+  translation: Nybyggd

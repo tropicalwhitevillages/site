@@ -1,0 +1,29 @@
+[[footer]]
+name = "Om oss"
+url = "about"
+weight = 1
+[[footer]]
+name = "Kontakt"
+url = "contact"
+weight = 2
+[[footer]]
+name = "Integritetspolicy"
+url = "privacy-policy"
+weight = 3
+[[footer]]
+name = "Allmänna Villkor"
+url = "terms-conditions"
+weight = 4
+[[main]]
+hasChildren = false
+name = "Återvända"
+weight = 1
+[[main]]
+name = "Om oss"
+url = "about"
+weight = 2
+[[main]]
+name = "Kontakt"
+url = "contact"
+weight = 3
+

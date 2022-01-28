@@ -6,7 +6,7 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # footer content
-footer_content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+footer_content = "With over 20 years experience in Estate Agency and consultation. We can guide you through the steps when purchasing in Spain ensuring peace of mind at every stage of your purchase."
 # copyright
 copyright = "Design By [Tropicaldo](https://tropicaldo.com/) Develop By [Tropicaldo](https://Tropicaldo.com/)"
 
@@ -19,7 +19,7 @@ contentDir = "content/french"
 weight = 2
 home = "Accueil"
 # footer content
-footer_content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+footer_content = "Avec plus de 20 ans d'expérience dans l'agence immobilière et la consultation. Nous pouvons vous guider à travers les étapes lors de l'achat en Espagne en vous assurant la tranquillité d'esprit à chaque étape de votre achat."
 # copyright
 copyright = "Design By [Tropicaldo](https://Tropicaldo.com/) Develop By [Tropicaldo](https://Tropicaldo.com/)"
 
@@ -31,6 +31,6 @@ contentDir = "content/spanish"
 weight = 3
 home = "Volver"
 # footer content
-footer_content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+footer_content = "Con más de 20 años de experiencia en Agencia Inmobiliaria y asesoramiento. Podemos guiarlo a través de los pasos al comprar en España asegurando su tranquilidad en cada etapa de su compra."
 # copyright
 copyright = "Design By [Tropicaldo](https://Tropicaldo.com/) Develop By [Tropicaldo](https://Tropicaldo.com/)"

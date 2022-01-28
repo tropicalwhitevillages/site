@@ -29,19 +29,19 @@ Denna fastighet i 2 plan har vardagsrum, separat kök, två badrum och två sovr
 
   {{< /tab >}}
 
-  {{< tab "Floor Plan" >}} {{< image src="/images/twv_property/PR1/PR1Floorplan.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}} {{< /tab >}}
+  {{< tab "Planlösning" >}} {{< image src="/images/twv_property/PR1/PR1Floorplan.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}} {{< /tab >}}
 
-{{< tab "Virtual tour" >}} {{< youtube 0SVMaAR5JIU >}} {{< /tab >}}
+{{< tab "Virtuell rundtur" >}} {{< youtube 0SVMaAR5JIU >}} {{< /tab >}}
 
 {{</ tabs >}}
 
 {{< tabs >}}
 
-{{< tab "Location" >}} 
+{{< tab "Plats" >}} 
 {{< image src="/images/maps/salobrena.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
 I hjärtat av Salobrena och bara 15 minuter till stranden. {{< /tab >}}
 
-{{< tab "Contact" >}} <form name="propertyContact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+{{< tab "Kontakt" >}} <form name="propertyContact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
 <div class="form-group">
 <label>Fyll inte i detta om du är människa: <input name="bot-field" /></label>
 </div>

@@ -41,7 +41,7 @@ Distribuida en 2 plantas, esta propiedad tiene sala de estar, cocina separada, d
 {{< image src="/images/maps/salobrena.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
 En el corazón de Salobreña ya tan solo 15 minutos de la playa. {{< /tab >}}
 
-{{< tab "Contacto" >}} <form name="propertContact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+{{< tab "Contacto" >}} <form name="propertyContact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
 <div class="form-group">
 <label>No llenes esto si eres humano: <input name="bot-field" /></label>
 </div>

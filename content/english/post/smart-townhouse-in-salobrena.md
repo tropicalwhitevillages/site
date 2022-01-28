@@ -41,7 +41,7 @@ Set over 2 floors this property has living room, separate kitchen two bathrooms 
 {{< image src="/images/maps/salobrena.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
 In the heart of Salobrena and only 15 minutes to the beach. {{< /tab >}}
 
-{{< tab "Contact" >}} <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+{{< tab "Contact" >}} <form name="propertContact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
 <div class="form-group">
 <label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
 </div>

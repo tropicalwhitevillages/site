@@ -10,23 +10,23 @@
       </a>
       <div class="collapse" id="{{ i18n "property_type_search" | urlize }}">
         <div class="p-2">
-          <div class='label-{{ i18n "column" }}'>
-      
+          <div class='label-wrap'>
             <label for="villa-field">{{ i18n "villa" }}:</label><br /><input id="villa-field" name="h" type="checkbox" value="{{ i18n "villa" }}" class="form-control" aria-label="villa-query">
-      
-            <label for="townhouse-field">{{ i18n "townhouse" }}:</label><br /><input id="townhouse-field" name="i" type="checkbox" value="{{ i18n "townhouse" }}" class="form-control" aria-label="townhouse-query">
-      
-            <label for="apartment-field">{{ i18n "apartment" }}:</label><br /><input id="apartment-field" name="j" type="checkbox" value="{{ i18n "apartment" }}" class="form-control" aria-label="apartment-query">
-
           </div>
-          <div class='label-{{ i18n "column" }}'>
-            
+          <div class='label-wrap'>
+            <label for="townhouse-field">{{ i18n "townhouse" }}:</label><br /><input id="townhouse-field" name="i" type="checkbox" value="{{ i18n "townhouse" }}" class="form-control" aria-label="townhouse-query">
+          </div>
+          <div class='label-wrap'>
+            <label for="apartment-field">{{ i18n "apartment" }}:</label><br /><input id="apartment-field" name="j" type="checkbox" value="{{ i18n "apartment" }}" class="form-control" aria-label="apartment-query">
+          </div>
+          <div class='label-wrap'>
             <label for="ruin-field">{{ i18n "ruin" }}:</label><br /><input id="ruin-field" name="k" type="checkbox" value="{{ i18n "ruin" }}" class="form-control" aria-label="ruin-query">
-      
+          </div>
+          <div class='label-wrap'>
             <label for="land-field">{{ i18n "land" }}:</label><br /><input id="land-field" name="l" type="checkbox" value="{{ i18n "land" }}" class="form-control" aria-label="land-query">
-      
+          </div>
+          <div class='label-wrap'>
             <label for="newbuild-field">{{ i18n "newbuild" }}:</label><br /><input id="newbuild-field" name="m" type="checkbox" value="{{ i18n "newbuild" }}" class="form-control" aria-label="newbuild-query">
-  
           </div>
         </div>
       </div>
@@ -59,7 +59,11 @@
         <div class="p-2">
           <div class='label-wrap'>
             <label for="50to100-field">50k-100k:</label><br /><input id="50to100-field" name="a" type="checkbox" value="50-100" class="form-control" aria-label="50to100-query">
+          </div> 
+          <div class='label-wrap'>
             <label for="100to200-field">100k-200k:</label><br /><input id="100to200-field" name="b" type="checkbox" value="100-200" class="form-control" aria-label="100to200-query">
+          </div>
+          <div class='label-wrap'>
             <label for="200to300-field">200k-300k:</label><br /><input id="200to300-field" name="c" type="checkbox" value="200-300" class="form-control" aria-label="200to300-query">   
           </div>
         </div>
@@ -72,9 +76,13 @@
       </a>
       <div class="collapse" id="{{ i18n "town_search" | urlize }}">
         <div class="p-2">
-          <div class='label-wrap-column'>
+          <div class='label-wrap'>
             <label for="salobrena-field">Salobrena:</label><br /><input id="salobrena-field" name="d" type="checkbox" value="salobrena" class="form-control" aria-label="salobrena-query">
+          </div>
+          <div class='label-wrap'>
             <label for="almunecar-field">Almunecar:</label><br /><input id="almunecar-field" name="e" type="checkbox" value="almunecar" class="form-control" aria-label="almunecar-query">
+          </div>
+          <div class='label-wrap'>
             <label for="laherradura-field">La Herradura:</label><br /><input id="laherradura-field" name="f" type="checkbox" value="la-herradura" class="form-control" aria-label="la-herradura-query">   
           </div>
         </div>

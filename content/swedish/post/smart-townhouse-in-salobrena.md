@@ -54,7 +54,7 @@ I hjärtat av Salobrena och bara 15 minuter till stranden. {{< /tab >}}
 <div class="form-group">
 <label>Meddelande: </label> <textarea name="message" class="form-control"></textarea>
 </div>
-<button type="submit" class="btn btn-primary">Send</button>
+<button type="submit" class="btn btn-primary">Skicka</button>
 </form> {{< /tab >}}
 
 {{</ tabs >}}

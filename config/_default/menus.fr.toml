@@ -1,73 +1,28 @@
 [[footer]]
-name = "About"
-url = "about"
+name = "Sur"
+url = "fr/about"
 weight = 1
 [[footer]]
 name = "Contact"
-url = "contact"
+url = "fr/contact"
 weight = 2
 [[footer]]
-name = "Privacy Policy"
-url = "privacy-policy"
+name = "Politique de Confidentialité"
+url = "fr/privacy-policy"
 weight = 3
 [[footer]]
-name = "Terms Conditions"
-url = "terms-conditions"
+name = "Termes et Conditions"
+url = "fr/terms-conditions"
 weight = 4
 [[main]]
-hasChildren = true
-name = "homepage"
+hasChildren = false
+name = "Accueil"
 weight = 1
 [[main]]
-name = "Homepage Full Width"
-parent = "homepage"
-url = "homepage/full/"
-weight = 1
-[[main]]
-name = "Homepage Full With Left Sidebar"
-parent = "homepage"
-url = "homepage/full-left/"
-weight = 2
-[[main]]
-name = "Homepage Full With Right Sidebar"
-parent = "homepage"
-url = "homepage/full-right/"
-weight = 3
-[[main]]
-name = "Homepage List Style"
-parent = "homepage"
-url = "homepage/list/"
-weight = 4
-[[main]]
-name = "Homepage List With Left Sidebar"
-parent = "homepage"
-url = "homepage/list-left/"
-weight = 5
-[[main]]
-name = "Homepage List With Right Sidebar"
-parent = "homepage"
-url = "homepage/list-right/"
-weight = 6
-[[main]]
-name = "Homepage Grid Style"
-parent = "homepage"
-url = "homepage/grid/"
-weight = 7
-[[main]]
-name = "Homepage Grid With Left Sidebar"
-parent = "homepage"
-url = "homepage/grid-left/"
-weight = 8
-[[main]]
-name = "Homepage Grid With Right Sidebar"
-parent = "homepage"
-url = "homepage/grid-right/"
-weight = 9
-[[main]]
-name = "About"
-url = "about"
+name = "Sur"
+url = "fr/about"
 weight = 2
 [[main]]
 name = "Contact"
-url = "contact"
+url = "fr/contact"
 weight = 3

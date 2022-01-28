@@ -34,13 +34,19 @@ var searchQuery = '';
 searchQuery = addToQuery(searchQuery, param("s")); // search box
 searchQuery = addToQuery(searchQuery, param("p")); // pool
 searchQuery = addToQuery(searchQuery, param("v")); // sea view
-searchQuery = addToQuery(searchQuery, param("g")); // garden
 searchQuery = addToQuery(searchQuery, param("a")); // 50 - 100
 searchQuery = addToQuery(searchQuery, param("b")); // 100 - 200
 searchQuery = addToQuery(searchQuery, param("c")); // 200 - 300
 searchQuery = addToQuery(searchQuery, param("d")); // salobrena
 searchQuery = addToQuery(searchQuery, param("e")); // almunecar
 searchQuery = addToQuery(searchQuery, param("f")); // la-herradura
+searchQuery = addToQuery(searchQuery, param("g")); // garden
+searchQuery = addToQuery(searchQuery, param("h")); // villa
+searchQuery = addToQuery(searchQuery, param("i")); // townhouse
+searchQuery = addToQuery(searchQuery, param("j")); // apartment
+searchQuery = addToQuery(searchQuery, param("k")); // ruin
+searchQuery = addToQuery(searchQuery, param("l")); // land
+searchQuery = addToQuery(searchQuery, param("m")); // newbuild
 
 console.log('searchQuery ' + searchQuery);
 if (searchQuery) {

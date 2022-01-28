@@ -27,8 +27,8 @@
       <div class="col-md-3 mb-4">
         <h6 class="mb-4">{{i18n "subscribe_newsletter"}}</h6>
         {{ with site.Params.subscription }}
-        <form class="subscription" action="{{ .mailchimp_form_action }}" method="post" name="mc-embedded-subscribe-form"
-          target="_blank">
+        <form class="subscription" method="post" name="embedded-subscribe-form"
+          target="_blank" data-netlify="true">
           <div class="position-relative">
             <i class="fas fa-envelope email-icon"></i>
             <input type="email" class="form-control" placeholder="{{ i18n `email`}}">

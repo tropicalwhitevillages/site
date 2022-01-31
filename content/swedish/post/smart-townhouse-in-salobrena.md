@@ -3,6 +3,7 @@ author = "Catarina"
 categories = ["Salobrena"]
 date = 2021-12-23T09:40:24Z
 description = "Radhus i hjärtat av den tropiska vita byn"
+image = "/images/twv_property/PR1/PR1House.jpg"
 images = ["/images/twv_property/PR1/PR1House.jpg"]
 tags = ["Stad", "Bergsutsikt", "Radhus", "100-200"]
 title = "Vackert radhus i Salobrena"

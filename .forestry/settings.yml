@@ -12,6 +12,12 @@ sections:
 - type: document
   path: content/french/post/_index.md
   label: Blog Page (fr)
+- type: document
+  path: content/spanish/post/_index.md
+  label: Blog Page (es)
+- type: document
+  path: content/swedish/post/_index.md
+  label: Blog Page (se)
 - type: directory
   path: content/english/post
   label: Post (en)
@@ -23,6 +29,22 @@ sections:
 - type: directory
   path: content/french/post
   label: Post (fr)
+  create: documents
+  match: "**/*"
+  exclude: _index.md
+  templates:
+  - post
+- type: directory
+  path: content/spanish/post
+  label: Post (es)
+  create: documents
+  match: "**/*"
+  exclude: _index.md
+  templates:
+  - post
+- type: directory
+  path: content/swedish/post
+  label: Post (se)
   create: documents
   match: "**/*"
   exclude: _index.md
@@ -44,6 +66,20 @@ sections:
   match: "**/*"
   templates:
   - author
+- type: directory
+  path: content/spanish/author
+  label: Author (es)
+  create: documents
+  match: "**/*"
+  templates:
+  - author
+- type: directory
+  path: content/swedish/author
+  label: Author (se)
+  create: documents
+  match: "**/*"
+  templates:
+  - author
 - type: heading
   label: About
 - type: document
@@ -52,6 +88,12 @@ sections:
 - type: document
   path: content/french/about.md
   label: About Page (fr)
+- type: document
+  path: content/spanish/about.md
+  label: About Page (es)
+- type: document
+  path: content/swedish/about.md
+  label: About Page (se)
 - type: heading
   label: Contact
 - type: document
@@ -60,6 +102,12 @@ sections:
 - type: document
   path: content/french/contact.md
   label: Contact Page (fr)
+- type: document
+  path: content/spanish/contact.md
+  label: Contact Page (es)
+- type: document
+  path: content/swedish/contact.md
+  label: Contact Page (se)
 - type: heading
   label: All Pages
 - type: directory
@@ -70,6 +118,16 @@ sections:
 - type: directory
   path: content/french
   label: All Page (fr)
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/spanish
+  label: All Page (es)
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/swedish
+  label: All Page (se)
   create: all
   match: "**/*"
 - type: heading

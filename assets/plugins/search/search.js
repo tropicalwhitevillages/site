@@ -108,6 +108,12 @@ function executeSearch(searchQuery) {
       console.log('searchQuery OR ' + searchQuery);
       if (searchQuery) {
         $("#search-query").val(searchQuery);
+        result = fuse.search(searchQuery);
+        if (result.length > 0) {
+          populateResults(result);
+        } else {
+          $('#search-results').append("<div class=\"text-center\"><h3>No Match Found - Please simplify your search</h3></div>");
+        }
       }
     }
   });

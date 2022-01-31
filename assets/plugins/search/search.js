@@ -49,9 +49,13 @@ searchQuery = addToQuery(searchQuery, param("l")); // land
 searchQuery = addToQuery(searchQuery, param("m")); // newbuild
 
 // console.log('searchQuery ' + searchQuery);
+var result = {};
 if (searchQuery) {
   // $("#search-query").val(searchQuery);
-  executeSearch(searchQuery , "No Match Found - Here are some close matches.");
+  result = executeSearch(searchQuery , "No Match Found - Here are some close matches.");
+  if (result != {}) {
+    populateResults(result);
+  }
 }
 
 searchQuery = '';
@@ -72,9 +76,13 @@ searchQuery = addToQueryOr(searchQuery, param("k")); // ruin
 searchQuery = addToQueryOr(searchQuery, param("l")); // land
 searchQuery = addToQueryOr(searchQuery, param("m")); // newbuild
 // console.log('searchQuery OR ' + searchQuery);
+result = {};
 if (searchQuery) {
   // $("#search-query").val(searchQuery);
-  executeSearch(searchQuery , "No Match Found - Please simplify your search.");
+  result = executeSearch(searchQuery , "No Match Found - Please simplify your search.");
+  if (result != {}) {
+    populateResults(result);
+  }
 }
 
 function addToQuery(queryStr, param) {
@@ -108,9 +116,10 @@ function executeSearch(searchQuery, noResults) {
     console.log({"matches":result});
     // console.log({"index":pages});
     if (result.length > 0) {
-      populateResults(result);
+      return result;
     } else {
       $('#search-results').append("<div class=\"text-center\"><h3>" + noResults + "</h3></div>");
+      return {};
     }
   });
 }

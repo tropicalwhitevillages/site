@@ -68,7 +68,7 @@ c = addToQueryOr(searchQueryOr, param("m")); // newbuild
 
 // console.log('searchQuery OR ' + searchQuery);
 if (searchQuery) {
-  executeSearch(searchQuery, searchQueryOr, "Close Matches");
+  executeSearch(searchQuery, searchQueryOr);
 }
 
 function addToQuery(queryStr, param) {
@@ -93,7 +93,7 @@ function addToQueryOr(queryStr, param) {
   return queryStr;
 }
 
-function executeSearch(searchQuery, searchQueryOr, noResults) {
+function executeSearch(searchQuery, searchQueryOr) {
   $.getJSON(indexURL, function (data) {
     var pages = data;
     var fuse = new Fuse(pages, fuseOptions);
@@ -112,14 +112,15 @@ function executeSearch(searchQuery, searchQueryOr, noResults) {
 
     if (result.length > 0) {
       populateResults(result);
-    } else {
-      $('#search-results').append("<div class=\"text-center\"><h3>" + noResults + "</h3></div>");
     }
 
     if (fileredCloseMatches.length > 0) {
+      $('#search-results').append("<div class=\"text-center\"><h3>Similar Results</h3></div>");
       populateResults(fileredCloseMatches);
-    } else {
-      $('#search-results').append("<div class=\"text-center\"><h3>No Close Matches - Simplify Search</h3></div>");
+    }
+
+    if (result.length === 0 && resultOr.length === 0) {
+      $('#search-results').append("<div class=\"text-center\"><h3>No Results Found - Simplify Search</h3></div>");
     }
   });
 }

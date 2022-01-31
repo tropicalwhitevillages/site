@@ -31,22 +31,22 @@ var fuseOptions = {
 };
 
 var searchQuery = '';
-searchQuery = addToQuery(searchQuery, param("s")); // search box
-searchQuery = addToQuery(searchQuery, param("p")); // pool
-searchQuery = addToQuery(searchQuery, param("v")); // sea view
-searchQuery = addToQuery(searchQuery, param("a")); // 50 - 100
-searchQuery = addToQuery(searchQuery, param("b")); // 100 - 200
-searchQuery = addToQuery(searchQuery, param("c")); // 200 - 300
-searchQuery = addToQuery(searchQuery, param("d")); // salobrena
-searchQuery = addToQuery(searchQuery, param("e")); // almunecar
-searchQuery = addToQuery(searchQuery, param("f")); // la-herradura
-searchQuery = addToQuery(searchQuery, param("g")); // garden
-searchQuery = addToQuery(searchQuery, param("h")); // villa
-searchQuery = addToQuery(searchQuery, param("i")); // townhouse
-searchQuery = addToQuery(searchQuery, param("j")); // apartment
-searchQuery = addToQuery(searchQuery, param("k")); // ruin
-searchQuery = addToQuery(searchQuery, param("l")); // land
-searchQuery = addToQuery(searchQuery, param("m")); // newbuild
+searchQuery = addToQueryAnd(searchQuery, param("s")); // search box
+searchQuery = addToQueryAnd(searchQuery, param("p")); // pool
+searchQuery = addToQueryAnd(searchQuery, param("v")); // sea view
+searchQuery = addToQueryAnd(searchQuery, param("a")); // 50 - 100
+searchQuery = addToQueryAnd(searchQuery, param("b")); // 100 - 200
+searchQuery = addToQueryAnd(searchQuery, param("c")); // 200 - 300
+searchQuery = addToQueryAnd(searchQuery, param("d")); // salobrena
+searchQuery = addToQueryAnd(searchQuery, param("e")); // almunecar
+searchQuery = addToQueryAnd(searchQuery, param("f")); // la-herradura
+searchQuery = addToQueryAnd(searchQuery, param("g")); // garden
+searchQuery = addToQueryAnd(searchQuery, param("h")); // villa
+searchQuery = addToQueryAnd(searchQuery, param("i")); // townhouse
+searchQuery = addToQueryAnd(searchQuery, param("j")); // apartment
+searchQuery = addToQueryAnd(searchQuery, param("k")); // ruin
+searchQuery = addToQueryAnd(searchQuery, param("l")); // land
+searchQuery = addToQueryAnd(searchQuery, param("m")); // newbuild
 
 console.log('searchQuery ' + searchQuery);
 if (searchQuery) {
@@ -65,6 +65,17 @@ function addToQuery(queryStr, param) {
   return queryStr;
 }
 
+function addToQueryAnd(queryStr, param) {
+  if (param != '') {
+    if (queryStr === '') {
+      queryStr = '\'' + param;
+    } else {
+      queryStr = queryStr  + ' \'' + param;
+    }
+  }
+  return queryStr;
+}
+
 function executeSearch(searchQuery) {
   $.getJSON(indexURL, function (data) {
     var pages = data;
@@ -76,7 +87,34 @@ function executeSearch(searchQuery) {
     if (result.length > 0) {
       populateResults(result);
     } else {
-      $('#search-results').append("<div class=\"text-center\"><img class=\"img-fluid mb-5\" src=\"https://user-images.githubusercontent.com/17677384/122171726-dabfee00-cea1-11eb-9f7f-b75b5c967205.png\" width=\"300\"><h3>No Search Found</h3></div>");
+      $('#search-results').append("<div class=\"text-center\"><h3>Search too specific - Here are the closest matches</h3></div>");
+      var searchQuery = '';
+      searchQuery = addToQuery(searchQuery, param("s")); // search box
+      searchQuery = addToQuery(searchQuery, param("p")); // pool
+      searchQuery = addToQuery(searchQuery, param("v")); // sea view
+      searchQuery = addToQuery(searchQuery, param("a")); // 50 - 100
+      searchQuery = addToQuery(searchQuery, param("b")); // 100 - 200
+      searchQuery = addToQuery(searchQuery, param("c")); // 200 - 300
+      searchQuery = addToQuery(searchQuery, param("d")); // salobrena
+      searchQuery = addToQuery(searchQuery, param("e")); // almunecar
+      searchQuery = addToQuery(searchQuery, param("f")); // la-herradura
+      searchQuery = addToQuery(searchQuery, param("g")); // garden
+      searchQuery = addToQuery(searchQuery, param("h")); // villa
+      searchQuery = addToQuery(searchQuery, param("i")); // townhouse
+      searchQuery = addToQuery(searchQuery, param("j")); // apartment
+      searchQuery = addToQuery(searchQuery, param("k")); // ruin
+      searchQuery = addToQuery(searchQuery, param("l")); // land
+      searchQuery = addToQuery(searchQuery, param("m")); // newbuild
+      console.log('searchQuery ' + searchQuery);
+      if (searchQuery) {
+        $("#search-query").val(searchQuery);
+        result = fuse.search(searchQuery);
+        if (result.length > 0) {
+          populateResults(result);
+        } else {
+          $('#search-results').append("<div class=\"text-center\"><h3>No Search Found</h3></div>");
+        }
+      }
     }
   });
 }

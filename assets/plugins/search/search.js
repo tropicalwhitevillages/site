@@ -48,9 +48,9 @@ searchQuery = addToQuery(searchQuery, param("k")); // ruin
 searchQuery = addToQuery(searchQuery, param("l")); // land
 searchQuery = addToQuery(searchQuery, param("m")); // newbuild
 
-console.log('searchQuery ' + searchQuery);
+// console.log('searchQuery ' + searchQuery);
 if (searchQuery) {
-  $("#search-query").val(searchQuery);
+  // $("#search-query").val(searchQuery);
   executeSearch(searchQuery);
 }
 
@@ -82,8 +82,8 @@ function executeSearch(searchQuery) {
     var fuse = new Fuse(pages, fuseOptions);
     var result = fuse.search(searchQuery);
 
-    console.log({"matches":result});
-    console.log({"index":pages});
+    // console.log({"matches":result});
+    // console.log({"index":pages});
     if (result.length > 0) {
       populateResults(result);
     } else {
@@ -105,9 +105,9 @@ function executeSearch(searchQuery) {
       searchQuery = addToQueryOr(searchQuery, param("k")); // ruin
       searchQuery = addToQueryOr(searchQuery, param("l")); // land
       searchQuery = addToQueryOr(searchQuery, param("m")); // newbuild
-      console.log('searchQuery OR ' + searchQuery);
+      // console.log('searchQuery OR ' + searchQuery);
       if (searchQuery) {
-        $("#search-query").val(searchQuery);
+        // $("#search-query").val(searchQuery);
         result = fuse.search(searchQuery);
         if (result.length > 0) {
           populateResults(result);

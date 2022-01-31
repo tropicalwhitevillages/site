@@ -4,14 +4,14 @@ categories = ["Salobrena"]
 date = 2021-12-23T09:40:24Z
 description = "Radhus i hjärtat av den tropiska vita byn"
 images = ["/images/twv_property/PR1/PR1House.jpg"]
-tags = ["Stad", "Bergsutsikt", "Radhus"]
+tags = ["Stad", "Bergsutsikt", "Radhus", "100-200"]
 title = "Vackert radhus i Salobrena"
 type = "featured"
 
 +++
 {{< notice "forsale" >}}
 
-£150,000
+€150,000
 {{< /notice >}}
 Fantastiskt traditionellt radhus, beläget i hjärtat av Salobrenas gamla stadsdel. Fastigheten ligger bara 5 minuters promenad från 1400-talets slottsmurar och har vacker havsutsikt från den rymliga takterrassen.
 10 minuter och du är i centrum av denna livliga och traditionella spanska stad, i hjärtat av Costa Tropical men ändå bara en timme bort från Malaga och flygplatsen.

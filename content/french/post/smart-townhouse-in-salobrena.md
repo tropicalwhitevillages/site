@@ -4,14 +4,14 @@ categories = ["Salobrena"]
 date = 2021-12-23T09:40:24Z
 description = "Maison de ville au coeur d'un village blanc tropical"
 images = ["/images/twv_property/PR1/PR1House.jpg"]
-tags = ["Ville", "Vue Montagne", "Maison de ville"]
+tags = ["Ville", "Vue Montagne", "Maison de ville", "100-200"]
 title = "Belle maison de ville à Salobreña"
 type = "featured"
 
 +++
 {{< notice "forsale" >}}
 
-£150,000
+€150,000
 {{< /notice >}}
 Superbe maison de ville traditionnelle, située au cœur de la vieille ville de Salobrena. La propriété est située à seulement 5 minutes à pied des murs du château du XVe siècle et offre de belles vues sur la mer depuis la spacieuse terrasse sur le toit.
 10 minutes et vous êtes au centre de cette ville espagnole traditionnelle et animée, située au cœur de la Costa tropicale mais à seulement une heure de Malaga et de l'aéroport.

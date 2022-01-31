@@ -51,7 +51,7 @@ searchQuery = addToQuery(searchQuery, param("m")); // newbuild
 // console.log('searchQuery ' + searchQuery);
 if (searchQuery) {
   // $("#search-query").val(searchQuery);
-  executeSearch(searchQuery);
+  executeSearch(searchQuery , "No Match Found - Here are some close matches.");
 }
 
 function addToQuery(queryStr, param) {
@@ -76,7 +76,7 @@ function addToQueryOr(queryStr, param) {
   return queryStr;
 }
 
-function executeSearch(searchQuery) {
+function executeSearch(searchQuery, noResults) {
   $.getJSON(indexURL, function (data) {
     var pages = data;
     var fuse = new Fuse(pages, fuseOptions);
@@ -87,7 +87,7 @@ function executeSearch(searchQuery) {
     if (result.length > 0) {
       populateResults(result);
     } else {
-      $('#search-results').append("<div class=\"text-center\"><h3>No Match Found - Here are some close matches.</h3></div>");
+      $('#search-results').append("<div class=\"text-center\"><h3>" +  + "</h3></div>");
       searchQuery = '';
       searchQuery = addToQueryOr(searchQuery, param("s")); // search box
       searchQuery = addToQueryOr(searchQuery, param("p")); // pool

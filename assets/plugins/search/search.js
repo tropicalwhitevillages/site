@@ -105,7 +105,7 @@ function executeSearch(searchQuery, noResults) {
     var fuse = new Fuse(pages, fuseOptions);
     var result = fuse.search(searchQuery);
 
-    // console.log({"matches":result});
+    console.log({"matches":result});
     // console.log({"index":pages});
     if (result.length > 0) {
       populateResults(result);

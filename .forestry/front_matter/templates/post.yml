@@ -8,6 +8,9 @@ fields:
 - type: datetime
   name: date
   label: date
+- type: file
+  name: image
+  label: Search_image
 - type: image_gallery
   name: images
   label: images

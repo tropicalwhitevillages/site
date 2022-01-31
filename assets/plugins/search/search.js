@@ -109,7 +109,7 @@ function executeSearch(searchQuery, noResults) {
     // console.log({"index":pages});
     if (result.length > 0) {
       populateResults(result);
-      $('#search-results').append("<div class=\"text-center\"><h3>" + Similar Matches: + "</h3></div>");
+      $('#search-results').append("<div class=\"text-center\"><h3>Similar Matches:</h3></div>");
     } else {
       $('#search-results').append("<div class=\"text-center\"><h3>" + noResults + "</h3></div>");
     }

@@ -65,6 +65,17 @@ function addToQuery(queryStr, param) {
   return queryStr;
 }
 
+function addToQueryOr(queryStr, param) {
+  if (param != '') {
+    if (queryStr === '') {
+      queryStr = '\'' + param;
+    } else {
+      queryStr = queryStr  + ' | \'' + param;
+    }
+  }
+  return queryStr;
+}
+
 function executeSearch(searchQuery) {
   $.getJSON(indexURL, function (data) {
     var pages = data;
@@ -76,7 +87,28 @@ function executeSearch(searchQuery) {
     if (result.length > 0) {
       populateResults(result);
     } else {
-      $('#search-results').append("<div class=\"text-center\"><img class=\"img-fluid mb-5\" src=\"https://user-images.githubusercontent.com/17677384/122171726-dabfee00-cea1-11eb-9f7f-b75b5c967205.png\" width=\"300\"><h3>No Search Found</h3></div>");
+      $('#search-results').append("<div class=\"text-center\"><h3>No Match Found - Here are some close matches.</h3></div>");
+      searchQuery = '';
+      searchQuery = addToQuery(searchQuery, param("s")); // search box
+      searchQuery = addToQuery(searchQuery, param("p")); // pool
+      searchQuery = addToQuery(searchQuery, param("v")); // sea view
+      searchQuery = addToQuery(searchQuery, param("a")); // 50 - 100
+      searchQuery = addToQuery(searchQuery, param("b")); // 100 - 200
+      searchQuery = addToQuery(searchQuery, param("c")); // 200 - 300
+      searchQuery = addToQuery(searchQuery, param("d")); // salobrena
+      searchQuery = addToQuery(searchQuery, param("e")); // almunecar
+      searchQuery = addToQuery(searchQuery, param("f")); // la-herradura
+      searchQuery = addToQuery(searchQuery, param("g")); // garden
+      searchQuery = addToQuery(searchQuery, param("h")); // villa
+      searchQuery = addToQuery(searchQuery, param("i")); // townhouse
+      searchQuery = addToQuery(searchQuery, param("j")); // apartment
+      searchQuery = addToQuery(searchQuery, param("k")); // ruin
+      searchQuery = addToQuery(searchQuery, param("l")); // land
+      searchQuery = addToQuery(searchQuery, param("m")); // newbuild
+      console.log('searchQuery OR ' + searchQuery);
+      if (searchQuery) {
+        $("#search-query").val(searchQuery);
+      }
     }
   });
 }

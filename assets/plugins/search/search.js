@@ -54,6 +54,29 @@ if (searchQuery) {
   executeSearch(searchQuery , "No Match Found - Here are some close matches.");
 }
 
+searchQuery = '';
+searchQuery = addToQueryOr(searchQuery, param("s")); // search box
+searchQuery = addToQueryOr(searchQuery, param("p")); // pool
+searchQuery = addToQueryOr(searchQuery, param("v")); // sea view
+searchQuery = addToQueryOr(searchQuery, param("a")); // 50 - 100
+searchQuery = addToQueryOr(searchQuery, param("b")); // 100 - 200
+searchQuery = addToQueryOr(searchQuery, param("c")); // 200 - 300
+searchQuery = addToQueryOr(searchQuery, param("d")); // salobrena
+searchQuery = addToQueryOr(searchQuery, param("e")); // almunecar
+searchQuery = addToQueryOr(searchQuery, param("f")); // la-herradura
+searchQuery = addToQueryOr(searchQuery, param("g")); // garden
+searchQuery = addToQueryOr(searchQuery, param("h")); // villa
+searchQuery = addToQueryOr(searchQuery, param("i")); // townhouse
+searchQuery = addToQueryOr(searchQuery, param("j")); // apartment
+searchQuery = addToQueryOr(searchQuery, param("k")); // ruin
+searchQuery = addToQueryOr(searchQuery, param("l")); // land
+searchQuery = addToQueryOr(searchQuery, param("m")); // newbuild
+// console.log('searchQuery OR ' + searchQuery);
+if (searchQuery) {
+  // $("#search-query").val(searchQuery);
+  executeSearch(searchQuery , "No Match Found - Please simplify your search.");
+}
+
 function addToQuery(queryStr, param) {
   if (param != '') {
     if (queryStr === '') {
@@ -87,34 +110,7 @@ function executeSearch(searchQuery, noResults) {
     if (result.length > 0) {
       populateResults(result);
     } else {
-      $('#search-results').append("<div class=\"text-center\"><h3>" +  + "</h3></div>");
-      searchQuery = '';
-      searchQuery = addToQueryOr(searchQuery, param("s")); // search box
-      searchQuery = addToQueryOr(searchQuery, param("p")); // pool
-      searchQuery = addToQueryOr(searchQuery, param("v")); // sea view
-      searchQuery = addToQueryOr(searchQuery, param("a")); // 50 - 100
-      searchQuery = addToQueryOr(searchQuery, param("b")); // 100 - 200
-      searchQuery = addToQueryOr(searchQuery, param("c")); // 200 - 300
-      searchQuery = addToQueryOr(searchQuery, param("d")); // salobrena
-      searchQuery = addToQueryOr(searchQuery, param("e")); // almunecar
-      searchQuery = addToQueryOr(searchQuery, param("f")); // la-herradura
-      searchQuery = addToQueryOr(searchQuery, param("g")); // garden
-      searchQuery = addToQueryOr(searchQuery, param("h")); // villa
-      searchQuery = addToQueryOr(searchQuery, param("i")); // townhouse
-      searchQuery = addToQueryOr(searchQuery, param("j")); // apartment
-      searchQuery = addToQueryOr(searchQuery, param("k")); // ruin
-      searchQuery = addToQueryOr(searchQuery, param("l")); // land
-      searchQuery = addToQueryOr(searchQuery, param("m")); // newbuild
-      // console.log('searchQuery OR ' + searchQuery);
-      if (searchQuery) {
-        // $("#search-query").val(searchQuery);
-        result = fuse.search(searchQuery);
-        if (result.length > 0) {
-          populateResults(result);
-        } else {
-          $('#search-results').append("<div class=\"text-center\"><h3>No Match Found - Please simplify your search</h3></div>");
-        }
-      }
+      $('#search-results').append("<div class=\"text-center\"><h3>" + noResults + "</h3></div>");
     }
   });
 }

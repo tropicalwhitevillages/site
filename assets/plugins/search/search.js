@@ -48,43 +48,27 @@ searchQuery = addToQuery(searchQuery, param("k")); // ruin
 searchQuery = addToQuery(searchQuery, param("l")); // land
 searchQuery = addToQuery(searchQuery, param("m")); // newbuild
 
-// console.log('searchQuery ' + searchQuery);
-var result = {};
-if (searchQuery) {
-  // $("#search-query").val(searchQuery);
-  result = executeSearch(searchQuery , "No Match Found - Here are some close matches.");
-  console.log({"1matches":result});
-  if (result != {}) {
-    populateResults(result);
-  }
-}
+var searchQueryOr = '';
+searchQueryOr = addToQueryOr(searchQueryOr, param("s")); // search box
+searchQueryOr = addToQueryOr(searchQueryOr, param("p")); // pool
+searchQueryOr = addToQueryOr(searchQueryOr, param("v")); // sea view
+searchQueryOr = addToQueryOr(searchQueryOr, param("a")); // 50 - 100
+searchQueryOr = addToQueryOr(searchQueryOr, param("b")); // 100 - 200
+searchQueryOr = addToQueryOr(searchQueryOr, param("c")); // 200 - 300
+searchQueryOr = addToQueryOr(searchQueryOr, param("d")); // salobrena
+searchQueryOr = addToQueryOr(searchQueryOr, param("e")); // almunecar
+searchQueryOr = addToQueryOr(searchQueryOr, param("f")); // la-herradura
+searchQueryOr = addToQueryOr(searchQueryOr, param("g")); // garden
+searchQueryOr = addToQueryOr(searchQueryOr, param("h")); // villa
+searchQueryOr = addToQueryOr(searchQueryOr, param("i")); // townhouse
+searchQueryOr = addToQueryOr(searchQueryOr, param("j")); // apartment
+searchQueryOr = addToQueryOr(searchQueryOr, param("k")); // ruin
+searchQueryOr = addToQueryOr(searchQueryOr, param("l")); // land
+c = addToQueryOr(searchQueryOr, param("m")); // newbuild
 
-searchQuery = '';
-searchQuery = addToQueryOr(searchQuery, param("s")); // search box
-searchQuery = addToQueryOr(searchQuery, param("p")); // pool
-searchQuery = addToQueryOr(searchQuery, param("v")); // sea view
-searchQuery = addToQueryOr(searchQuery, param("a")); // 50 - 100
-searchQuery = addToQueryOr(searchQuery, param("b")); // 100 - 200
-searchQuery = addToQueryOr(searchQuery, param("c")); // 200 - 300
-searchQuery = addToQueryOr(searchQuery, param("d")); // salobrena
-searchQuery = addToQueryOr(searchQuery, param("e")); // almunecar
-searchQuery = addToQueryOr(searchQuery, param("f")); // la-herradura
-searchQuery = addToQueryOr(searchQuery, param("g")); // garden
-searchQuery = addToQueryOr(searchQuery, param("h")); // villa
-searchQuery = addToQueryOr(searchQuery, param("i")); // townhouse
-searchQuery = addToQueryOr(searchQuery, param("j")); // apartment
-searchQuery = addToQueryOr(searchQuery, param("k")); // ruin
-searchQuery = addToQueryOr(searchQuery, param("l")); // land
-searchQuery = addToQueryOr(searchQuery, param("m")); // newbuild
 // console.log('searchQuery OR ' + searchQuery);
-result = {};
 if (searchQuery) {
-  // $("#search-query").val(searchQuery);
-  result = executeSearch(searchQuery , "No Match Found - Please simplify your search.");
-  console.log({"2matches":result});
-  if (result != {}) {
-    populateResults(result);
-  }
+  executeSearch(searchQuery, searchQueryOr, "Close Matches");
 }
 
 function addToQuery(queryStr, param) {
@@ -109,19 +93,33 @@ function addToQueryOr(queryStr, param) {
   return queryStr;
 }
 
-function executeSearch(searchQuery, noResults) {
+function executeSearch(searchQuery, searchQueryOr, noResults) {
   $.getJSON(indexURL, function (data) {
     var pages = data;
     var fuse = new Fuse(pages, fuseOptions);
     var result = fuse.search(searchQuery);
+    var resultOr = fuse.search(searchQueryOr);
 
     console.log({"matches":result});
+    console.log({"matches":resultOr});
     // console.log({"index":pages});
+
+    var fileredCloseMatches = resultOr.filter(function(objFromResultOr) {
+      return !result.find(function(objFromResult) {
+        return objFromResultOr.item.permalink === objFromResult.item.permalink
+      })
+    })
+
     if (result.length > 0) {
-      return result;
+      populateResults(result);
     } else {
       $('#search-results').append("<div class=\"text-center\"><h3>" + noResults + "</h3></div>");
-      return {};
+    }
+
+    if (fileredCloseMatches.length > 0) {
+      populateResults(fileredCloseMatches);
+    } else {
+      $('#search-results').append("<div class=\"text-center\"><h3>No Close Matches - Simplify Search</h3></div>");
     }
   });
 }

@@ -59,7 +59,7 @@ function addToQuery(queryStr, param) {
     if (queryStr === '') {
       queryStr = '\'' + param;
     } else {
-      queryStr = queryStr  + ' | \'' + param;
+      queryStr = queryStr  + ' \'' + param;
     }
   }
   return queryStr;

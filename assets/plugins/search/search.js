@@ -53,6 +53,7 @@ var result = {};
 if (searchQuery) {
   // $("#search-query").val(searchQuery);
   result = executeSearch(searchQuery , "No Match Found - Here are some close matches.");
+  console.log({"1matches":result});
   if (result != {}) {
     populateResults(result);
   }
@@ -80,6 +81,7 @@ result = {};
 if (searchQuery) {
   // $("#search-query").val(searchQuery);
   result = executeSearch(searchQuery , "No Match Found - Please simplify your search.");
+  console.log({"2matches":result});
   if (result != {}) {
     populateResults(result);
   }

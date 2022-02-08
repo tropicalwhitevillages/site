@@ -3,11 +3,10 @@ author = "Catarina"
 categories = ["Salobrena"]
 date = 2021-12-23T09:40:24Z
 description = "Townhouse in heart of tropical white village"
-draft = true
-image = "/images/twv_property/PR1/PR1House.jpg"
-images = ["/images/twv_property/PR1/PR1House.jpg"]
+image = "/images/pr1_bedroom1_chair.jpg"
+images = ["/images/pr1_balcony_doors.jpg", "/images/pr1_bathroom.jpg", "/images/pr1_bathroom2_shower.jpg", "/images/pr1_beach1.jpg"]
 tags = ["Town", "Mountain Views", "Townhouse", "100-200"]
-title = "Smart Townhouse in Salobrena-(copy)"
+title = "PR1"
 type = "featured"
 
 +++

@@ -4,8 +4,7 @@
       {{ range (where site.RegularPages "Type" "featured") }}
       <div class="featured-post">
 
-        {{ with .Params.images }}
-        {{ range first 1 .}}
+        {{ with .Params.image }}
         {{ if (fileExists (add `assets/` .)) }}
         {{ $image:= resources.Get . }}
         {{ $imageFallback:= $image.Resize "1110x" }}
@@ -23,7 +22,6 @@
         </picture>
         {{ else }}
         <img loading="lazy" class="img-fluid w-100 featured-post-img" src="{{ $imageFallback.RelPermalink }}" alt="post image" width="{{$image.Width}}" height="{{$image.Height}}">
-        {{ end }}
         {{ end }}
         {{ end }}
 

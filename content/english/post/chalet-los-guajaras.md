@@ -1,11 +1,11 @@
 +++
 author = "Catarina"
 categories = ["Salobrena"]
-date = 2021-12-23T09:40:24Z
+date = 2022-02-15T09:40:24Z
 description = "Townhouse in heart of tropical white village"
 draft = true
-image = "/images/twv_property/PR1/PR1House.jpg"
-images = ["/images/twv_property/PR1/PR1House.jpg"]
+image = "/images/pr2_guajares_exterior1400.jpg"
+images = ["/images/pr2_guajares_entrance.jpg", "/images/pr2_guajares_door.jpg", "/images/pr2_guajares_living-jpg.webp", "/images/pr2_guajares_kitchen2.jpg", "/images/pr2_guajares_kitchen.jpg", "/images/pr2_guajares_bedroom2.jpg", "/images/pr2_guajares_bedroom1.jpg", "/images/pr2_guajares_bedroom.jpg", "/images/pr2_guajares_bathroom.jpg", "/images/pr2_guajares_shower.jpg", "/images/pr2_guajares_view-jpg.webp", "/images/pr2_guajares_view2.jpg", "/images/pr2_guajares_view.jpg", "/images/pr2_guajares_view3-jpg.webp", "/images/pr2_guajares_view5.jpg", "/images/pr2_guajares_view3.jpg", "/images/pr2_guajares_view2-jpg.webp", "/images/pr2_guajares_exterior2.jpg", "/images/pr2_guajares_garden6-jpg.webp", "/images/pr2_guajares_garden3.jpg", "/images/pr2_guajares_garden5-jpg.webp", "/images/pr2_guajares_garden6.jpg", "/images/pr2_guajares_garden.jpg", "/images/pr2_guajares_exterior.jpg", "/images/pr2_guajares_garden2.jpg", "/images/pr2_guajares_garden5.jpg", "/images/pr2_guajares_view4.jpg", "/images/pr2_guajares_garden4.jpg", "/images/pr2_guajares_pueblo2.jpg", "/images/pr2_guajares_pueblo.jpg", "/images/pr2_guajares_waterfall.jpg"]
 tags = ["Town", "Mountain Views", "Townhouse", "100-200"]
 title = "Chalet Los Guajaras"
 type = "featured"
@@ -13,20 +13,16 @@ type = "featured"
 +++
 {{< notice "forsale" >}}
 
-€150,000
-{{< /notice >}}
-Stunning traditional townhouse, located in the heart of Salobrena old town. The property is set only 5 min walk from the 15th Century castle walls and has beautiful seaviews from the spacious roof terrace.
-10 mins and you are in the centre of this bustling and traditional spanish town, set in the heart of the Costa Tropical yet still only an hour away from Malaga and the airport.
-Set over 2 floors this property has living room, separate kitchen two bathrooms and two bedrooms
+€125,000 {{< /notice >}}   
+Stunning surroundings, located in an area of outstanding natural beauty. This pretty well furnished two-bedroom home with good ECO credentials is great for nature lovers, walkers and cyclists who want to escape to relaxing and peaceful surroundings to enjoy an average of 320 days of sunshine a year. Located in the undiscovered valley of Los Guajares, the property is just 2km above the local village of Guajar Alto which offers a number of amenities including bars, restaurants, shop, church, doctor and numerous fiestas. Situated on a 7,300sq metre plot, this small gem of a detached country house, is furnished and equipped to a high standard. There is a large bedsitting room (king size bed) with a wardrobe, chest of drawers, wood burning stove, television and internet/satellite connection. The second bedroom has a double bed and fitted wardrobe, there is also a shower room. The kitchen includes fitted units, a freestanding gas cooker, fridge freezer, sink and washing machine, all included in the price. The property has a top of the range solar energy system, which is off grid. There are lot of storage area. One of them, situated under the main building which could be used as a guest room in the summer ir a bodega. The windows are all double-glazed maintenance-free PVC and have metal security bars, which can be opened. Also, the main door is security rated with a multi-point locking system and a metal security screenThere is a lovely south facing terrace, shaded by a jacaranda tree with views over the valley towards protected parkland and mountains. There is easy access with ample parking. For more information or scheduling a viewing please let us know.
 
 {{< tabs >}}
 
 {{< tab "Details" >}}
 
-* Townhouse
+* Country House
 * 2 Bedrooms
 * Mountain Views
-* Covered Rooftop Terrace
 * 2 Bathrooms
 
   {{< /tab >}}
@@ -39,7 +35,7 @@ Set over 2 floors this property has living room, separate kitchen two bathrooms 
 
 {{< tabs >}}
 
-{{< tab "Location" >}} 
+{{< tab "Location" >}}
 {{< image src="/images/maps/salobrena.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
 In the heart of Salobrena and only 15 minutes to the beach. {{< /tab >}}
 

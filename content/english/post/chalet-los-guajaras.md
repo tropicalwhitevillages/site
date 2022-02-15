@@ -3,7 +3,6 @@ author = "Catarina"
 categories = ["Salobrena"]
 date = 2022-02-15T09:40:24Z
 description = "Townhouse in heart of tropical white village"
-draft = true
 image = "/images/pr2_guajares_exterior1400.jpg"
 images = ["/images/pr2_guajares_entrance.jpg", "/images/pr2_guajares_door.jpg", "/images/pr2_guajares_living-jpg.webp", "/images/pr2_guajares_kitchen2.jpg", "/images/pr2_guajares_kitchen.jpg", "/images/pr2_guajares_bedroom2.jpg", "/images/pr2_guajares_bedroom1.jpg", "/images/pr2_guajares_bedroom.jpg", "/images/pr2_guajares_bathroom.jpg", "/images/pr2_guajares_shower.jpg", "/images/pr2_guajares_view-jpg.webp", "/images/pr2_guajares_view2.jpg", "/images/pr2_guajares_view.jpg", "/images/pr2_guajares_view3-jpg.webp", "/images/pr2_guajares_view5.jpg", "/images/pr2_guajares_view3.jpg", "/images/pr2_guajares_view2-jpg.webp", "/images/pr2_guajares_exterior2.jpg", "/images/pr2_guajares_garden6-jpg.webp", "/images/pr2_guajares_garden3.jpg", "/images/pr2_guajares_garden5-jpg.webp", "/images/pr2_guajares_garden6.jpg", "/images/pr2_guajares_garden.jpg", "/images/pr2_guajares_exterior.jpg", "/images/pr2_guajares_garden2.jpg", "/images/pr2_guajares_garden5.jpg", "/images/pr2_guajares_view4.jpg", "/images/pr2_guajares_garden4.jpg", "/images/pr2_guajares_pueblo2.jpg", "/images/pr2_guajares_pueblo.jpg", "/images/pr2_guajares_waterfall.jpg"]
 tags = ["Town", "Mountain Views", "Townhouse", "100-200"]

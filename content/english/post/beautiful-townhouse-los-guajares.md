@@ -1,32 +1,27 @@
 +++
 author = "Catarina"
-categories = ["Salobrena"]
-date = 2021-12-23T09:40:24Z
+categories = ["Los Guajaras"]
+date = 2022-02-17T09:40:24Z
 description = "Townhouse in heart of tropical white village"
-draft = true
-image = "/images/twv_property/PR1/PR1House.jpg"
-images = ["/images/twv_property/PR1/PR1House.jpg"]
-tags = ["Town", "Mountain Views", "Townhouse", "100-200"]
+image = "/images/pr2_house_pool1400.jpg"
+images = ["/images/pr2_house_entrance1-jpg.webp", "/images/pr2_house_stove.jpg", "/images/pr2_house_hallway.jpg", "/images/pr2_house_living2.jpg", "/images/pr2_house_living.jpg", "/images/pr2_house_kitchen4.jpg", "/images/pr2_house_kitchen3.jpg", "/images/pr2_house_sitting.jpg", "/images/pr2_house_bedroomtwin.jpg", "/images/pr2_house_bedroomtwin2.jpg", "/images/pr2_house_kitchen.jpg", "/images/pr2_house_bathroom.jpg", "/images/pr2_house_courtyarddown.jpg", "/images/pr2_house_bedroom2.jpg", "/images/pr2_house_toilet.jpg", "/images/pr2_house_bedroomtwin3.jpg", "/images/pr2_house_bedroom-jpg.webp", "/images/pr2_house_roof.jpg", "/images/pr2_house_pool.jpg", "/images/pr2_house_external-jpg.webp", "/images/pr2_house_balcony.jpg", "/images/pr2_house_courtyard2down.jpg", "/images/pr2_house_courtyard2up.jpg", "/images/pr2_house_garden1.jpg", "/images/pr2_house_courtyardup.jpg", "/images/pr2_house_entrance.jpg", "/images/pr2_house_terrace1.jpg", "/images/pr2_house_terrace.jpg", "/images/pr2_house_terrace2.jpg", "/images/pr2_house_guajares.jpg"]
+tags = ["Town", "Mountain Views", "Townhouse", "200 - 300"]
 title = "Beautiful Townhouse Los Guajares"
 type = "featured"
 
 +++
 {{< notice "forsale" >}}
 
-€150,000
-{{< /notice >}}
-Stunning traditional townhouse, located in the heart of Salobrena old town. The property is set only 5 min walk from the 15th Century castle walls and has beautiful seaviews from the spacious roof terrace.
-10 mins and you are in the centre of this bustling and traditional spanish town, set in the heart of the Costa Tropical yet still only an hour away from Malaga and the airport.
-Set over 2 floors this property has living room, separate kitchen two bathrooms and two bedrooms
+€254,000 {{< /notice >}} Beautiful 3 bedroomed house for sale in Guajares (Los) with terrace and swimming pool
 
 {{< tabs >}}
 
 {{< tab "Details" >}}
 
 * Townhouse
-* 2 Bedrooms
+* 3 Bedrooms
 * Mountain Views
-* Covered Rooftop Terrace
+* Large Rooftop Terrace
 * 2 Bathrooms
 
   {{< /tab >}}
@@ -39,7 +34,7 @@ Set over 2 floors this property has living room, separate kitchen two bathrooms 
 
 {{< tabs >}}
 
-{{< tab "Location" >}} 
+{{< tab "Location" >}}
 {{< image src="/images/maps/salobrena.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
 In the heart of Salobrena and only 15 minutes to the beach. {{< /tab >}}
 

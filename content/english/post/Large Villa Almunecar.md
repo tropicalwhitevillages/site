@@ -1,33 +1,41 @@
 +++
 author = "Catarina"
-categories = ["Salobrena"]
+categories = []
 date = 2022-02-17T09:40:24Z
-description = "Townhouse in heart of tropical white village"
-draft = true
-image = "/images/pr4_alm_villa_bathroom2.jpg"
-images = ["/images/twv_property/PR1/PR1House.jpg"]
-tags = ["Town", "Mountain Views", "Townhouse", "100-200"]
-title = "House Los Guajaras"
+description = "Great Opprortunity large villa, centrally located in Almunecar, close to beaches and restuarants"
+image = "/images/pr4_alm_villa_exterior1400.jpg"
+images = ["/images/pr4_alm_villa_exterior.jpg", "/images/pr4_alm_villa_living.jpg", "/images/pr4_alm_villa_sitting.jpg", "/images/pr4_alm_villa_dining.jpg", "/images/pr4_alm_villa_kitchen2.jpg", "/images/pr4_alm_villa_kitchen.jpg", "/images/pr4_alm_villa_master.jpg", "/images/pr4_alm_villa_shower.jpg", "/images/pr4_alm_villa_shower2.jpg", "/images/pr4_alm_villa_bedroom3.jpg", "/images/pr4_alm_villa_bedroom2.jpg", "/images/pr4_alm_villa_bathroom2.jpg", "/images/pr4_alm_villa_dressing.jpg", "/images/pr4_alm_villa_kicthen3.jpg", "/images/pr4_alm_villa_bedroom1.jpg", "/images/pr4_alm_villa_bedroom.jpg", "/images/pr4_alm_villa_living2.jpg", "/images/pr4_alm_villa_bedroom3desk.jpg", "/images/pr4_alm_villa_terrace.jpg", "/images/pr4_alm_villa_garden3.jpg", "/images/pr4_alm_villa_garden1.jpg", "/images/pr4_alm_villa_drive.jpg", "/images/pr4_alm_villa_garden2.jpg", "/images/pr4_alm_villa_garden.jpg"]
+tags = ["Town", "Mountain Views", "Townhouse", "600 - 700"]
+title = "Large Villa Almunecar"
 type = "featured"
 
 +++
 {{< notice "forsale" >}}
 
-€150,000
-{{< /notice >}}
-Stunning traditional townhouse, located in the heart of Salobrena old town. The property is set only 5 min walk from the 15th Century castle walls and has beautiful seaviews from the spacious roof terrace.
-10 mins and you are in the centre of this bustling and traditional spanish town, set in the heart of the Costa Tropical yet still only an hour away from Malaga and the airport.
-Set over 2 floors this property has living room, separate kitchen two bathrooms and two bedrooms
+€630,000 {{< /notice >}}Large detached villa for same in Calle Hurtado de Mendoza, Almunecar.
+
+A fantastic opportunity to purchase a very spacious house in an unbeatable central position, with all services and the beach just around the corner.
+
+The house is currently divided into two living areas;
+
+A 2 bedroom apartment, living / dining room, kitchen and bathroom. The apartment also has a separate entrance and its own outside space.
+
+The main house is formed over three floors with a roof terrace. 
+
+More information shortly. Don't miss out on this fantastic property, contact to view.
 
 {{< tabs >}}
 
 {{< tab "Details" >}}
 
-* Townhouse
-* 2 Bedrooms
-* Mountain Views
-* Covered Rooftop Terrace
-* 2 Bathrooms
+* Large Villa
+* 7 Bedrooms
+* Gardens
+* Driveway
+* Rooftop Terrace
+* 3 Bathrooms
+* Very close to the beach
+* Centrally located in the heart of Almunecar
 
   {{< /tab >}}
 
@@ -39,7 +47,7 @@ Set over 2 floors this property has living room, separate kitchen two bathrooms 
 
 {{< tabs >}}
 
-{{< tab "Location" >}} 
+{{< tab "Location" >}}
 {{< image src="/images/maps/salobrena.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
 In the heart of Salobrena and only 15 minutes to the beach. {{< /tab >}}
 

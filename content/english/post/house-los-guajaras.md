@@ -1,10 +1,10 @@
 +++
 author = "Catarina"
 categories = ["Salobrena"]
-date = 2021-12-23T09:40:24Z
+date = 2022-02-17T09:40:24Z
 description = "Townhouse in heart of tropical white village"
 draft = true
-image = "/images/twv_property/PR1/PR1House.jpg"
+image = "/images/pr4_alm_villa_bathroom2.jpg"
 images = ["/images/twv_property/PR1/PR1House.jpg"]
 tags = ["Town", "Mountain Views", "Townhouse", "100-200"]
 title = "House Los Guajaras"

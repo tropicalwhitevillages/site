@@ -20,7 +20,7 @@ The house is currently divided into two living areas;
 
 A 2 bedroom apartment, living / dining room, kitchen and bathroom. The apartment also has a separate entrance and its own outside space.
 
-The main house is formed over three floors with a roof terrace. 
+The main house is formed over three floors with a roof terrace.
 
 More information shortly. Don't miss out on this fantastic property, contact to view.
 
@@ -39,9 +39,9 @@ More information shortly. Don't miss out on this fantastic property, contact to 
 
   {{< /tab >}}
 
-  {{< tab "Floor Plan" >}} {{< image src="/images/twv_property/PR1/PR1Floorplan.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}} {{< /tab >}}
+  {{< tab "Floor Plan" >}}  {{< /tab >}}
 
-{{< tab "Virtual tour" >}} {{< youtube 0SVMaAR5JIU >}} {{< /tab >}}
+{{< tab "Virtual tour" >}} {{< youtube iqeNNKbc5lk >}} {{< /tab >}}
 
 {{</ tabs >}}
 

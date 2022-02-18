@@ -1,32 +1,31 @@
 +++
 author = "Catarina"
 categories = ["Salobrena"]
-date = 2021-12-23T09:40:24Z
+date = 2022-01-05T09:40:24Z
 description = "Townhouse in heart of tropical white village"
-draft = true
-image = "/images/twv_property/PR1/PR1House.jpg"
-images = ["/images/twv_property/PR1/PR1House.jpg"]
-tags = ["Town", "Mountain Views", "Townhouse", "100-200"]
+image = "/images/pr7_salold_entrance1400.jpg"
+images = ["/images/pr7_salold_bedroom.jpg", "/images/pr7_salold_bedroom2.jpg", "/images/pr7_salold_toilet.jpg", "/images/pr7_salold_master.jpg", "/images/pr7_salold_master1.jpg", "/images/pr7_salold_twin.jpg", "/images/pr7_salold_living.jpg", "/images/pr7_salold_rooftop.jpg", "/images/pr7_salold_view.jpg", "/images/pr7_salold_mountains.jpg", "/images/pr7_salold_terrace2.jpg", "/images/pr7_salold_kitchen.jpg", "/images/pr7_salold_bathroom.jpg", "/images/pr7_salold_hall.jpg", "/images/pr7_salold_entrance.jpg", "/images/pr7_salold_terrace.jpg", "/images/pr7_salold_external.jpg"]
+tags = ["Town", "Mountain Views", "Townhouse", "50- 100"]
 title = "Townhouse in the Old town of Salobrena"
 type = "featured"
 
 +++
 {{< notice "forsale" >}}
 
-€150,000
-{{< /notice >}}
-Stunning traditional townhouse, located in the heart of Salobrena old town. The property is set only 5 min walk from the 15th Century castle walls and has beautiful seaviews from the spacious roof terrace.
-10 mins and you are in the centre of this bustling and traditional spanish town, set in the heart of the Costa Tropical yet still only an hour away from Malaga and the airport.
-Set over 2 floors this property has living room, separate kitchen two bathrooms and two bedrooms
+€90,000 {{< /notice >}} 
+
+Stunning traditional townhouse, located in the heart of Salobrena old town. The property is set only 5 min walk from the 15th Century castle walls and has beautiful mountain views from the roof terrace. 
+
+A short walk and you are in the centre of this bustling and traditional Spanish town, set in the heart of the Costa Tropical yet still only an hour away from Malaga and the airport. Set over 2 floors this property has living room, separate kitchen two bathrooms and three bedrooms
 
 {{< tabs >}}
 
 {{< tab "Details" >}}
 
 * Townhouse
-* 2 Bedrooms
+* 3 Bedrooms
 * Mountain Views
-* Covered Rooftop Terrace
+* 50-Rooftop Terrace
 * 2 Bathrooms
 
   {{< /tab >}}
@@ -39,7 +38,7 @@ Set over 2 floors this property has living room, separate kitchen two bathrooms 
 
 {{< tabs >}}
 
-{{< tab "Location" >}} 
+{{< tab "Location" >}}
 {{< image src="/images/maps/salobrena.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
 In the heart of Salobrena and only 15 minutes to the beach. {{< /tab >}}
 

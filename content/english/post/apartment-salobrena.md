@@ -16,7 +16,7 @@ type = "featured"
 
 Great potential to create a stunning home from this spacious 3 bedroomed apartment in the heart of Salobrena.
 
-Located close to the town hall in the centre of Salobrena, the property offers 3 bedrooms, a bathroom, living dining room and kitchen. 
+Located close to the town hall in the centre of Salobrena, the property offers 3 bedrooms, a bathroom, living dining room and kitchen.
 
 Flooded with lots of natural light, this a good priced apartment for sale in this very   stunning town on the Costa Tropical
 
@@ -42,9 +42,7 @@ For more information please contact us
 
 {{< tabs >}}
 
-{{< tab "Location" >}}
-{{< image src="/images/maps/salobrena.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
-In the heart of Salobrena and only 15 minutes to the beach. {{< /tab >}}
+{{< tab "Location" >}} {{< image src="/images/map_calle_fleming.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}} In the heart of Salobrena and only 15 minutes to the beach. {{< /tab >}}
 
 {{< tab "Contact" >}} <form name="propertyContact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
 <div class="form-group">

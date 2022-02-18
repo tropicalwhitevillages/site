@@ -14,7 +14,7 @@ type = "featured"
 
 €198,000 {{< /notice >}} Centrally located flat for sale with 3 bedrooms, terrace and lift
 
-Spacious apartment in the centre of Almunecar with 3 bedrooms and 2 bathrooms. The apartment has lovely sea views and is close to all amenities. 
+Spacious apartment in the centre of Almunecar with 3 bedrooms and 2 bathrooms. The apartment has lovely sea views and is close to all amenities.
 
 Perfect for beach lovers and those wanting wverything you nee within walking distance.
 
@@ -42,9 +42,7 @@ For more information on this great property get in touch.
 
 {{< tabs >}}
 
-{{< tab "Location" >}}
-{{< image src="/images/maps/salobrena.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
-In the heart of Salobrena and only 15 minutes to the beach. {{< /tab >}}
+{{< tab "Location" >}} {{< image src="/images/map_apart_alm.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}} In the heart of Salobrena and only 15 minutes to the beach. {{< /tab >}}
 
 {{< tab "Contact" >}} <form name="propertyContact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
 <div class="form-group">

@@ -34,7 +34,7 @@ For more information on this great property get in touch.
 
   {{< /tab >}}
 
-  {{< tab "Floor Plan" >}} {{< image src="/images/twv_property/PR1/PR1Floorplan.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}} {{< /tab >}}
+  {{< tab "Floor Plan" >}}  {{< /tab >}}
 
 {{< tab "Virtual tour" >}} {{< youtube 0SVMaAR5JIU >}} {{< /tab >}}
 

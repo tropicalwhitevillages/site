@@ -1,33 +1,36 @@
 +++
 author = "Catarina"
 categories = ["Salobrena"]
-date = 2021-12-23T09:40:24Z
-description = "Townhouse in heart of tropical white village"
-draft = true
-image = "/images/twv_property/PR1/PR1House.jpg"
-images = ["/images/twv_property/PR1/PR1House.jpg"]
-tags = ["Town", "Mountain Views", "Townhouse", "100-200"]
+date = 2022-02-18T00:00:00Z
+description = "Apartment in Central Salobrena"
+image = "/images/pr6_sal_outer1400.jpg"
+images = ["/images/pr6_sal_bathroom.jpg", "/images/pr6_sal_bedroom2.jpg", "/images/pr6_sal_master2.jpg", "/images/pr6_sal_bedroom.jpg", "/images/pr6_sal-living.jpg", "/images/pr6_sal_master.jpg", "/images/pr6_sal_kitchen2.jpg", "/images/pr6_sal_kitchen.jpg", "/images/pr3_sal_town.jpg", "/images/pr6_sal_living2.jpg", "/images/pr6_sal_outer.jpg", "/images/pr6_sal_view.jpg"]
+tags = ["Town", "Mountain Views", "Apartment", "50 - 100"]
 title = "Apartment Salobrena"
 type = "featured"
 
 +++
 {{< notice "forsale" >}}
 
-€150,000
-{{< /notice >}}
-Stunning traditional townhouse, located in the heart of Salobrena old town. The property is set only 5 min walk from the 15th Century castle walls and has beautiful seaviews from the spacious roof terrace.
-10 mins and you are in the centre of this bustling and traditional spanish town, set in the heart of the Costa Tropical yet still only an hour away from Malaga and the airport.
-Set over 2 floors this property has living room, separate kitchen two bathrooms and two bedrooms
+€74,000 {{< /notice >}} Flat for sale in Calle Doctor Fleming, Salobrena
+
+Great potential to create a stunning home from this spacious 3 bedroomed apartment in the heart of Salobrena.
+
+Located close to the town hall in the centre of Salobrena, the property offers 3 bedrooms, a bathroom, living dining room and kitchen. 
+
+Flooded with lots of natural light, this a good priced apartment for sale in this very   stunning town on the Costa Tropical
+
+For more information please contact us
 
 {{< tabs >}}
 
 {{< tab "Details" >}}
 
-* Townhouse
-* 2 Bedrooms
-* Mountain Views
-* Covered Rooftop Terrace
-* 2 Bathrooms
+* Apartment
+* 3 Bedrooms
+* Centrally located
+* Balcony
+* Great potential
 
   {{< /tab >}}
 
@@ -39,7 +42,7 @@ Set over 2 floors this property has living room, separate kitchen two bathrooms 
 
 {{< tabs >}}
 
-{{< tab "Location" >}} 
+{{< tab "Location" >}}
 {{< image src="/images/maps/salobrena.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
 In the heart of Salobrena and only 15 minutes to the beach. {{< /tab >}}
 

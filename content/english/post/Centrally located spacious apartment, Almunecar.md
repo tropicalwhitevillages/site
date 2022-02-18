@@ -36,7 +36,7 @@ For more information on this great property get in touch.
 
   {{< tab "Floor Plan" >}}  {{< /tab >}}
 
-{{< tab "Virtual tour" >}} {{< youtube 0SVMaAR5JIU >}} {{< /tab >}}
+{{< tab "Virtual tour" >}} {{< youtube iqeNNKbc5lk >}} {{< /tab >}}
 
 {{</ tabs >}}
 

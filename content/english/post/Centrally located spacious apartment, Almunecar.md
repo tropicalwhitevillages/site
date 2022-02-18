@@ -1,32 +1,36 @@
 +++
 author = "Catarina"
-categories = ["Salobrena"]
-date = 2021-12-23T09:40:24Z
-description = "Townhouse in heart of tropical white village"
+categories = ["Almunecar"]
+date = 2022-02-18T09:40:24Z
+description = "Townhouse in heart of Almunecar on the Costa Tropical"
 image = "/images/pr1_streetview_1400.jpg"
 images = ["/images/pr1_seaview.jpg", "/images/pr1_streetview_norm.jpg", "/images/pr1_balcony_doors.jpg", "/images/pr1_beach1.jpg", "/images/pr1_beach2.jpg", "/images/pr1_bathroom.jpg", "/images/pr1_bathroom2_shower.jpg", "/images/pr1_bathroom2_wc.jpg", "/images/pr1_bedroom1_chair.jpg", "/images/pr1_bedroom1_double.jpg", "/images/pr1_bedroom2_twin.jpg", "/images/pr1_bedroom2_wardrobe.jpg", "/images/pr1_bedroom3-single.jpg", "/images/pr1_bedroom4_double.jpg", "/images/pr1_bedroom4_wardrobe.jpg", "/images/pr1_dining.jpg", "/images/pr1_kitchen.jpg", "/images/pr1_kitchen2.jpg", "/images/pr1_living.jpg"]
-tags = ["Town", "Mountain Views", "Townhouse", "100-200"]
-title = "PR1"
+tags = ["Town", "Central", "Townhouse", "100-200"]
+title = "Flat Central Almunecar"
 type = "featured"
 
 +++
 {{< notice "forsale" >}}
 
-€150,000
-{{< /notice >}}
-Stunning traditional townhouse, located in the heart of Salobrena old town. The property is set only 5 min walk from the 15th Century castle walls and has beautiful seaviews from the spacious roof terrace.
-10 mins and you are in the centre of this bustling and traditional spanish town, set in the heart of the Costa Tropical yet still only an hour away from Malaga and the airport.
-Set over 2 floors this property has living room, separate kitchen two bathrooms and two bedrooms
+€198,000 {{< /notice >}} Centrally located flat for sale with 3 bedrooms, terrace and lift
+
+Spacious apartment in the centre of Almunecar with 3 bedrooms and 2 bathrooms. The apartment has lovely sea views and is close to all amenities. 
+
+Perfect for beach lovers and those wanting wverything you nee within walking distance.
+
+For more information on this great property get in touch.
 
 {{< tabs >}}
 
 {{< tab "Details" >}}
 
-* Townhouse
-* 2 Bedrooms
-* Mountain Views
-* Covered Rooftop Terrace
+* Apartment
+* 3 Bedrooms
 * 2 Bathrooms
+* Sea Views
+* Balcony
+* Walking distance to beach
+* Bars and restuarants
 
   {{< /tab >}}
 
@@ -38,7 +42,7 @@ Set over 2 floors this property has living room, separate kitchen two bathrooms 
 
 {{< tabs >}}
 
-{{< tab "Location" >}} 
+{{< tab "Location" >}}
 {{< image src="/images/maps/salobrena.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
 In the heart of Salobrena and only 15 minutes to the beach. {{< /tab >}}
 

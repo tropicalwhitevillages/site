@@ -47,9 +47,7 @@ More information shortly. Don't miss out on this fantastic property, contact to 
 
 {{< tabs >}}
 
-{{< tab "Location" >}}
-{{< image src="/images/maps/salobrena.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
-In the heart of Salobrena and only 15 minutes to the beach. {{< /tab >}}
+{{< tab "Location" >}} {{< image src="/images/maps/salobrena.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}} In the heart of Almunecar. {{< /tab >}}
 
 {{< tab "Contact" >}} <form name="propertyContact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
 <div class="form-group">

@@ -2,7 +2,7 @@ baseURL = "https://twv2.netlify.app/"
 disableLanguages = []
 disqusShortname = ""
 googleAnalytics = ""
-paginate = "5"
+paginate = "6"
 summaryLength = "50"
 title = "Tropical White Villages | Estate Agent"
 [caches.assets]

@@ -1,11 +1,11 @@
 +++
 author = "Catarina"
-categories = ["Salobrena"]
+categories = ["Los Guajares","Country House","2bedrooms","100-200"]
 date = 2022-02-15T09:40:24Z
-description = "Townhouse in heart of tropical white village"
+description = "Stunning country house, Los Guajares"
 image = "/images/pr2_guajares_exterior1400.jpg"
 images = ["/images/pr2_guajares_exterior.jpg", "/images/pr2_guajares_entrance.jpg", "/images/pr2_guajares_door.jpg", "/images/pr2_guajares_kitchen2.jpg", "/images/pr2_guajares_kitchen.jpg", "/images/pr2_guajares_bedroom2.jpg", "/images/pr2_guajares_bedroom1.jpg", "/images/pr2_guajares_bedroom.jpg", "/images/pr2_guajares_bathroom.jpg", "/images/pr2_guajares_shower.jpg", "/images/pr2_guajares_view-jpg.webp", "/images/pr2_guajares_view2.jpg", "/images/pr2_guajares_view.jpg", "/images/pr2_guajares_view3-jpg.webp", "/images/pr2_guajares_view5.jpg", "/images/pr2_guajares_view3.jpg", "/images/pr2_guajares_view2-jpg.webp", "/images/pr2_guajares_exterior2.jpg", "/images/pr2_guajares_garden6-jpg.webp", "/images/pr2_guajares_garden3.jpg", "/images/pr2_guajares_garden5-jpg.webp", "/images/pr2_guajares_garden6.jpg", "/images/pr2_guajares_garden.jpg", "/images/pr2_guajares_garden2.jpg", "/images/pr2_guajares_garden5.jpg", "/images/pr2_guajares_view4.jpg", "/images/pr2_guajares_garden4.jpg", "/images/pr2_guajares_pueblo2.jpg", "/images/pr2_guajares_pueblo.jpg", "/images/pr2_guajares_waterfall.jpg"]
-tags = ["Town", "Mountain Views", "Townhouse", "100-200"]
+tags = ["Countryside", "Mountain Views", "Garden", "Land","Fruit trees","Tranquil"]
 title = "Chalet Los Guajaras"
 type = "featured"
 
@@ -36,22 +36,22 @@ For more information or scheduling a viewing please let us know.
 
   {{< /tab >}}
 
-  {{< tab "Floor Plan" >}} {{< image src="/images/twv_property/PR1/PR1Floorplan.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}} {{< /tab >}}
+  {{< tab "Floor Plan" >}}  {{< /tab >}}
 
-{{< tab "Virtual tour" >}} {{< youtube 0SVMaAR5JIU >}} {{< /tab >}}
+{{< tab "Virtual tour" >}} {{< youtube Q5fEXdAdUo0 >}} {{< /tab >}}
 
 {{</ tabs >}}
 
 {{< tabs >}}
 
-{{< tab "Location" >}} {{< image src="/images/map_chalet.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}} In the heart of Salobrena and only 15 minutes to the beach. {{< /tab >}}
+{{< tab "Location" >}} {{< image src="/images/map_chalet.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}} Nestled in a quiet area near the town of Los Guajares. {{< /tab >}}
 
 {{< tab "Contact" >}} <form name="propertyContact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
 <div class="form-group">
 <label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
 </div>
 <div class="form-group">
-<label>Ref: <input name="property-ref" class="form-control" value="PR1" readonly/></label>
+<label>Ref: <input name="property-ref" class="form-control" value="PR2" readonly/></label>
 </div>
 <div class="form-group">
 <label>Email: <input type="text" class="form-control" name="email" /></label>

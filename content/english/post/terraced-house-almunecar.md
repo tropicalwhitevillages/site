@@ -5,7 +5,7 @@ date = 2022-02-17T09:40:24Z
 description = "Townhouse in heart of tropical white village"
 image = "/images/pr3_alm_terraced_pool1400.jpg"
 images = ["/images/pr3_alm_terraced_door.jpg", "/images/pr3_alm_terraced_stairway.jpg", "/images/pr3_alm_terraced_bathroom.jpg", "/images/pr3_alm_terraced_balcony.jpg", "/images/pr3_alm_terraced_bathroom2.jpg", "/images/pr3_alm_terraced_kitchen2.jpg", "/images/pr3_alm_terraced_sunset.jpg", "/images/pr3_alm_terraced_kitchen.jpg", "/images/pr3_alm_terraced_bedroom.jpg", "/images/pr3_alm_terraced_balcony2.jpg", "/images/pr3_alm_terraced_terrace2.jpg", "/images/pr3_alm_terraced_beach.jpg", "/images/pr3_alm_terraced_pool2.jpg", "/images/pr3_alm_terraced_living.jpg", "/images/pr3_alm_terraced_living2.jpg", "/images/pr3_alm_terraced_pool3.jpg", "/images/pr3_alm_terraced_terrace.jpg", "/images/pr3_alm_terraced_entrance.jpg", "/images/pr3_alm_terraced_garden2.jpg", "/images/pr3_alm_terraced_play.jpg", "/images/pr3_alm_terraced_pool.jpg", "/images/pr3_alm_terraced_garden.jpg"]
-tags = ["Town", "Mountain Views", "Townhouse", "100-200"]
+tags = ["Town", "Mountain Views", "Townhouse", "200-300"]
 title = "Terraced House, Almunecar"
 type = "featured"
 

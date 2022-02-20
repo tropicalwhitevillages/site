@@ -12,7 +12,7 @@ type = "featured"
 +++
 {{< notice "forsale" >}}
 
-€198,000 {{< /notice >}} Centrally located flat for sale with 3 bedrooms, terrace and lift
+€198,000 {{< /notice >}} Centrally located flat for sale with 3 bedrooms, terrace and lift.
 
 Spacious apartment in the centre of Almunecar with 3 bedrooms and 2 bathrooms. The apartment has lovely sea views and is close to all amenities.
 

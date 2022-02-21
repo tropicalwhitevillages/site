@@ -29,6 +29,7 @@ For more information or scheduling a viewing please let us know.
 
 {{< tab "Details" >}}
 
+* 67M&#x33A1
 * Country House
 * 2 Bedrooms
 * Mountain Views
@@ -51,7 +52,7 @@ For more information or scheduling a viewing please let us know.
 <label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
 </div>
 <div class="form-group">
-<label>Ref: <input name="property-ref" class="form-control" value="PR2" readonly/></label>
+<label>Ref: <input name="property-ref" class="form-control" value="Guajares_house" readonly/></label>
 </div>
 <div class="form-group">
 <label>Email: <input type="text" class="form-control" name="email" /></label>

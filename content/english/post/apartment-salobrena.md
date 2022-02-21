@@ -1,11 +1,11 @@
 +++
 author = "Catarina"
-categories = ["Salobrena","Apartment","50-100"]
+categories = ["Salobrena","Apartment","3bedrooms","50-100"]
 date = 2022-02-18T00:00:00Z
 description = "Apartment in Central Salobrena"
 image = "/images/pr6_sal_outer1400.jpg"
 images = ["/images/pr6_sal_bathroom.jpg", "/images/pr6_sal_bedroom2.jpg", "/images/pr6_sal_master2.jpg", "/images/pr6_sal_bedroom.jpg", "/images/pr6_sal-living.jpg", "/images/pr6_sal_master.jpg", "/images/pr6_sal_kitchen2.jpg", "/images/pr6_sal_kitchen.jpg", "/images/pr3_sal_town.jpg", "/images/pr6_sal_living2.jpg", "/images/pr6_sal_outer.jpg", "/images/pr6_sal_view.jpg"]
-tags = ["Town Centre", "Mountain Views", "Apartment", "50 - 100","Balcony",]
+tags = ["Town Centre", "Mountain Views", "Apartment","Balcony",]
 title = "Apartment Salobrena"
 type = "featured"
 
@@ -26,6 +26,7 @@ For more information please contact us
 
 {{< tab "Details" >}}
 
+* 82M&#x33A1
 * Apartment
 * 3 Bedrooms
 * Centrally located
@@ -49,7 +50,7 @@ For more information please contact us
 <label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
 </div>
 <div class="form-group">
-<label>Ref: <input name="property-ref" class="form-control" value="PR6" readonly/></label>
+<label>Ref: <input name="property-ref" class="form-control" value="Sal_Apartment" readonly/></label>
 </div>
 <div class="form-group">
 <label>Email: <input type="text" class="form-control" name="email" /></label>

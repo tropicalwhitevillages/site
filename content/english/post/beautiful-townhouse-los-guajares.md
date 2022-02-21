@@ -18,6 +18,7 @@ type = "featured"
 
 {{< tab "Details" >}}
 
+* 273M&#x33A1
 * Townhouse
 * 3 Bedrooms
 * Mountain Views

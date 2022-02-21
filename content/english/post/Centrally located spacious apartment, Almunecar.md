@@ -1,11 +1,11 @@
 +++
 author = "Catarina"
-categories = ["Almunecar"]
+categories = ["Almunecar","Apartment","3bedrooms","100-200"]
 date = 2022-02-18T09:40:24Z
 description = "Townhouse in heart of Almunecar on the Costa Tropical"
 image = "/images/pr1_streetview_1400.jpg"
 images = ["/images/pr1_seaview.jpg", "/images/pr1_streetview_norm.jpg", "/images/pr1_balcony_doors.jpg", "/images/pr1_beach1.jpg", "/images/pr1_beach2.jpg", "/images/pr1_bathroom.jpg", "/images/pr1_bathroom2_shower.jpg", "/images/pr1_bathroom2_wc.jpg", "/images/pr1_bedroom1_chair.jpg", "/images/pr1_bedroom1_double.jpg", "/images/pr1_bedroom2_twin.jpg", "/images/pr1_bedroom2_wardrobe.jpg", "/images/pr1_bedroom3-single.jpg", "/images/pr1_bedroom4_double.jpg", "/images/pr1_bedroom4_wardrobe.jpg", "/images/pr1_dining.jpg", "/images/pr1_kitchen.jpg", "/images/pr1_kitchen2.jpg", "/images/pr1_living.jpg"]
-tags = ["Town", "Central", "Townhouse", "100-200"]
+tags = ["Town Centre", "Balcony", "Seaviews", "Beach"]
 title = "Flat Central Almunecar"
 type = "featured"
 
@@ -24,6 +24,7 @@ For more information on this great property get in touch.
 
 {{< tab "Details" >}}
 
+* 108M&#x33A1
 * Apartment
 * 3 Bedrooms
 * 2 Bathrooms
@@ -49,7 +50,7 @@ For more information on this great property get in touch.
 <label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
 </div>
 <div class="form-group">
-<label>Ref: <input name="property-ref" class="form-control" value="PR1" readonly/></label>
+<label>Ref: <input name="property-ref" class="form-control" value="Alm_apartment" readonly/></label>
 </div>
 <div class="form-group">
 <label>Email: <input type="text" class="form-control" name="email" /></label>

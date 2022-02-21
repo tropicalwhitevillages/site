@@ -1,11 +1,11 @@
 +++
 author = "Catarina"
-categories = []
+categories = ["Almunecar","Villa","7bedrooms","500+"]
 date = 2022-02-17T09:40:24Z
 description = "Great Opprortunity large villa, centrally located in Almunecar, close to beaches and restuarants"
 image = "/images/pr4_alm_villa_exterior1400.jpg"
 images = ["/images/pr4_alm_villa_exterior.jpg", "/images/pr4_alm_villa_living.jpg", "/images/pr4_alm_villa_sitting.jpg", "/images/pr4_alm_villa_dining.jpg", "/images/pr4_alm_villa_kitchen2.jpg", "/images/pr4_alm_villa_kitchen.jpg", "/images/pr4_alm_villa_master.jpg", "/images/pr4_alm_villa_shower.jpg", "/images/pr4_alm_villa_shower2.jpg", "/images/pr4_alm_villa_bedroom3.jpg", "/images/pr4_alm_villa_bedroom2.jpg", "/images/pr4_alm_villa_bathroom2.jpg", "/images/pr4_alm_villa_dressing.jpg", "/images/pr4_alm_villa_kicthen3.jpg", "/images/pr4_alm_villa_bedroom1.jpg", "/images/pr4_alm_villa_bedroom.jpg", "/images/pr4_alm_villa_living2.jpg", "/images/pr4_alm_villa_bedroom3desk.jpg", "/images/pr4_alm_villa_terrace.jpg", "/images/pr4_alm_villa_garden3.jpg", "/images/pr4_alm_villa_garden1.jpg", "/images/pr4_alm_villa_drive.jpg", "/images/pr4_alm_villa_garden2.jpg", "/images/pr4_alm_villa_garden.jpg"]
-tags = ["Town", "Mountain Views", "Townhouse", "600 - 700"]
+tags = ["Town", "Beach", "Central", "Roof terrace","Garden"]
 title = "Large Villa Almunecar"
 type = "featured"
 
@@ -28,6 +28,7 @@ More information shortly. Don't miss out on this fantastic property, contact to 
 
 {{< tab "Details" >}}
 
+* 380M&#x33A1
 * Large Villa
 * 7 Bedrooms
 * Gardens
@@ -54,7 +55,7 @@ More information shortly. Don't miss out on this fantastic property, contact to 
 <label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
 </div>
 <div class="form-group">
-<label>Ref: <input name="property-ref" class="form-control" value="PR1" readonly/></label>
+<label>Ref: <input name="property-ref" class="form-control" value="Large_Villa_Almunecar" readonly/></label>
 </div>
 <div class="form-group">
 <label>Email: <input type="text" class="form-control" name="email" /></label>

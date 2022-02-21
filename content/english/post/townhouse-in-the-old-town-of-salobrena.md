@@ -22,6 +22,7 @@ A short walk and you are in the centre of this bustling and traditional Spanish 
 
 {{< tab "Details" >}}
 
+* 75M&#x33A1
 * Townhouse
 * 3 Bedrooms
 * Mountain Views

@@ -28,7 +28,7 @@ More information shortly. Don't miss out on this fantastic property, contact to 
 
 {{< tab "Details" >}}
 
-* 380M&#x33A1
+* 380&#x33A1;
 * Large Villa
 * 7 Bedrooms
 * Gardens

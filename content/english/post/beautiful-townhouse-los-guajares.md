@@ -10,15 +10,16 @@ title = "Beautiful Townhouse Los Guajares"
 type = "featured"
 
 +++
-{{< notice "forsale" >}}
+{{< notice "Reduced" >}}
 
-€254,000 {{< /notice >}} Beautiful 3 bedroomed house for sale in Guajares (Los) with terrace and swimming pool
+<s>€269,000</s> €254,000 {{< /notice >}} Beautiful 3 bedroomed house for sale in Guajares (Los) with terrace and swimming pool
+ 
 
 {{< tabs >}}
 
 {{< tab "Details" >}}
 
-* 273M&#x33A1
+* 273&#x33A1;
 * Townhouse
 * 3 Bedrooms
 * Mountain Views
@@ -27,9 +28,9 @@ type = "featured"
 
   {{< /tab >}}
 
-  {{< tab "Floor Plan" >}} {{< image src="/images/twv_property/PR1/PR1Floorplan.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}} {{< /tab >}}
+  {{< tab "Floor Plan" >}}  {{< /tab >}}
 
-{{< tab "Virtual tour" >}} {{< youtube 0SVMaAR5JIU >}} {{< /tab >}}
+{{< tab "Virtual tour" >}} {{< youtube Q5fEXdAdUo0 >}} {{< /tab >}}
 
 {{</ tabs >}}
 
@@ -37,7 +38,7 @@ type = "featured"
 
 {{< tab "Location" >}}
 {{< image src="/images/maps/salobrena.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
-In the heart of Salobrena and only 15 minutes to the beach. {{< /tab >}}
+In the heart of Los Guajares, a picturesque town in the mountains but only a short drive to the coast. {{< /tab >}}
 
 {{< tab "Contact" >}} <form name="propertyContact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
 <div class="form-group">

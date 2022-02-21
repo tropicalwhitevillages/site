@@ -16,7 +16,7 @@ type = "featured"
 
 Spacious apartment in the centre of Almunecar with 3 bedrooms and 2 bathrooms. The apartment has lovely sea views and is close to all amenities.
 
-Perfect for beach lovers and those wanting wverything you nee within walking distance.
+Perfect for beach lovers and those wanting everything you need within walking distance.
 
 For more information on this great property get in touch.
 
@@ -24,7 +24,7 @@ For more information on this great property get in touch.
 
 {{< tab "Details" >}}
 
-* 108M&#x33A1
+* 108&#x33A1;
 * Apartment
 * 3 Bedrooms
 * 2 Bathrooms

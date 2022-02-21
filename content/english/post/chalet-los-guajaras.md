@@ -29,7 +29,7 @@ For more information or scheduling a viewing please let us know.
 
 {{< tab "Details" >}}
 
-* 67M&#x33A1
+* 67&#x33A1;
 * Country House
 * 2 Bedrooms
 * Mountain Views

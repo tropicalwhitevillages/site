@@ -26,7 +26,7 @@ For more information please contact us
 
 {{< tab "Details" >}}
 
-* 82M&#x33A1
+* 82&#x33A1;
 * Apartment
 * 3 Bedrooms
 * Centrally located

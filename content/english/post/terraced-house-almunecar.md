@@ -20,7 +20,7 @@ type = "featured"
 
 {{< tab "Details" >}}
 
-* 86M&#x33A1
+* 86&#x33A1;
 * Townhouse
 * 3 Bedrooms
 * Mountain Views

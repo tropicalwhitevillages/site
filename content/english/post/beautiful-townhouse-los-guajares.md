@@ -1,11 +1,11 @@
 +++
 author = "Catarina"
-categories = ["Los Guajaras"]
+categories = ["Los Guajaras","Townhouse","200-300","3bedrooms"]
 date = 2022-02-17T09:40:24Z
 description = "Townhouse in heart of tropical white village"
 image = "/images/pr2_house_pool1400.jpg"
 images = ["/images/pr2_house_stove.jpg", "/images/pr2_house_hallway.jpg", "/images/pr2_house_living2.jpg", "/images/pr2_house_living.jpg", "/images/pr2_house_kitchen4.jpg", "/images/pr2_house_kitchen3.jpg", "/images/pr2_house_sitting.jpg", "/images/pr2_house_bedroomtwin.jpg", "/images/pr2_house_bedroomtwin2.jpg", "/images/pr2_house_kitchen.jpg", "/images/pr2_house_bathroom.jpg", "/images/pr2_house_courtyarddown.jpg", "/images/pr2_house_bedroom2.jpg", "/images/pr2_house_toilet.jpg", "/images/pr2_house_bedroomtwin3.jpg", "/images/pr2_house_roof.jpg", "/images/pr2_house_pool.jpg", "/images/pr2_house_balcony.jpg", "/images/pr2_house_courtyard2down.jpg", "/images/pr2_house_courtyard2up.jpg", "/images/pr2_house_garden1.jpg", "/images/pr2_house_courtyardup.jpg", "/images/pr2_house_entrance.jpg", "/images/pr2_house_terrace1.jpg", "/images/pr2_house_terrace.jpg", "/images/pr2_house_terrace2.jpg", "/images/pr2_house_guajares.jpg"]
-tags = ["Town", "Mountain Views", "Townhouse", "200 - 300"]
+tags = ["Roof Terrace", "Mountain Views", "Town Centre", "Pool","Gardens"]
 title = "Beautiful Townhouse Los Guajares"
 type = "featured"
 
@@ -43,7 +43,7 @@ In the heart of Salobrena and only 15 minutes to the beach. {{< /tab >}}
 <label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
 </div>
 <div class="form-group">
-<label>Ref: <input name="property-ref" class="form-control" value="PR1" readonly/></label>
+<label>Ref: <input name="property-ref" class="form-control" value="Guajares_Townhouse" readonly/></label>
 </div>
 <div class="form-group">
 <label>Email: <input type="text" class="form-control" name="email" /></label>

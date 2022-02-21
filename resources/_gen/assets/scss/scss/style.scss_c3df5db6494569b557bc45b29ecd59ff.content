@@ -414,7 +414,7 @@ a:hover {
   left: 1rem; }
 
 .content .notices.reduced p {
-  border-top: 30px solid #6ab0de;
+  border-top: 30px solid #6ade83;
   background: #f0f0f0; }
 
 .content .notices.reduced p::after {

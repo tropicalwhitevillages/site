@@ -1,7 +1,7 @@
 +++
 author = "Catarina"
 categories = ["Salobrena"]
-date = 2021-12-23T09:40:24Z
+date = 2025-12-23T09:40:24Z
 description = "Casa de pueblo en el corazón de Salobreña"
 image = "/images/twv_property/PR1/PR1House.jpg"
 images = ["/images/twv_property/PR1/PR1House.jpg"]

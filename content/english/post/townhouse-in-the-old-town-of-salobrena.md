@@ -48,7 +48,7 @@ In the heart of Salobrena and only 15 minutes to the beach. {{< /tab >}}
 <label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
 </div>
 <div class="form-group">
-<label>Ref: <input name="property-ref" class="form-control" value="PR7" readonly/></label>
+<label>Ref: <input name="property-ref" class="form-control" value="Salobrena Townhouse" readonly/></label>
 </div>
 <div class="form-group">
 <label>Email: <input type="text" class="form-control" name="email" /></label>

@@ -38,8 +38,8 @@ type = "featured"
 {{< tabs >}}
 
 {{< tab "Location" >}}
-{{< image src="/images/maps/salobrena.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
-In the heart of Salobrena and only 15 minutes to the beach. {{< /tab >}}
+{{< image src="/images/map_arroya.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
+Located, centrally in Almunecar close to beaches and restuarants. {{< /tab >}}
 
 {{< tab "Contact" >}} <form name="propertyContact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
 <div class="form-group">

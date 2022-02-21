@@ -6,7 +6,7 @@ description = "Stunning country house, Los Guajares"
 image = "/images/pr2_guajares_exterior1400.jpg"
 images = ["/images/pr2_guajares_exterior.jpg", "/images/pr2_guajares_entrance.jpg", "/images/pr2_guajares_door.jpg", "/images/pr2_guajares_kitchen2.jpg", "/images/pr2_guajares_kitchen.jpg", "/images/pr2_guajares_bedroom2.jpg", "/images/pr2_guajares_bedroom1.jpg", "/images/pr2_guajares_bedroom.jpg", "/images/pr2_guajares_bathroom.jpg", "/images/pr2_guajares_shower.jpg", "/images/pr2_guajares_view2.jpg", "/images/pr2_guajares_view.jpg", "/images/pr2_guajares_view5.jpg", "/images/pr2_guajares_view3.jpg", "/images/pr2_guajares_exterior2.jpg", "/images/pr2_guajares_garden3.jpg", "/images/pr2_guajares_garden6.jpg", "/images/pr2_guajares_garden.jpg", "/images/pr2_guajares_garden2.jpg", "/images/pr2_guajares_garden5.jpg", "/images/pr2_guajares_view4.jpg", "/images/pr2_guajares_garden4.jpg", "/images/pr2_guajares_pueblo2.jpg", "/images/pr2_guajares_pueblo.jpg", "/images/pr2_guajares_waterfall.jpg"]
 tags = ["Countryside", "Mountain Views", "Garden", "Land","Fruit trees","Tranquil"]
-title = "Chalet Los Guajaras"
+title = "Stunning Country House, Los Guajares"
 type = "featured"
 
 +++

@@ -5,7 +5,7 @@ date = 2022-02-18T09:40:24Z
 description = "Adosado en el corazón de Almunecar en la Costa Tropical"
 image = "/images/pr1_streetview_1400.jpg"
 images = ["/images/pr1_seaview.jpg", "/images/pr1_streetview_norm.jpg", "/images/pr1_balcony_doors.jpg", "/images/pr1_beach1.jpg", "/images/pr1_beach2.jpg", "/images/pr1_bathroom.jpg", "/images/pr1_bathroom2_shower.jpg", "/images/pr1_bathroom2_wc.jpg", "/images/pr1_bedroom1_chair.jpg", "/images/pr1_bedroom1_double.jpg", "/images/pr1_bedroom2_twin.jpg", "/images/pr1_bedroom2_wardrobe.jpg", "/images/pr1_bedroom3-single.jpg", "/images/pr1_bedroom4_double.jpg", "/images/pr1_bedroom4_wardrobe.jpg", "/images/pr1_dining.jpg", "/images/pr1_kitchen.jpg", "/images/pr1_kitchen2.jpg", "/images/pr1_living.jpg"]
-tags = ["Centro de la ciudad", "Balcón", "Vistas al mar", "Playa"]
+tags = ["Centro de la ciudad", "Balcón", "Vistas al mar", "Playa","Ascensor"]
 title = "Piso Centro Almuñécar"
 type = "featured"
 
@@ -14,7 +14,7 @@ type = "featured"
 
 €198,000 {{< /notice >}} Piso céntrico en venta de 3 dormitorios, terraza y ascensor.
 
-Amplio piso en el centro de Almunecar de 3 habitaciones y 2 baños. El apartamento tiene bonitas vistas al mar y está cerca de todos los servicios.
+Amplio apartamento en tercera planta en el centro de Almunecar con 3 dormitorios y 2 baños. El apartamento tiene preciosas vistas al mar y está cerca de todos los servicios.
 
 Perfecto para los amantes de la playa y aquellos que quieren tener todo lo que necesitan a poca distancia.
 
@@ -30,6 +30,7 @@ Para obtener más información sobre esta gran propiedad, póngase en contacto.
 * 2 baños
 * Vistas al mar
 * Balcón
+* Ascensor
 * A poca distancia de la playa
 * Bares y restaurantes
 

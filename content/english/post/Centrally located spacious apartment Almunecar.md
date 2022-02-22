@@ -5,7 +5,7 @@ date = 2022-02-18T09:40:24Z
 description = "Townhouse in heart of Almunecar on the Costa Tropical"
 image = "/images/pr1_streetview_1400.jpg"
 images = ["/images/pr1_seaview.jpg", "/images/pr1_streetview_norm.jpg", "/images/pr1_balcony_doors.jpg", "/images/pr1_beach1.jpg", "/images/pr1_beach2.jpg", "/images/pr1_bathroom.jpg", "/images/pr1_bathroom2_shower.jpg", "/images/pr1_bathroom2_wc.jpg", "/images/pr1_bedroom1_chair.jpg", "/images/pr1_bedroom1_double.jpg", "/images/pr1_bedroom2_twin.jpg", "/images/pr1_bedroom2_wardrobe.jpg", "/images/pr1_bedroom3-single.jpg", "/images/pr1_bedroom4_double.jpg", "/images/pr1_bedroom4_wardrobe.jpg", "/images/pr1_dining.jpg", "/images/pr1_kitchen.jpg", "/images/pr1_kitchen2.jpg", "/images/pr1_living.jpg"]
-tags = ["Town Centre", "Balcony", "Seaviews", "Beach"]
+tags = ["Town Centre", "Balcony", "Seaviews", "Beach","Lift"]
 title = "Flat Central Almunecar"
 type = "featured"
 
@@ -14,7 +14,7 @@ type = "featured"
 
 €198,000 {{< /notice >}} Centrally located flat for sale with 3 bedrooms, terrace and lift.
 
-Spacious apartment in the centre of Almunecar with 3 bedrooms and 2 bathrooms. The apartment has lovely sea views and is close to all amenities.
+Spacious third floor apartment in the centre of Almunecar with 3 bedrooms and 2 bathrooms. The apartment has lovely sea views and is close to all amenities.
 
 Perfect for beach lovers and those wanting everything you need within walking distance.
 
@@ -30,6 +30,7 @@ For more information on this great property get in touch.
 * 2 Bathrooms
 * Sea Views
 * Balcony
+* Lift
 * Walking distance to beach
 * Bars and restuarants
 

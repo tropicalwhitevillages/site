@@ -1,6 +1,6 @@
 +++
 author = "Catarina"
-categories = ["2bedrooms", "100-200", "Villa", "Salobrena"]
+categories = ["Location", "Type of Property", "Price range", "No of bedrooms"]
 date = 2025-02-01T09:40:24Z
 description = "Describe the property in 1 sentence"
 image = "/images/pr7_salold_entrance1400.jpg"
@@ -18,7 +18,7 @@ type = "featured"
 
 {{< tab "Details" >}}
 
-* Bullet point 1
+* Square meterage&#x33A1;
 * Bullet point 2
 * Add as many bullet points as you need
 

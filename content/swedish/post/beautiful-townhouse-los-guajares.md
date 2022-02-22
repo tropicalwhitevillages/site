@@ -5,7 +5,7 @@ date = 2022-02-17T09:40:24Z
 description = "Radhus i hjärtat av den tropiska vita byn"
 image = "/images/pr2_house_pool1400.jpg"
 images = ["/images/pr2_house_stove.jpg", "/images/pr2_house_hallway.jpg", "/images/pr2_house_living2.jpg", "/images/pr2_house_living.jpg", "/images/pr2_house_kitchen4.jpg", "/images/pr2_house_kitchen3.jpg", "/images/pr2_house_sitting.jpg", "/images/pr2_house_bedroomtwin.jpg", "/images/pr2_house_bedroomtwin2.jpg", "/images/pr2_house_kitchen.jpg", "/images/pr2_house_bathroom.jpg", "/images/pr2_house_courtyarddown.jpg", "/images/pr2_house_bedroom2.jpg", "/images/pr2_house_toilet.jpg", "/images/pr2_house_bedroomtwin3.jpg", "/images/pr2_house_roof.jpg", "/images/pr2_house_pool.jpg", "/images/pr2_house_balcony.jpg", "/images/pr2_house_courtyard2down.jpg", "/images/pr2_house_courtyard2up.jpg", "/images/pr2_house_garden1.jpg", "/images/pr2_house_courtyardup.jpg", "/images/pr2_house_entrance.jpg", "/images/pr2_house_terrace1.jpg", "/images/pr2_house_terrace.jpg", "/images/pr2_house_terrace2.jpg", "/images/pr2_house_guajares.jpg"]
-tags = "Takterrass", "Utsikt över bergen", "Stadscentrum", "Pool", "Trädgårdar"]
+tags = ["Takterrass", "Utsikt över bergen", "Stadscentrum", "Pool", "Trädgårdar"]
 title = "Vackert radhus Los Guajares"
 type = "featured"
 

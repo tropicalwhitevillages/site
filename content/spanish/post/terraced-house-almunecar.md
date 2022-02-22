@@ -43,7 +43,7 @@ Ubicado, en el centro de Almuñécar, cerca de playas y restaurantes. {{< /tab >
 
 {{< tab "Contacto" >}} <form name="propertyContact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
 <div class="form-group">
-<label>No llenes esto si eres humano: <input name="bot-field" /></label>
+<p class="hidden"><label>No llenes esto si eres humano: <input name="bot-field" /></label></p>
 </div>
 <div class="form-group">
 <label>Ref: <input name="property-ref" class="form-control" value="Arroyo_Marina" readonly/></label>

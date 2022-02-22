@@ -43,7 +43,7 @@ Located, centrally in Almunecar close to beaches and restuarants. {{< /tab >}}
 
 {{< tab "Contact" >}} <form name="propertyContact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
 <div class="form-group">
-<label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
+<p class="hidden"><label>Don’t fill this out if you’re human: <input name="bot-field" /></label></p>
 </div>
 <div class="form-group">
 <label>Ref: <input name="property-ref" class="form-control" value="Arroyo_Marina" readonly/></label>

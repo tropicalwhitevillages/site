@@ -41,7 +41,7 @@ type = "featured"
 
 {{< tab "Contact" >}} <form name="propertyContact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
 <div class="form-group">
-<label>Ne remplissez pas ce champ si vous êtes humain: <input name="bot-field" /></label>
+<p class="hidden"><label>Ne remplissez pas ce champ si vous êtes humain: <input name="bot-field" /></label></p>
 </div>
 <div class="form-group">
 <label>Ref: <input name="property-ref" class="form-control" value="Guajares_Townhouse" readonly/></label>

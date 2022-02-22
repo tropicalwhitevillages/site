@@ -44,7 +44,7 @@ I hjärtat av Salobrena och bara 15 minuter till stranden. {{< /tab >}}
 
 {{< tab "Kontakt" >}} <form name="propertyContact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
 <div class="form-group">
-<label>Fyll inte i detta om du är människa: <input name="bot-field" /></label>
+<p class="hidden"><label>Fyll inte i detta om du är människa: <input name="bot-field" /></label></p>
 </div>
 <div class="form-group">
 <label>Ref: <input name="property-ref" class="form-control" value="PR1" readonly/></label>

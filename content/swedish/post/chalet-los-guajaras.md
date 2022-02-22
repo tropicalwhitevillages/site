@@ -49,7 +49,7 @@ För mer information eller schemaläggning av en visning vänligen meddela oss.
 
 {{< tab "Kontakt" >}} <form name="propertyContact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
 <div class="form-group">
-<p class="hidden"><label>Fyll inte i detta om du är människa: <input name="bot-field" /></label></p>
+<p class="d-none"><label>Fyll inte i detta om du är människa: <input name="bot-field" /></label></p>
 </div>
 <div class="form-group">
 <label>Ref: <input name="property-ref" class="form-control" value="Guajares_house" readonly/></label>

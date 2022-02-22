@@ -52,7 +52,7 @@ More information shortly. Don't miss out on this fantastic property, contact to 
 
 {{< tab "Contact" >}} <form name="propertyContact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
 <div class="form-group">
-<p class="hidden"><label>Don’t fill this out if you’re human: <input name="bot-field" /></label></p>
+<p class="d-none"><label>Don’t fill this out if you’re human: <input name="bot-field" /></label></p>
 </div>
 <div class="form-group">
 <label>Ref: <input name="property-ref" class="form-control" value="Large_Villa_Almunecar" readonly/></label>

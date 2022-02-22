@@ -52,7 +52,7 @@ Más información en breve. No se pierda esta fantástica propiedad, contacte pa
 
 {{< tab "Contacto" >}} <form name="propertyContact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
 <div class="form-group">
-<p class="hidden"><label>No llenes esto si eres humano: <input name="bot-field" /></label></p>
+<p class="d-none"><label>No llenes esto si eres humano: <input name="bot-field" /></label></p>
 </div>
 <div class="form-group">
 <label>Ref: <input name="property-ref" class="form-control" value="Large_Villa_Almunecar" readonly/></label>

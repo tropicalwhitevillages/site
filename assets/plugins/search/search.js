@@ -37,6 +37,9 @@ searchQuery = addToQuery(searchQuery, param("v")); // sea view
 searchQuery = addToQuery(searchQuery, param("a")); // 50 - 100
 searchQuery = addToQuery(searchQuery, param("b")); // 100 - 200
 searchQuery = addToQuery(searchQuery, param("c")); // 200 - 300
+searchQuery = addToQuery(searchQuery, param("n")); // 300 - 400
+searchQuery = addToQuery(searchQuery, param("o")); // 400 - 500
+searchQuery = addToQuery(searchQuery, param("q")); // 500+
 searchQuery = addToQuery(searchQuery, param("d")); // salobrena
 searchQuery = addToQuery(searchQuery, param("e")); // almunecar
 searchQuery = addToQuery(searchQuery, param("f")); // la-herradura
@@ -55,6 +58,9 @@ searchQueryOr = addToQueryOr(searchQueryOr, param("v")); // sea view
 searchQueryOr = addToQueryOr(searchQueryOr, param("a")); // 50 - 100
 searchQueryOr = addToQueryOr(searchQueryOr, param("b")); // 100 - 200
 searchQueryOr = addToQueryOr(searchQueryOr, param("c")); // 200 - 300
+searchQueryOr = addToQueryOr(searchQueryOr, param("n")); // 300 - 400
+searchQueryOr = addToQueryOr(searchQueryOr, param("o")); // 400 - 500
+searchQueryOr = addToQueryOr(searchQueryOr, param("q")); // 500+
 searchQueryOr = addToQueryOr(searchQueryOr, param("d")); // salobrena
 searchQueryOr = addToQueryOr(searchQueryOr, param("e")); // almunecar
 searchQueryOr = addToQueryOr(searchQueryOr, param("f")); // la-herradura
@@ -64,7 +70,7 @@ searchQueryOr = addToQueryOr(searchQueryOr, param("i")); // townhouse
 searchQueryOr = addToQueryOr(searchQueryOr, param("j")); // apartment
 searchQueryOr = addToQueryOr(searchQueryOr, param("k")); // ruin
 searchQueryOr = addToQueryOr(searchQueryOr, param("l")); // land
-c = addToQueryOr(searchQueryOr, param("m")); // newbuild
+searchQueryOr = addToQueryOr(searchQueryOr, param("m")); // newbuild
 
 // console.log('searchQuery OR ' + searchQuery);
 if (searchQuery) {

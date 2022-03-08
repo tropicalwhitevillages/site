@@ -4,7 +4,7 @@
   
 [build.environment]
   HUGO_VERSION = "0.90.1"
-  HUGO_BASEURL = "https://twv2.netlify.app/"
+  HUGO_BASEURL = "https://www.tropicalwhitevillages.com/"
 
 [[headers]]
   for = "/*" # This defines which paths this specific [[headers]] block will cover.

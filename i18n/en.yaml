@@ -41,6 +41,8 @@
   translation: About Tropical White Villages
 - id: page_not_found
   translation: Ooops! This Page Is Not Available
+- id: announce_text
+  translation: New properties coming soon.
 - id: search_results_for
   translation: Search results for
 - id: pool

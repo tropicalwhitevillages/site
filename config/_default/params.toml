@@ -9,6 +9,7 @@ logo_text = "Tropical White Villages"
 logo_width = "240x"
 mainSections = ["post"]
 page_not_found_image = "images/404.png"
+announce_image = "images/announce.png"
 post_layout = "grid"
 search = true
 sidebar = "right"

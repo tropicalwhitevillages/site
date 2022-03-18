@@ -1,9 +1,16 @@
 <section class="section-sm pb-0">
   <div class="container">
+    <div class="col-12 text-center">
+      
+      {{$img:= resources.Get (site.Params.announce_image) }}
+      {{$img:= $img.Resize "60x webp"}}
+      <h3><img loading="lazy" decoding="async" class="img-fluid" width="60" height="48" src="{{$img.RelPermalink}}" alt="{{i18n `announce_text`}}">
+        {{i18n `announce_text`}}
+      </h3>
+    </div> 
     <div class="featured-post-slider rounded-lg overflow-hidden">
       {{ range (where site.RegularPages "Type" "featured") }}
       <div class="featured-post">
-
         {{ with .Params.image }}
         {{ if (fileExists (add `assets/` .)) }}
         {{ $image:= resources.Get . }}

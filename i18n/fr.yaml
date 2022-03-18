@@ -41,6 +41,8 @@
   translation: À propos de moi
 - id: page_not_found
   translation: Oups ! Cette page n'est pas disponible
+- id: announce_text
+  translation: Bientôt de nouvelles propriétés.
 - id: search_results_for
   translation: Résultats de recherche pour
 - id: pool

@@ -41,6 +41,8 @@
   translation: Allt om Tropical White Villages
 - id: page_not_found
   translation: Ooops! Denna sida är inte tillgänglig
+- id: announce_text
+  translation: Nya fastigheter kommer snart.
 - id: search_results_for
   translation: Sökresultat för
 - id: pool

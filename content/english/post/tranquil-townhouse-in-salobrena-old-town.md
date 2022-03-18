@@ -3,11 +3,11 @@ author = "Gillian"
 categories = ["Salobrena", "50-100", "2-bedroom", "Townhouse"]
 date = 2022-03-18T09:00:00Z
 description = "Tranquil townhouse in the old town of Salobrena"
-image = "/images/pr3_alm_terraced_pool1400.jpg"
+image = "/images/tranquilsalobrena/tranquil1400.jpg"
 images = ["/images/tranquilsalobrena/PL682 casa2.JPG", "/images/tranquilsalobrena/PL682 casaback.JPG", "/images/tranquilsalobrena/PL682 casafront1.JPG", "/images/tranquilsalobrena/PL682 living2.JPG", "/images/tranquilsalobrena/PL682 living1.JPG", "/images/tranquilsalobrena/PL682 living3.JPG", "/images/tranquilsalobrena/PL682 cocina2.JPG", "/images/tranquilsalobrena/PL682 cocina3.JPG", "/images/tranquilsalobrena/PL682 cocina1.JPG", "/images/tranquilsalobrena/PL682 entrada.JPG", "/images/tranquilsalobrena/PL682 entrada4.JPG", "/images/tranquilsalobrena/PL682 entrada2.JPG", "/images/tranquilsalobrena/PL682 entrada3.JPG", "/images/tranquilsalobrena/PL682 dormi1.JPG", "/images/tranquilsalobrena/PL682 dromi2.JPG", "/images/tranquilsalobrena/PL682 bano1.JPG", "/images/tranquilsalobrena/PL682 bano2.JPG", "/images/tranquilsalobrena/PL682 bano3.JPG", "/images/tranquilsalobrena/PL682 vista1.JPG", "/images/tranquilsalobrena/PL682 terr1.JPG", "/images/tranquilsalobrena/PL682 terr2.JPG", "/images/tranquilsalobrena/PL682 terr3.JPG", "/images/tranquilsalobrena/PL682 vista2.JPG"]
 tags = ["Mountain-View", "Town", "Roof-Terrace", "Beach"]
 title = "Tranquil townhouse in Salobrena Old Town"
-type = ""
+type = "featured"
 
 +++
 {{< notice "forsale" >}}
@@ -33,7 +33,7 @@ A tranquil property set in the old town of Salobrena. The property consists of 2
 
 {{< tab "Virtual tour" >}}
 
-{{< youtube  >}}
+{{< youtube 0SVMaAR5JIU >}}
 
 {{</ tab >}}
 
@@ -43,7 +43,7 @@ A tranquil property set in the old town of Salobrena. The property consists of 2
 
 {{< tab "Location" >}}
 
-{{< image src="/images/map_arroya.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
+{{< image src="/images/maps/salobrena.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
 
 Located in the heart of Salobrena old town, close to beaches and only an hour from Malaga airport.
 

@@ -3,7 +3,7 @@ author = "Gillian"
 categories = ["Salobrena", "50-100", "2-chambre", "Maison-de-ville", "Maison-de-campagne"]
 date = 2022-03-18T09:00:00Z
 description = "Maison de ville tranquille dans la vieille ville de Salobrena"
-image = "/images/pr3_alm_terraced_pool1400.jpg"
+image = "/images/tranquilsalobrena/tranquil1400.jpg"
 images = ["/images/tranquilsalobrena/PL682 casa2.JPG", "/images/tranquilsalobrena/PL682 casaback.JPG", "/images/tranquilsalobrena/PL682 casafront1.JPG", "/images/tranquilsalobrena/PL682 living2.JPG", "/images/tranquilsalobrena/PL682 living1.JPG", "/images/tranquilsalobrena/PL682 living3.JPG", "/images/tranquilsalobrena/PL682 cocina2.JPG", "/images/tranquilsalobrena/PL682 cocina3.JPG", "/images/tranquilsalobrena/PL682 cocina1.JPG", "/images/tranquilsalobrena/PL682 entrada.JPG", "/images/tranquilsalobrena/PL682 entrada4.JPG", "/images/tranquilsalobrena/PL682 entrada2.JPG", "/images/tranquilsalobrena/PL682 entrada3.JPG", "/images/tranquilsalobrena/PL682 dormi1.JPG", "/images/tranquilsalobrena/PL682 dromi2.JPG", "/images/tranquilsalobrena/PL682 bano1.JPG", "/images/tranquilsalobrena/PL682 bano2.JPG", "/images/tranquilsalobrena/PL682 bano3.JPG", "/images/tranquilsalobrena/PL682 vista1.JPG", "/images/tranquilsalobrena/PL682 terr1.JPG", "/images/tranquilsalobrena/PL682 terr2.JPG", "/images/tranquilsalobrena/PL682 terr3.JPG", "/images/tranquilsalobrena/PL682 vista2.JPG"]
 tags = ["Vue-sur-la-montagne", "Ville", "Terrasse-surle-toit", "Plage"]
 title = "Maison de ville tranquille dans la vieille ville de Salobrena "
@@ -32,7 +32,7 @@ type = "featured"
 
 {{< tab "Tour virtuel" >}}
 
-{{< youtube  >}}
+{{< youtube 0SVMaAR5JIU  >}}
 
 {{</ tab >}}
 
@@ -42,7 +42,7 @@ type = "featured"
 
 {{< tab "Lieu" >}}
 
-{{< image src="/images/map_arroya.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
+{{< image src="/images/maps/salobrena.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
 Situé au coeur de la vieille ville de Salobrena, à proximité des plages et à seulement une heure de l’aéroport de Malaga
 
 {{</ tab >}}

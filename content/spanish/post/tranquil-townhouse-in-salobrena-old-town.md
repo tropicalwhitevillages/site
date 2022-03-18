@@ -3,7 +3,7 @@ author = "Gillian"
 categories = ["Salobrena", "50-100", "2-dormitorio", "Casa-Adosada"]
 date = 2022-03-18T09:00:00Z
 description = "Tranquila casa adosada en el casco antiguo de Salobreña"
-image = "/images/pr3_alm_terraced_pool1400.jpg"
+image = "/images/tranquilsalobrena/tranquil1400.jpg"
 images = ["/images/tranquilsalobrena/PL682 casa2.JPG", "/images/tranquilsalobrena/PL682 casaback.JPG", "/images/tranquilsalobrena/PL682 casafront1.JPG", "/images/tranquilsalobrena/PL682 living2.JPG", "/images/tranquilsalobrena/PL682 living1.JPG", "/images/tranquilsalobrena/PL682 living3.JPG", "/images/tranquilsalobrena/PL682 cocina2.JPG", "/images/tranquilsalobrena/PL682 cocina3.JPG", "/images/tranquilsalobrena/PL682 cocina1.JPG", "/images/tranquilsalobrena/PL682 entrada.JPG", "/images/tranquilsalobrena/PL682 entrada4.JPG", "/images/tranquilsalobrena/PL682 entrada2.JPG", "/images/tranquilsalobrena/PL682 entrada3.JPG", "/images/tranquilsalobrena/PL682 dormi1.JPG", "/images/tranquilsalobrena/PL682 dromi2.JPG", "/images/tranquilsalobrena/PL682 bano1.JPG", "/images/tranquilsalobrena/PL682 bano2.JPG", "/images/tranquilsalobrena/PL682 bano3.JPG", "/images/tranquilsalobrena/PL682 vista1.JPG", "/images/tranquilsalobrena/PL682 terr1.JPG", "/images/tranquilsalobrena/PL682 terr2.JPG", "/images/tranquilsalobrena/PL682 terr3.JPG", "/images/tranquilsalobrena/PL682 vista2.JPG"]
 tags = ["Vista-Montaña", "Pueblo", "Azotea", "Playa"]
 title = "Tranquila casa adosada en Salobreña Casco antiguo "
@@ -32,7 +32,7 @@ Una propiedad tranquila situada en el casco antiguo de Salobreña. La propiedad 
 
 {{< tab "Tour Virtual" >}}
 
-{{< youtube  >}}
+{{< youtube 0SVMaAR5JIU >}}
 
 {{</ tab >}}
 
@@ -42,7 +42,7 @@ Una propiedad tranquila situada en el casco antiguo de Salobreña. La propiedad 
 
 {{< tab "Ubicacion" >}}
 
-{{< image src="/images/map_arroya.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
+{{< image src="/images/maps/salobrena.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
 Ubicado en el corazón del casco antiguo de Salobreña, cerca de playas y a solo una hora del aeropuerto de Málaga
 
 {{</ tab >}}

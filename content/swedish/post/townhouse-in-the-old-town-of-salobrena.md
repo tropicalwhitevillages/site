@@ -5,7 +5,7 @@ date = 2022-01-05T09:40:24Z
 description = "Radhus i hjärtat av Salobrenas tropiska vita by"
 image = "/images/pr7_salold_entrance1400.jpg"
 images = ["/images/pr7_salold_bedroom.jpg", "/images/pr7_salold_bedroom2.jpg", "/images/pr7_salold_toilet.jpg", "/images/pr7_salold_master.jpg", "/images/pr7_salold_master1.jpg", "/images/pr7_salold_twin.jpg", "/images/pr7_salold_living.jpg", "/images/pr7_salold_rooftop.jpg", "/images/pr7_salold_view.jpg", "/images/pr7_salold_mountains.jpg", "/images/pr7_salold_terrace2.jpg", "/images/pr7_salold_kitchen.jpg", "/images/pr7_salold_bathroom.jpg", "/images/pr7_salold_hall.jpg", "/images/pr7_salold_entrance.jpg", "/images/pr7_salold_terrace.jpg", "/images/pr7_salold_external.jpg"]
-tags = ["Takterrass", "Fjällutsikt", "Stadscentrum", "Nära stranden"]
+tags = ["Takterrass", "Bergsutsikt", "Stadscentrum", "Nära stranden"]
 title = "Radhus i Gamla stan i Salobrena"
 type = "featured"
 

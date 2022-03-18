@@ -5,7 +5,7 @@ date = 2025-02-01T09:40:24Z
 description = "Beskriv egenskapen i 1 mening"
 image = "/images/pr7_salold_entrance1400.jpg"
 images = ["/images/pr7_salold_terrace.jpg"]
-tags = ["Garage", "Utvecklingsmöjlighet", "Takterrass", "Pool", "Balkong", "Fjällutsikt"]
+tags = ["Garage", "Utvecklingsmöjlighet", "Takterrass", "Pool", "Balkong", "Bergsutsikt"]
 title = "Fastighetsmall"
 type = "featured"
 

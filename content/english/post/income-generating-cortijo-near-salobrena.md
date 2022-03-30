@@ -1,11 +1,11 @@
 +++
 author = "Gillian"
-categories = ["Country-House","Salobreña","200-300"]
+categories = ["Country-House", "Salobreña", "200-300"]
 date = 2022-03-30T09:00:00Z
 description = "Income generating Cortigo near Salobrena"
-image = "/images/pr3_alm_terraced_pool1400.jpg"
-images = ["/images/pr3_alm_terraced_door.jpg"]
-tags = ["garden","pool","mountain view","town"]
+image = "/images/salobrenalavega/TWV0110-outside1400.jpg"
+images = ["/images/salobrenalavega/TWV01101.jpg", "/images/salobrenalavega/TWV011010.jpg", "/images/salobrenalavega/TWV011012.jpg", "/images/salobrenalavega/TWV011014.jpg", "/images/salobrenalavega/TWV011015.jpg", "/images/salobrenalavega/TWV011016.jpg", "/images/salobrenalavega/TWV011018.jpg", "/images/salobrenalavega/TWV011019.jpg", "/images/salobrenalavega/TWV011020.jpg", "/images/salobrenalavega/TWV011021.jpg", "/images/salobrenalavega/TWV011022.jpg", "/images/salobrenalavega/TWV011024.jpg", "/images/salobrenalavega/TWV01107.jpg", "/images/nice_swimming_pool.jpg"]
+tags = ["garden", "pool", "mountain view", "town"]
 title = "Income generating Cortijo near Salobrena"
 type = "featured"
 
@@ -68,4 +68,3 @@ Salobrena
 </form>
 {{</ tab >}}
 {{</ tabs >}}
-

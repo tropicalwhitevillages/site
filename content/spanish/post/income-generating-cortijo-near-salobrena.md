@@ -1,10 +1,10 @@
 +++
 author = "Gillian"
-categories = ["200-300","Salobreña", "2-dormitorios", "Casa-de-Campo"]
+categories = ["200-300", "Salobreña", "2-dormitorios", "Casa-de-Campo"]
 date = 2022-03-30T09:00:00Z
 description = "Cortijo generador de ingresos cerca de Salobreña"
-image = "/images/pr3_alm_terraced_pool1400.jpg"
-images = ["/images/pr3_alm_terraced_door.jpg"]
+image = "/images/salobrenalavega/TWV0110-outside1400.jpg"
+images = ["/images/salobrenalavega/TWV011010.jpg", "/images/salobrenalavega/TWV011019.jpg", "/images/salobrenalavega/TWV01102.jpg", "/images/salobrenalavega/TWV011020.jpg", "/images/salobrenalavega/TWV011024.jpg", "/images/nice_swimming_pool.jpg"]
 tags = ["Jardín", "Piscina", "Vista-Montaña", "Pueblo", "Playa"]
 title = "Cortijo generador de ingresos cerca de Salobreña"
 type = "featured"
@@ -66,4 +66,3 @@ type = "featured"
 </form>
 {{</ tab >}}
 {{</ tabs >}}
-

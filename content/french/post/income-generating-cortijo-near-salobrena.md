@@ -3,8 +3,8 @@ author = "Gillian"
 categories = ["Salobreña", "200-300", "2-chambre", "Maison-de-campagne"]
 date = 2022-03-30T09:00:00Z
 description = "Cortijo générateur de revenus près de Salobrena"
-image = "/images/pr3_alm_terraced_pool1400.jpg"
-images = ["/images/pr3_alm_terraced_door.jpg"]
+image = "/images/salobrenalavega/TWV0110-outside1400.jpg"
+images = ["/images/salobrenalavega/TWV011010.jpg", "/images/salobrenalavega/TWV011022.jpg", "/images/salobrenalavega/TWV011024.jpg", "/images/salobrenalavega/TWV01103.jpg", "/images/nice_swimming_pool.jpg"]
 tags = ["Jardin", "Piscine", "Vue-sur-la-montagne", "Ville", "Plage"]
 title = "Cortijo générateur de revenus près de Salobrena"
 type = "featured"
@@ -66,4 +66,3 @@ type = "featured"
 </form>
 {{</ tab >}}
 {{</ tabs >}}
-

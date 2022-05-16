@@ -59,7 +59,7 @@ enable = true
 mailchimp_form_action = ""
 mailchimp_form_name = ""
 [widgets]
-sidebar = ["search", "recent-post", "about-me", "subscription", "tags", "social"]
+sidebar = ["search", "recent-post", "about-me", "tags", "subscription", "social"]
 [[social]]
 icon = "fab fa-facebook"
 link = "https://www.facebook.com/tropicalwhitevillages/"

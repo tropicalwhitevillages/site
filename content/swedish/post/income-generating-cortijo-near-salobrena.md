@@ -1,11 +1,10 @@
-
 +++
 author = "Gillian"
-categories = ["Salobreña","200-300", "2-sovrum","Hus-på-landet"]
+categories = ["Salobreña", "200-300", "2-sovrum", "Hus-på-landet"]
 date = 2022-03-30T09:00:00Z
 description = "Inkomstgenererande Cortijo nära Salobrena"
-image = "/images/pr3_alm_terraced_pool1400.jpg"
-images = ["/images/pr3_alm_terraced_door.jpg"]
+image = "/images/salobrenalavega/TWV0110-outside1400.jpg"
+images = ["/images/salobrenalavega/TWV011022.jpg", "/images/salobrenalavega/TWV011024.jpg", "/images/salobrenalavega/TWV01103.jpg", "/images/nice_swimming_pool.jpg"]
 tags = ["Trädgård", "Slå-samman", "Bergsutsikt", "Stad", "Strand"]
 title = "Inkomstgenererande Cortijo nära Salobrena"
 type = "featured"
@@ -67,4 +66,3 @@ type = "featured"
 </form>
 {{</ tab >}}
 {{</ tabs >}}
-
